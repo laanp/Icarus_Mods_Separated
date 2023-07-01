@@ -1,9 +1,9 @@
 # Icarus_Mods_Separated
 A Collection of Icarus Mods Separated 
 
-## laanp-LargerDropshipSlots_v1_w82_P.pak
+Click on the "Lastest Release" button to the right, and scroll to bottom to click on the files and download.
+*.pak files can be directly downloaded and installed in the mod directory.
 
-### Description:
-
-- Dropship cargo and Loadout slots increase from 15 - 30 
-
+## Mods Available:
+- laanp-LargerDropshipSlots - Increase Dropship slot size from 15 - 30
+- laanp_NoWeather - No storms, sunny all the time
