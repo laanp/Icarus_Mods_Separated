@@ -7,3 +7,4 @@ Click on the "Lastest Release" button to the right, and scroll to bottom to clic
 ## Mods Available:
 - laanp-LargerDropshipSlots - Increase Dropship slot size from 15 - 30
 - laanp_NoWeather - No storms, sunny all the time
+- laanp_FreeBuild - All items are free to build at all benches
