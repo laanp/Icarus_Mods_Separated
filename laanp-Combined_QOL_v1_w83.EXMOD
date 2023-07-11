@@ -1,0 +1,2224 @@
+{
+    "name": "laanp-Combined_QOL_v1_w83",
+    "author": "",
+    "version": "1.0",
+    "fileName": "laanp-Combined_QOL_v1_w83",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Character-D_CharacterGrowth.json",
+            "Defaults": {
+                "ExperienceCurve": "None",
+                "AttributeCurve": "None",
+                "BlueprintPointsPerLevel": "None",
+                "TalentPointsPerLevel": "None",
+                "SoloPointsPerLevel": "None",
+                "MaxDisplayLevel": 50000,
+                "MaxLevel": 50000
+            },
+            "File_Items": [
+                {
+                    "Name": "Player",
+                    "MaxLevel": 50000,
+                    "MaxDisplayLevel": 50000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Crafting-D_ProcessorRecipes.json",
+            "File_Items": [
+                {
+                    "Name": "Deer_Statue_Decoration_Wood",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Wood",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 10,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Scorpion_Statue_Decoration_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "PolarBear_Statue_Decoration_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Bear_Statue_Decoration_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Alpha_Sandworm_Statue_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 15,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Refined_Gold",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 10,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Cougar_Statue_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Elephant_Statue_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "SnowLeopard_Statue_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Jaguar_Statue_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Hyena_Statue_Bronze",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Piranha_Statue_Wood",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Wood",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 25,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Rabbit_Statue_Wood",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Wood",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 25,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Buffalo_Statue_Wood",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Wood",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 35,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Komodo_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 100,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Rabbit_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 100,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Caveworm_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 500,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Elephant_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 250,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Deer_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 250,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Buffalo_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 250,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Piranha_Statue_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 100,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Sulfur",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Deployables-D_DeployableSetup.json",
+            "File_Items": [
+                {
+                    "Name": "TeleporterBase",
+                    "DeployableBlueprint": "/Game/BP/Teleporter/BP_TeleporterBase.BP_TeleporterBase_C",
+                    "PreviewStaticMesh": "/Game/BP/Teleporter/SM_Teleporter_Base.SM_Teleporter_Base",
+                    "DeployedSound": "/Game/FMOD/Events/SFX/D_Deployables/SFX_DEP_GENERIC.SFX_DEP_GENERIC",
+                    "SnapToSurfaceNormal": false,
+                    "SupportsCustomRotation": false,
+                    "SnapBehaviour": "SnapPlacementOnly",
+                    "SnapActorTags": [
+                        "Building_Floor"
+                    ],
+                    "IgnoreCollisionWhenSnapped": true,
+                    "UseSnapSocketRotation": true
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Inventory-D_InventoryInfo.json",
+            "File_Items": [
+                {
+                    "Name": "Processor",
+                    "StartingSlots": 48
+                },
+                {
+                    "Name": "Space_Player_Loadout",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "Campfire",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "DropShip_Equipment",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "Refrigerator",
+                    "StartingSlots": 48
+                },
+                {
+                    "Name": "Storage_Wood_Crate_Small",
+                    "StartingSlots": 72
+                },
+                {
+                    "Name": "Storage_Wood_Crate_Medium",
+                    "StartingSlots": 72
+                },
+                {
+                    "Name": "Storage_Metal_Crate_Small",
+                    "StartingSlots": 72
+                },
+                {
+                    "Name": "Storage_Metal_Crate_Medium",
+                    "StartingSlots": 72
+                },
+                {
+                    "Name": "Storage_Wood_Cupboard",
+                    "StartingSlots": 72
+                },
+                {
+                    "Name": "Storage_Metal_Cupboard",
+                    "StartingSlots": 72
+                },
+                {
+                    "Name": "Firepit",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "Fireplace",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "Drying_Rack",
+                    "StartingSlots": 36
+                },
+                {
+                    "Name": "Deep_Freeze",
+                    "StartingSlots": 48
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Titanium_Pickaxe",
+                    "AdditionalStats": {
+                        "(Value=\"BaseMiningRewards_%\")": 20,
+                        "(Value=\"BaseAttackSpeed_+%\")": 35
+                    }
+                },
+                {
+                    "Name": "Titanium_Axe",
+                    "AdditionalStats": {
+                        "(Value=\"BaseWoodCarryWeight_+%\")": -50,
+                        "(Value=\"BaseAttackSpeed_+%\")": 35
+                    }
+                },
+                {
+                    "Name": "Titanium_Knife",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttackSpeed_+%\")": 35,
+                        "(Value=\"BaseWoundResistance_%\")": 100,
+                        "(Value=\"BasePrimeMeatDropChance_%\")": 100
+                    }
+                },
+                {
+                    "Name": "Meta_Ration",
+                    "Meshable": {
+                        "RowName": "Mesh_Jimk_Teleporter"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_Jimk_Teleporter"
+                    },
+                    "Consumable": {
+                        "RowName": "Jimk_Teleporter"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_Canteen_Shengong",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Water"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Water"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Water"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Water"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Fillable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_Oxygen_Tank_Shengong",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Oxygen.OxygenTank"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Oxygen"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Oxygen.OxygenTank"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Oxygen"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Fillable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_Axe_Inaris_Alpha",
+                    "AdditionalStats": {
+                        "(Value=\"BaseWoodCarryWeight_+%\")": -50,
+                        "(Value=\"BaseAttackSpeed_+%\")": 35
+                    }
+                },
+                {
+                    "Name": "Meta_Knife_Inaris_Alpha",
+                    "AdditionalStats": {
+                        "(Value=\"BaseWoundResistance_%\")": 100,
+                        "(Value=\"BaseAttackSpeed_+%\")": 35,
+                        "(Value=\"BasePrimeMeatDropChance_%\")": 100
+                    }
+                },
+                {
+                    "Name": "Meta_Pickaxe_Inaris_Alpha",
+                    "AdditionalStats": {
+                        "(Value=\"BaseOverencumberedPenalty_+%\")": -100,
+                        "(Value=\"BaseMiningRewards_%\")": 20,
+                        "(Value=\"BaseAttackSpeed_+%\")": 35
+                    }
+                },
+                {
+                    "Name": "Meta_Furnace_Printed",
+                    "Processing": {
+                        "RowName": "Meta_Furnace_Printed"
+                    },
+                    "AdditionalStats": {
+                        "(Value=\"BaseEnergyTransmutationResourceCost_+%\")": -25,
+                        "(Value=\"BaseCraftingSpeed_+%\")": 500
+                    }
+                },
+                {
+                    "Name": "Meta_Carrot_Seed",
+                    "Itemable": {
+                        "RowName": "Item_Meta_Loadout_Kit"
+                    },
+                    "Consumable": {
+                        "RowName": "Item_Meta_Loadout_Kit"
+                    }
+                },
+                {
+                    "Name": "Meta_Berry_Seed",
+                    "Itemable": {
+                        "RowName": "Item_Meta_Cabin_Kit"
+                    },
+                    "Consumable": {
+                        "RowName": "Item_Meta_Cabin_Kit"
+                    }
+                },
+                {
+                    "Name": "Meta_Wheat_Seed",
+                    "Itemable": {
+                        "RowName": "Item_Meta_AllSeeds"
+                    },
+                    "Consumable": {
+                        "RowName": "Item_Meta_AllSeeds"
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Larkwell",
+                    "AdditionalStats": {
+                        "(Value=\"BaseHardenedPointDamage_+%\")": 25,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 10,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 15
+                    }
+                },
+                {
+                    "Name": "TeleporterHandHeld",
+                    "Meshable": {
+                        "RowName": "Mesh_TeleporterHandHeld"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_TeleporterHandHeld"
+                    },
+                    "Interactable": {
+                        "RowName": "Item"
+                    },
+                    "Focusable": {
+                        "RowName": "Focusable_TeleporterHandHeld"
+                    },
+                    "Highlightable": {
+                        "RowName": "Generic"
+                    },
+                    "Actionable": {
+                        "RowName": "TeleporterHandHeld"
+                    },
+                    "Decayable": {
+                        "RowName": "Decay_General"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Tool"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Tool"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "TeleporterBase",
+                    "Meshable": {
+                        "RowName": "Mesh_TeleporterBase"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_TeleporterBase"
+                    },
+                    "Interactable": {
+                        "RowName": "Deployable_NoInteract"
+                    },
+                    "Focusable": {
+                        "RowName": "Focusable_1H"
+                    },
+                    "Highlightable": {
+                        "RowName": "Generic"
+                    },
+                    "Actionable": {
+                        "RowName": "Deployable"
+                    },
+                    "Usable": {
+                        "RowName": "Place"
+                    },
+                    "Deployable": {
+                        "RowName": "TeleporterBase"
+                    },
+                    "Durable": {
+                        "RowName": "Deployable_5000"
+                    },
+                    "Floatable": {
+                        "RowName": "Items"
+                    },
+                    "Decayable": {
+                        "RowName": "Decay_Deployable"
+                    },
+                    "Weight": {
+                        "RowName": "LightDeployable"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemTemplate.json",
+            "Defaults": {
+                "ItemStaticData": {
+                    "RowName": "None",
+                    "DataTableName": "D_ItemsStatic"
+                },
+                "ItemDynamicData": [],
+                "CustomProperties": {
+                    "StaticWorldStats": [],
+                    "StaticWorldHeldStats": [],
+                    "Stats": [],
+                    "Alterations": []
+                },
+                "DatabaseGUID": "",
+                "RuntimeTags": {
+                    "GameplayTags": []
+                }
+            },
+            "File_Items": [
+                {
+                    "Name": "Meta_Canteen_Shengong",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "Fillable_Type",
+                            "Value": 2
+                        },
+                        {
+                            "PropertyType": "Fillable_StoredUnits",
+                            "Value": 6500
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Oxygen_Tank_Shengong",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "Fillable_Type",
+                            "Value": 4
+                        },
+                        {
+                            "PropertyType": "Fillable_StoredUnits",
+                            "Value": 6500
+                        }
+                    ]
+                },
+                {
+                    "Name": "Biofuel_Can_Meta",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "Fillable_Type",
+                            "Value": 3
+                        },
+                        {
+                            "PropertyType": "Fillable_StoredUnits",
+                            "Value": 1000000000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Arrow_Larkwell_Standard_x25",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 100000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Rhubarb_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Kumara_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Strawberry_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Avocado_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Berry_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Bean_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Carrot_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Lily_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Lily"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Reed_Flower_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Reed_Flower"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Yeast_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Yeast"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Corn_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Pumpkin_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Mushroom_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Squash_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Watermelon_Pack",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Cocoa_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Cocoa"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Coffee_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Coffee"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "WildTea_Pack",
+                    "ItemStaticData": {
+                        "RowName": "WildTea"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "TeleporterHandHeld",
+                    "ItemStaticData": {
+                        "RowName": "TeleporterHandHeld"
+                    }
+                },
+                {
+                    "Name": "TeleporterBase",
+                    "ItemStaticData": {
+                        "RowName": "TeleporterBase"
+                    }
+                },
+                {
+                    "Name": "Jimk_Teleporter",
+                    "ItemStaticData": {
+                        "RowName": "Jimk_Teleporter"
+                    }
+                },
+                {
+                    "Name": "Stone_Floor_x30",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Floor"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 30
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Wall_x20",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Wall"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Ramp_x20",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Ramp"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Wall_Angle_x4",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Wall_Angle"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 4
+                        }
+                    ]
+                },
+                {
+                    "Name": "Concrete_Beam_X",
+                    "ItemStaticData": {
+                        "RowName": "Concrete_Beam"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 40
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Furnace_x2",
+                    "ItemStaticData": {
+                        "RowName": "Kit_Stone_Furnace"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Module_Movement_X",
+                    "ItemStaticData": {
+                        "RowName": "Meta_Module_Movement"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Arrow_Set_Larkwell_Standard_X",
+                    "ItemStaticData": {
+                        "RowName": "Meta_Arrow_Set_Larkwell_Standard"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Ration_X",
+                    "ItemStaticData": {
+                        "RowName": "Meta_Ration"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Antibiotic_Tonic_X",
+                    "ItemStaticData": {
+                        "RowName": "Antibiotic_Tonic"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Antipoison_Tonic_X",
+                    "ItemStaticData": {
+                        "RowName": "Antipoison_Tonic"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stringy_Meat_Dried_X",
+                    "ItemStaticData": {
+                        "RowName": "Stringy_Meat_Dried"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "MetaWorkshop-D_WorkshopItems.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_Envirosuit2",
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Carrot_Seed",
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Berry_Seed",
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Wheat_Seed",
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Stats-D_CharacterStartingStats.json",
+            "File_Items": [
+                {
+                    "Name": "Base_Stats",
+                    "StatsGranted": {
+                        "(Value=\"BaseMaximumHealth_+\")": 500,
+                        "(Value=\"BaseMaximumStamina_+\")": 500,
+                        "(Value=\"BaseWeightCapacity_+\")": 1000,
+                        "(Value=\"BaseMaximumOxygen_+\")": 300,
+                        "(Value=\"BaseMaximumFood_+\")": 300,
+                        "(Value=\"BaseMaximumWater_+\")": 300,
+                        "(Value=\"BaseMovementSpeed_+\")": 450,
+                        "(Value=\"SprintMovementSpeedCoefficient_%\")": 275,
+                        "(Value=\"BaseFoodConsumptionPerMinute_+\")": 10,
+                        "(Value=\"CrouchMovementSpeedCoefficient_%\")": 75,
+                        "(Value=\"BaseWaterConsumptionPerMinute_+\")": 15,
+                        "(Value=\"BaseOxygenConsumptionPerMinute_+\")": 8,
+                        "(Value=\"BaseStaminaRegenFromEmptyDelay_+\")": 0,
+                        "(Value=\"BaseHealthRegenPerMinute_+\")": 100,
+                        "(Value=\"BaseStaminaRegenDelay_+\")": 200,
+                        "(Value=\"BaseMinimumFallDamage_%\")": 0,
+                        "(Value=\"BaseMaximumFallDamage_%\")": 0,
+                        "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1000,
+                        "(Value=\"BaseMaximumFallDamageVelocity_+\")": 2250,
+                        "(Value=\"IsTemperatureEnabled_?\")": 1,
+                        "(Value=\"BaseInternalRestingTemperature_+\")": 3600,
+                        "(Value=\"BaseMinimumInternalTemperature_+\")": -1600,
+                        "(Value=\"BaseMaximumInternalTemperature_+\")": 6600,
+                        "(Value=\"BaseInternalTemperatureSafeRegionMinimum_+\")": 800,
+                        "(Value=\"BaseInternalTemperatureSafeRegionMaximum_+\")": 4200,
+                        "(Value=\"BaseCooldownDegreePerMinute_+\")": 25,
+                        "(Value=\"BaseWarmupDegreePerMinute_+\")": 25,
+                        "(Value=\"BaseColdResistance_%\")": 0,
+                        "(Value=\"BaseHeatResistance_%\")": 0,
+                        "(Value=\"BaseDeltaTemperatureResistance_%\")": 2,
+                        "(Value=\"BaseMaxDeltaTemperatureResistance_%\")": 50,
+                        "(Value=\"BaseStealthDamage_+%\")": 300,
+                        "(Value=\"BasePartialStealthDamage_+%\")": 150,
+                        "(Value=\"BaseStaminaConsumed_+%\")": 0,
+                        "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+                        "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+                        "(Value=\"MapCanSeeSelf_?\")": 1,
+                        "(Value=\"MapCanSeeBroadcastOthers_?\")": 1,
+                        "(Value=\"MapIsBroadcastingForMap_?\")": 1,
+                        "(Value=\"CanSeeOtherPlayersBillboards_?\")": 0,
+                        "(Value=\"IsBroadcastingForBillboards_?\")": 0,
+                        "(Value=\"MapCanSeeVisualMap_?\")": 1,
+                        "(Value=\"MapCanSeeTopographicalMap_?\")": 1,
+                        "(Value=\"CanSeeCompass_?\")": 1,
+                        "(Value=\"MapCanSeeDropship_?\")": 1,
+                        "(Value=\"MapCanMakeWaypoint_?\")": 1,
+                        "(Value=\"MapCanSeeWaypoint_?\")": 1,
+                        "(Value=\"CanSeeSOS_?\")": 0,
+                        "(Value=\"CanSeeHealth_?\")": 0,
+                        "(Value=\"CanBroadcastHealth_?\")": 0,
+                        "(Value=\"CanSeeStatuses_?\")": 0,
+                        "(Value=\"CanBroadcastStatuses_?\")": 0,
+                        "(Value=\"MapCanSeeRadars_?\")": 1,
+                        "(Value=\"MapCanSeeBuildings_?\")": 0,
+                        "(Value=\"MapCanSeeGraves_?\")": 1,
+                        "(Value=\"BaseCriticalDamage_+%\")": 300,
+                        "(Value=\"SwimMovementSpeedCoefficient_%\")": 100,
+                        "(Value=\"SwimSprintMovementSpeedCoefficient_%\")": 200,
+                        "(Value=\"ClimbMovementSpeedCoefficient_%\")": 100,
+                        "(Value=\"ClimbSprintMovementSpeedCoefficient_%\")": 350,
+                        "(Value=\"BaseCollisionDamageResistance_%\")": 25,
+                        "(Value=\"BaseMaximumStomachFullness_+\")": 5,
+                        "(Value=\"BaseCharacterMass_+\")": 110,
+                        "(Value=\"BaseStaminaRegenPerMinute_+\")": 4000,
+                        "(Value=\"ChanceToResistSprain_%\")": 100,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 35,
+                        "(Value=\"CanUseBedsToRespawn_?\")": 1,
+                        "(Value=\"BaseRespawnDelay_+\")": 20,
+                        "(Value=\"BaseRespawnDistance_+\")": 200,
+                        "(Value=\"CanStealthAttack_?\")": 1,
+                        "(Value=\"BaseHardenedPointDamage_+%\")": -75
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Tools-D_Actions.json",
+            "File_Items": [
+                {
+                    "Name": "ShowUMG_Options",
+                    "Behaviour": "BlueprintGeneratedClass'/Game/BP/Behaviours/Actionable/BP_Actionable_Behaviour_ShowUMG.BP_Actionable_Behaviour_ShowUMG_C'"
+                },
+                {
+                    "Name": "TeleporterHandHeld_Main",
+                    "Behaviour": "BlueprintGeneratedClass'/Game/BP/Behaviours/Actionable/BP_Actionable_Teleport_Primary.BP_Actionable_Teleport_Primary_C'"
+                },
+                {
+                    "Name": "TeleporterHandHeld_Secondary",
+                    "Behaviour": "BlueprintGeneratedClass'/Game/BP/Behaviours/Actionable/BP_Actionable_Teleport_Secondary.BP_Actionable_Teleport_Secondary_C'"
+                },
+                {
+                    "Name": "TeleporterHandHeld_Reload",
+                    "Behaviour": "BlueprintGeneratedClass'/Game/BP/Behaviours/Actionable/BP_Actionable_Teleport_Reset.BP_Actionable_Teleport_Reset_C'"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Actionable.json",
+            "File_Items": [
+                {
+                    "Name": "Melee_Fists",
+                    "ActionMapping": {
+                        "(RowName=\"Melee_Fists\",DataTableName=\"D_Actions\")": {
+                            "InputTypes": {
+                                "Primary": {
+                                    "RowName": "Generic_Melee_1H",
+                                    "DataTableName": "D_StaminaActionCosts"
+                                }
+                            },
+                            "ModifierState": {
+                                "RowName": "None",
+                                "DataTableName": "D_ModifierStates"
+                            }
+                        },
+                        "(RowName=\"ShowUMG_Options\",DataTableName=\"D_Actions\")": {
+                            "InputTypes": {
+                                "Secondary": {
+                                    "RowName": "None",
+                                    "DataTableName": "D_StaminaActionCosts"
+                                }
+                            },
+                            "ModifierState": {
+                                "RowName": "None",
+                                "DataTableName": "D_ModifierStates"
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "TeleporterHandHeld",
+                    "ActionMapping": {
+                        "(RowName=\"TeleporterHandHeld_Main\",DataTableName=\"D_Actions\")": {
+                            "InputTypes": {
+                                "Primary": {
+                                    "RowName": "None",
+                                    "DataTableName": "D_StaminaActionCosts"
+                                }
+                            },
+                            "ModifierState": {
+                                "RowName": "None",
+                                "DataTableName": "D_ModifierStates"
+                            }
+                        },
+                        "(RowName=\"TeleporterHandHeld_Secondary\",DataTableName=\"D_Actions\")": {
+                            "InputTypes": {
+                                "Secondary": {
+                                    "RowName": "None",
+                                    "DataTableName": "D_StaminaActionCosts"
+                                }
+                            },
+                            "ModifierState": {
+                                "RowName": "None",
+                                "DataTableName": "D_ModifierStates"
+                            }
+                        },
+                        "(RowName=\"TeleporterHandHeld_Reload\",DataTableName=\"D_Actions\")": {
+                            "InputTypes": {
+                                "Reload": {
+                                    "RowName": "None",
+                                    "DataTableName": "D_StaminaActionCosts"
+                                }
+                            },
+                            "ModifierState": {
+                                "RowName": "None",
+                                "DataTableName": "D_ModifierStates"
+                            }
+                        }
+                    },
+                    "bUseClientPrediction": true
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Armour.json",
+            "File_Items": [
+                {
+                    "Name": "IO_Undersuit_Tier2",
+                    "ArmourStats": {
+                        "(Value=\"BaseUpgradeSlots_+\")": 4,
+                        "(Value=\"BaseOxygenSlots_+\")": 1,
+                        "(Value=\"BaseFoodSlots_+\")": 1,
+                        "(Value=\"BaseWaterSlots_+\")": 1,
+                        "(Value=\"BaseHeatResistance_%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 20,
+                        "(Value=\"BasePhysicalDamageResistance_%\")": 10,
+                        "(Value=\"BaseAnimalThreatModifier_+%\")": -10
+                    }
+                },
+                {
+                    "Name": "Undersuit_Shengong",
+                    "ArmourStats": {
+                        "(Value=\"BaseUpgradeSlots_+\")": 4,
+                        "(Value=\"BaseOxygenSlots_+\")": 1,
+                        "(Value=\"BaseFoodSlots_+\")": 1,
+                        "(Value=\"BaseWaterSlots_+\")": 1,
+                        "(Value=\"BaseHeatResistance_%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 20,
+                        "(Value=\"BasePhysicalDamageResistance_%\")": 10,
+                        "(Value=\"BaseAnimalThreatModifier_+%\")": -10
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Consumable.json",
+            "File_Items": [
+                {
+                    "Name": "Item_Meta_Cabin_Kit",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Stone_Floor_x30",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Wall_x20",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Wall_Angle_x4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Ramp_x20",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Reinforced_Door",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Bed_Bedroll",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Campfire",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Herbalism_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Furnace_x2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Furnace_Printed",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Kit_Mortar_And_Pestle",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Concrete_Beam_X",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Masonry_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Crafting_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Anvil_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Item_Meta_Loadout_Kit",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Meta_Module_Movement_X",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Module_Animal_Healthbar",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Arrow_Set_Larkwell_Standard",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Ration_X",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Carbon_Armor_Arms_Alpha",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Carbon_Armor_Chest_Alpha",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Carbon_Armor_Legs_Alpha",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Carbon_Armor_Helmet_Alpha",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Carbon_Armor_Feet_Alpha",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Mining_Backpack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Pickaxe",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Axe",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Knife",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Bow_Larkwell",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Wood_Flare",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Antibiotic_Tonic_X",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Antipoison_Tonic_X",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stringy_Meat_Dried_X",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Biofuel_Can_Meta",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Oxygen_Tank_Shengong",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Meta_Canteen_Shengong",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Jimk_Teleporter",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "TeleporterHandHeld",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "TeleporterBase",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Item_Meta_AllSeeds",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Rhubarb_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Kumara_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Strawberry_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Avocado_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Berry_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Carrot_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Bean_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Lily_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Reed_Flower_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Yeast_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Corn_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Pumpkin_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Mushroom_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Squash_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Watermelon_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Cocoa_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Coffee_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "WildTea_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Deployable.json",
+            "File_Items": [
+                {
+                    "Name": "TeleporterBase",
+                    "Variants": [
+                        {
+                            "RowName": "TeleporterBase",
+                            "DataTableName": "D_DeployableSetup"
+                        }
+                    ],
+                    "EffectedByWeather": false
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Durable.json",
+            "File_Items": [
+                {
+                    "Name": "Titanium_Axe",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Meta_Axe",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Titanium_Pickaxe",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Meta_Pickaxe",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Titanium_Knife",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Meta_Knife",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Compound_Bow",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Meta_Item_Shengong",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Meta_Item_Inaris",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Meta_Item_Larkwell",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Wood_Flare",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Titanium_Sickle",
+                    "Max_Durability": 10000000
+                },
+                {
+                    "Name": "Rifle_Hunting",
+                    "Max_Durability": 10000000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Energy.json",
+            "File_Items": [
+                {
+                    "Name": "Generator",
+                    "ResourceFlowRate": 50000
+                },
+                {
+                    "Name": "Electric_Furnace",
+                    "AutoActivate": true
+                },
+                {
+                    "Name": "WaterWheel_Generator",
+                    "ResourceFlowRate": 50000
+                },
+                {
+                    "Name": "Water_Pump_Energy",
+                    "ResourceFlowRate": 500
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Equippable.json",
+            "File_Items": [
+                {
+                    "Name": "Module_MovementSpeed",
+                    "GrantedStats": {
+                        "(Value=\"BaseMovementSpeed_+%\")": 50
+                    }
+                },
+                {
+                    "Name": "Mining_Backpack",
+                    "GrantedStats": {
+                        "(Value=\"BaseOreCarryWeight_+%\")": -65,
+                        "(Value=\"BaseWoodCarryWeight_+%\")": -65,
+                        "(Value=\"BaseBackpackSlots_+\")": 18
+                    }
+                },
+                {
+                    "Name": "Module_Animal_Healthbar",
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 100,
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 100
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Fillable.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_Biofuel_Can",
+                    "MaximumStoredUnits": 100000000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Focusable.json",
+            "File_Items": [
+                {
+                    "Name": "Focusable_TeleporterHandHeld",
+                    "Behaviour": "/Game/BP/Behaviours/Focusable/BP_FocusableBehaviour.BP_FocusableBehaviour_C",
+                    "AttachmentData": {
+                        "RowName": "GeneralRight"
+                    },
+                    "AttachmentOffset": {
+                        "Rotation": {
+                            "X": 0.6077443957328796,
+                            "Y": -0.39130380749702454,
+                            "Z": 0.5099575519561768,
+                            "W": 0.4663381576538086
+                        },
+                        "Translation": {
+                            "X": 0,
+                            "Y": 0
+                        }
+                    },
+                    "AnimOverlayType": "OneHanded",
+                    "AnimationData": {
+                        "RowName": "1HWEP"
+                    },
+                    "FPFocusedMontage": "/Game/ASS/CHA/1ST/1ST_NewRig/1ST_CHA_1HOreScanner_Equip_Montage.1ST_CHA_1HOreScanner_Equip_Montage",
+                    "FPIdleAnim": "/Game/ASS/CHA/1ST/1ST_NewRig/1ST_CHA_1HOreScanner_Idle.1ST_CHA_1HOreScanner_Idle",
+                    "TPFocusedMontage": "/Game/ASS/CHA/Human/3RD/Animations/3RD_CHA_1HOreScannerEquip_Montage.3RD_CHA_1HOreScannerEquip_Montage",
+                    "TPUprightIdle": "/Game/ASS/CHA/Human/3RD/Animations/3ST_CHA_1HOreScanner_Idle.3ST_CHA_1HOreScanner_Idle",
+                    "TPCrouchedIdle": "/Game/ASS/CHA/Human/3RD/Animations/3RD_CHA_MAL_CrouchIdle.3RD_CHA_MAL_CrouchIdle"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Generator.json",
+            "File_Items": [
+                {
+                    "Name": "Kit_Generator_Energy_Generator",
+                    "GenerationRate": 50000,
+                    "GenerationRatio": 75000
+                },
+                {
+                    "Name": "Water_Pump_Generator",
+                    "GenerationRate": 5000
+                },
+                {
+                    "Name": "WaterWheel_Generator",
+                    "GenerationRate": 50000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Itemable.json",
+            "File_Items": [
+                {
+                    "Name": "Item_Module_Animal_Healthbars",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Module_Animal_Healthbars-DisplayName\", \"Pete's Resource Killer Module\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Modules/ITEM_Module_Generic_2.ITEM_Module_Generic_2",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Module_Animal_Healthbars-Description\", \"Destroy trees, rocks and ores with one hit!\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Module_Animal_Healthbars-FlavorText\", \"Rome wasn\\'t built in a day, but this will get you there quicker!\")"
+                },
+                {
+                    "Name": "Item_Meta_Arrow_Larkwell_Standard",
+                    "Weight": 0,
+                    "MaxStack": 100000
+                },
+                {
+                    "Name": "Item_TeleporterHandHeld",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Teleporter-DisplayName\", \"Teleporter Transmiter\")",
+                    "Icon": "/Game/BP/Teleporter/ITEM_TeleporterHaldHald.ITEM_TeleporterHaldHald",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Teleporter-Description\", \"Fast travel in Icarus.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Teleporter-FlavorText\", \"Trigger returns to base, R stores location, Right click takes you to stored location.\")",
+                    "Weight": 0
+                },
+                {
+                    "Name": "Item_Jimk_Teleporter",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Jimk_Teleporter-DisplayName\", \"Teleporter Kit\")",
+                    "Icon": "/Game/BP/Teleporter/Item_Jimk_Teleporter.Item_Jimk_Teleporter",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Jimk_Teleporter-Description\", \"All the tools you need for fast travel!\")",
+                    "Weight": 0
+                },
+                {
+                    "Name": "Item_TeleporterBase",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_TeleporterBase-DisplayName\", \"Teleporter Base\")",
+                    "Icon": "/Game/BP/Teleporter/ITEM_TeleporterBase.ITEM_TeleporterBase",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_TeleporterBase-Description\", \"Place anywhere you want to travel back too!\")",
+                    "Weight": 0
+                },
+                {
+                    "Name": "Item_Meta_Cabin_Kit",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Cabin_Kit-DisplayName\", \"Pete's Starter Cabin Kit\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Stone_Wall_0.ITEM_Stone_Wall_0",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Cabin_Kit-Description\", \"Pete's Starter Cabin Kit - Everything needed for a 3x4 stone base, plus extra floors/ramps/stuff.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Cabin_Kit-FlavorText\", \"Be prepared!\")",
+                    "Weight": 100
+                },
+                {
+                    "Name": "Item_Meta_Loadout_Kit",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Loadout_Kit-DisplayName\", \"Pete's Starter Loadout Kit\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/ITEM_Carbon_Head_V1.ITEM_Carbon_Head_V1",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Loadout_Kit-Description\", \"Pete's Starter Loadout Kit - Everything needed to start a prospect - Suit, equipment, fuel...\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Loadout_Kit-FlavorText\", \"Let's Go!\")",
+                    "Weight": 100
+                },
+                {
+                    "Name": "Item_Meta_AllSeeds",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AllSeeds-DisplayName\", \"Pete's All Seeds Farming Packet\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Rhubarb.ITEM_Rhubarb",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AllSeeds-Description\", \"Right click to open packets of all seeds for off-world farming\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AllSeeds-FlavorText\", \"Right click to open\")",
+                    "Weight": 10
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Meshable.json",
+            "File_Items": [
+                {
+                    "Name": "Mesh_TeleporterHandHeld",
+                    "ItemMesh": "/Game/BP/Teleporter/SK_ITM_Teleporter.SK_ITM_Teleporter",
+                    "EquipHandMesh": "/Game/BP/Teleporter/SK_ITM_Teleporter.SK_ITM_Teleporter"
+                },
+                {
+                    "Name": "Mesh_TeleporterBase",
+                    "ItemMesh": "/Game/BP/Teleporter/SM_Teleporter_Base.SM_Teleporter_Base",
+                    "EquipHandMesh": "/Game/Assets/3DArt/Interactables/Items/DummyCube/SK_dummy_cube.SK_dummy_cube",
+                    "DeployableActor": "/Game/BP/Teleporter/BP_TeleporterBase.BP_TeleporterBase_C "
+                },
+                {
+                    "Name": "Mesh_Jimk_Teleporter",
+                    "ItemMesh": "/Game/Assets/3DArt/Interactables/Items/StaticMeshes/SM_wooden_crate.SM_wooden_crate",
+                    "EquipHandMesh": "/Game/Assets/3DArt/Interactables/Items/DummyCube/SK_dummy_cube.SK_dummy_cube"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Processing.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_Furnace_Printed",
+                    "DefaultRecipeSet": {
+                        "RowName": "Electric_Furnace"
+                    },
+                    "AutoSelectRecipe": true,
+                    "ManualActivation": true,
+                    "MaxMilliwattage": 1000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Water.json",
+            "File_Items": [
+                {
+                    "Name": "Pump",
+                    "ResourceFlowRate": 5000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+
