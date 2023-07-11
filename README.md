@@ -13,7 +13,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 
 ## Mods Available:
 _______________________________________________________________________________________________________________________________________________________________________
-### laanp-laanp-Combined_QOL_v1_w83_P.pak
+### laanp-Combined_QOL_v1_w83_P.pak
 Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
     
 #### 1. laanp changes: 
