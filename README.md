@@ -4,9 +4,7 @@ Compatible with Icarus Version: Rev. 1.3.5.113110 (Week: 83)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
-RECOMMENDED: Download the [Icarus Mod Manager by Jim72](https://github.com/Jimk72/Icarus_Software). It will allow you to easily and conveniently 
-install, remove, merge, and update any mods you use! Mods can be updated every week simply by updating the data folder and then updating the 
-installed mods without the need to re-download versions of them. 
+RECOMMENDED: Download the [Icarus Mod Manager by Jim72](https://github.com/Jimk72/Icarus_Software). It will allow you to easily and conveniently install, remove, merge, and update any mods you use! Mods can be updated every week simply by updating the data folder and then updating the installed mods without the need to re-download versions of them. 
 
 Visit the [Linkarus Discord community](https://discord.gg/linkarus-icarus-modding-936621749733302292) for news, help, and other stuff 
 regarding the modding community for the game!
@@ -14,8 +12,8 @@ regarding the modding community for the game!
 To download the *.pak file or *.EXMOD file, click on "Latest" Release button to the right of this page.
 
 ## Mods Available:
-
-### laanp-laanp-Combined_QOL
+_______________________________________________________________________________________________________________________________________________________________________
+### laanp-laanp-Combined_QOL_v1_w83_P.pak
 Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
     
 #### 1. laanp changes: 
@@ -122,6 +120,13 @@ Activate photo mode by hitting Numpad8
 Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
 _______________________________________________________________________________________________________________________________________________________________________
 
+### laanp-NoWeather_v1_w83_P.pak
+- Removes all weather from the game.
+- Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
+- Can be used with all other mods, as long as they do not modify any of the weather json files.
+
+_______________________________________________________________________________________________________________________________________________________________________
+
 
 ## Installation Details
 
@@ -170,7 +175,7 @@ the place and not in your inventory!  This is expected behaviour.
 
 ### Equipment Retrieval
 None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
-You need to spend the $1 it costs at the Workshop to buy the kits, before launching any mission, Open World, or Outpost. 
+You need to purchase the kits at the Workshop, before launching any mission, Open World, or Outpost. 
 
 ## Youtube Links on Overview & How To Use:
 - [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
