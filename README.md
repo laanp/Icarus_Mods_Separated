@@ -11,6 +11,8 @@ installed mods without the need to re-download versions of them.
 Visit the [Linkarus Discord community](https://discord.gg/linkarus-icarus-modding-936621749733302292) for news, help, and other stuff 
 regarding the modding community for the game!
 
+To download the *.pak file or *.EXMOD file, click on "Latest" Release button to the right of this page.
+
 ## Mods Available:
 
 ### laanp-laanp-Combined_QOL
