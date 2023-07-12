@@ -32,12 +32,12 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
 - "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
   simply remove the module from suit auxilliary slot, to mine normally.
-- "Pete's All Seeds Farming Packet" - Workshop replacement of Wheat Seeds - Contains all seeds, including OW mission reward seeds.
 - Changed the basic Xigo S5-II suit, as well as the "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance 
 - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary bench
-  - Adds the workshop purchasable (instead of Berries) the "Pete's Starter Stone Cabin Kit" - a starter kit including:
+- Adds The Following Workshop Kits:
+  - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
     - (30) Stone Floors
     - (20) Stone Ramps	
     - (20) Stone Walls
@@ -54,7 +54,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (2) Stone Furnaces
     - (1) Anvil
     - (1) Masonry Bench
-  - Adds the workshop purchasable (instead of carrots) the "Pete's Starter Loadout Kit" - a starter loadout kit including:
+  
+  - "Pete's Starter Loadout Kit" - Workshop replacement of "Carrot Farming Packet" - Contains the following:
     - ST-700 Arms Armor
     - ST-700 Chest Armor
     - ST-700 Feet Armor
@@ -76,7 +77,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (2) Mass Dampener Modules (50% speed increase each)
     - (2) Micromeal (turns into the Teleporter Kit)
     - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
-  - Adds the workshop purchasable (instead of wheat) the "Pete's All Seeds Farming Packet" - a farming seed kit that expands to:
+
+  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -100,24 +102,25 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
 Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
 - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
-- Right-mouse button when fists equipped to bring up menu.
+- Hit "H" key to bring up the hands in the hud.
+- Right-mouse button to bring up Custom Options menu.
 - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
 - Allows temporary removal of all nearby caveworms (until next spawn time)
 - An option to clear all weather 
 - An option to put out all fires
 - An option to leave via dropshop from anywhere
 
-
 #### 3.  Teleporter (JimK72)
-A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
-This kit unbundles to a teleporter base and handheld remote you can use in-game
-If you purchase 2 x Teleporter bundle kits, it allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
-while holding the remote. Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running
+- A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
+- This kit unbundles to a teleporter base and handheld remote you can use in-game.
+- This mod provides Teleporter kit available for purchase in the Workshop, and allows 2-way teleportation, walking over base unit or left-mouse click with remote equipped.
+- This mod includes 2 x Teleporter bundle kits, in the "Pete's Starter Loadout Kit", allowing 2 x 2-way teleport location options, using left-mouse, or right-mouse click with the remote equipped.
+- Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running.
 
 #### 4.  Clear_Photo_Lens (JimK72)
-A mod by JimK72 that extends distance limitation in camera mode, as well as removes the camera reticle & menu items
-Activate photo mode by hitting Numpad8
-Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
+- A mod by JimK72 that extends distance limitation in camera mode, as well as removes the camera reticle & menu items
+- Activate photo mode by hitting Numpad8
+- Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
 _______________________________________________________________________________________________________________________________________________________________________
 
 ### laanp-NoWeather_v1_w83_P.pak
