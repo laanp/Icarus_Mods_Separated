@@ -20,7 +20,7 @@
       "compatibility": "w83",
       "description": "Clears all weather, sunny all the time!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w83/laanp_NoWeather_v1_w83_P.pak",
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w83/laanp_NoWeather_v1_w83_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w83/laanp-NoWeather-Readme.md"
