@@ -15,7 +15,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 
 ### laanp-Combined_QOL_v1_w83_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
-- Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md) for all the details.
+- Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
 ### laanp-NoWeather_v1_w83_P.pak
 - Removes all weather from the game.
