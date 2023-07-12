@@ -12,121 +12,44 @@ regarding the modding community for the game!
 To download the *.pak file or *.EXMOD file, click on "Latest" Release button to the right of this page.
 
 ## Mods Available:
-_______________________________________________________________________________________________________________________________________________________________________
+
 ### laanp-Combined_QOL_v1_w83_P.pak
-Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
-    
-#### 1. laanp changes: 
-- No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
-- 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
-- O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
-- Workshop MXC BioFuel Canister can be purchased and will autofill with 100M units (can run a generator for a long time!)
-- Workshop MXC Furnace has been modified (smelts faster than the electric furnace, and can be portable, not affected by weather) 
-- Dropship cargo and Loadout slots increase from 15 - 30 
-- Bigger slot sizes for benches, fireplace, firepit, campfire, furnaces, wood cupboard, fridge, freezer etc.
-- High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
-- High durability on wooden torch (only need one for the entire game!)
-- Water Pump with lower power requirements (500) and high water output (5000) - No need for additional pump
-- Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
-- Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
-- "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
-- "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
-  simply remove the module from suit auxilliary slot, to mine normally.
-- Changed the basic Xigo S5-II suit, as well as the "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance 
-- "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
-- Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
-  at the Rustic Decorations Bench, and stone statues at the masonary bench
-- Adds The Following Workshop Kits:
-  - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
-    - (30) Stone Floors
-    - (20) Stone Ramps	
-    - (20) Stone Walls
-    - (4) Stone Angled Walls
-    - (1) reinforced door
-    - (40) Concrete Beams
-    - (1) Campfire
-    - (1) Bedroll
-    - (1) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
-    - (1) Crafting Bench
-    - (1) Herbalism Bench
-    - (1) Bedroll
-    - (1) Mortar & Pestle
-    - (2) Stone Furnaces
-    - (1) Anvil
-    - (1) Masonry Bench
-  
-  - "Pete's Starter Loadout Kit" - Workshop replacement of "Carrot Farming Packet" - Contains the following:
-    - ST-700 Arms Armor
-    - ST-700 Chest Armor
-    - ST-700 Feet Armor
-    - ST-700 Head Armor
-    - ST-700 Legs Armor
-    - Gatherer's Backpack (better stats)
-    - Shengong 'Liwei' O2 Tank (prefilled)
-    - Shengong 'Hulu' Canteen (prefilled)
-    - Larkwell Martinez Compound Bow (better stats)
-    - Larkwell Arrow Bundle (100,000 arrows!)
-    - Titanium Pickaxe (high durability, added stats)
-    - Titanium Axe (high durability, added stats)
-    - Titanium Knife (high durability, added stats)
-    - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
-    - Wooden Torch (high durability - lasts forever!)
-    - (20) Dried String Meat
-    - (10) Antibiotic Tonic
-    - (10) Anit-Poison Tonic
-    - (2) Mass Dampener Modules (50% speed increase each)
-    - (2) Micromeal (turns into the Teleporter Kit)
-    - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
-
-  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following:
-    - (5) Berry
-    - (5) Corn
-    - (5) Coffee
-    - (5) Soy Bean
-    - (5) Pumpkin
-    - (5) Wild Tea
-    - (5) Carrot
-    - (5) Mushroom
-    - (5) Lily
-    - (5) Squash
-    - (5) Reed_Flower
-    - (5) Watermelon
-    - (5) Yeast
-    - (5) Cocoa
-    - (20) Kumara
-    - (20) Rhubarb
-    - (20) Avocado
-    - (20) Strawberry
-
-#### 2.  Custom_Options (Jimk72):
-Mod by JimK72 introduces an interface to set Jump height, and other things. 
-Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
-- Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
-- Hit "H" key to bring up the hands in the hud.
-- Right-mouse button to bring up Custom Options menu.
-- An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-- Allows temporary removal of all nearby caveworms (until next spawn time)
-- An option to clear all weather 
-- An option to put out all fires
-- An option to leave via dropshop from anywhere
-
-#### 3.  Teleporter (JimK72)
-- A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
-- This kit unbundles to a teleporter base and handheld remote you can use in-game.
-- This mod provides Teleporter kit available for purchase in the Workshop, and allows 2-way teleportation, walking over base unit or left-mouse click with remote equipped.
-- This mod includes 2 x Teleporter bundle kits, in the "Pete's Starter Loadout Kit", allowing 2 x 2-way teleport location options, using left-mouse, or right-mouse click with the remote equipped.
-- Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running.
-
-#### 4.  Clear_Photo_Lens (JimK72)
-- A mod by JimK72 that extends distance limitation in camera mode, as well as removes the camera reticle & menu items
-- Activate photo mode by hitting Numpad8
-- Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
-_______________________________________________________________________________________________________________________________________________________________________
+- Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
+- Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md) for all the details.
 
 ### laanp-NoWeather_v1_w83_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
+
+### laanp-LargerDropshipSlots_v1_w83_P.pak
+- Dropship cargo slots increase from 15 - 30 
+
+### laanp_FreeBuild_v1_w83_P.pak
+- Everything is free to build at all benches.
+- Some notes on this one:
+  - Benches that auto craft items still need at least one item  to start crafting - they will continue to craft until all slots are full
+    for the first available recipe item in the bench inventory.
+  - Fishing bench (fillet section) should not have Rotten Meat left in it - otherwise it will fill up with Rotten Meat Lures!
+
+### laanp-BuildersDream_v1_w83_P.pak
+- Combines laanp-Combined_QOL + laanp_FreeBuild with a few adjustments:
+   - Removes temperature effects on player
+   - Modifies Workshop MXC Furnace to smelt everything, faster, and allows outdoor placement
+   - Changes Workshop mod kit item "Pete's Starter Cabin Kit" to include 3 x modified MXC Furnaces (instead of 2 x Stone Furnaces)
+   - Adds Workshop Item "Pete's Circular Construction Set" - Nice kit with lots of material for building a circular structure
+   - Adds Workshop Item "Pete's Fishing Kit" - Nice kit with a Rod, Tackle box, Trap and all the lures.
+   - Player can now directly craft Oxite, Coal & Salt from player crafting menu
+   - Mining Stone now levels up a character EXTREMELY fast! - This is to facilitate starting a new character and getting him up over level 30 
+     quickly, to unlock everything to get to building.
+
+### laanp-RespawnResourcesOW_v1_w83_P.pak
+- Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
+- How To Use:
+   - Install as per any mod (refer to Installation Details below)
+   - Restart the game, load your open world prospect, all resources should have respawned, wait a save cycle, exit the game, then 
+      delete this mod Pak file from the \mods directory.  Now you can restart the game and play with all resources replenished!
+      Great for refreshing all those burnt trees, and refilling the mines. - Think of the Thumper without the worms! 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -162,7 +85,7 @@ Usually the server settings/mods will override anything running on the local cli
 ## Known Bugs/Issues/Notes - As of this current release.
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
-- "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server, maybe just building fires? - haven't tested yet.
+- "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server
 - "Clear Foliage" - Don't panic if you accidentally hit this and all your local flora is gone.  It only lasts for your current session.
 
 ### Teleporter:  
@@ -184,6 +107,14 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
 - [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
 - [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
+
+## laanp_mod_compatibility_matrix.pdf
+
+### How to use this matrix:
+- Scan for your mod name in leftmost column and note the marked columns to the right showing associated json files that are affected. If any other mod is affecting the same file, then those mods are not compatible with the mod you have selected.
+
+### For example:
+- I scan for "laanp_LargerDropShipSlots" in leftmost column, and look across to the marked column of the json file affected.  In this case "D_InventoryInfo.json" is being affected.  But I also observe that my main "laanp-Combined_QOL_v1_w82" mod is also affecting this file, so the 2 mods are not compatible running together.  
 
 ## Disclaimer
 I have been playing with these mods for quite some time now, with no problems... having said that:
