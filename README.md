@@ -25,7 +25,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 ### laanp-LargerDropshipSlots_v1_w84_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
-### laanp_FreeBuild_v1_w84_P.pak
+### laanp-FreeBuild_v1_w84_P.pak
 - Everything is free to build at all benches.
 - Some notes on this one:
   - Benches that auto craft items still need at least one item  to start crafting - they will continue to craft until all slots are full
