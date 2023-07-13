@@ -1,12 +1,15 @@
-## laanp-NoWeather_v1_w83_P.pak
+## laanp-NoWeather_v1_w84_P.pak
 
-Compatible with Icarus Version: Rev. 1.3.5.113110 (Week: 83)
-_______________________________________________________________________________________________________________________________________________________________________
+Mod Version: 1
 
+Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
+
+Description:
+---------------------------------------------------------------------------------------------------------
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
-_______________________________________________________________________________________________________________________________________________________________________
+---------------------------------------------------------------------------------------------------------
 
 ## Installation Details
 
@@ -61,4 +64,3 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
