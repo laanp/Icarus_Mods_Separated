@@ -7,8 +7,8 @@
       "compatibility": "w83",
       "description": "A collection of mods to make survival easier. View Readme on GitHub for details.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w83/laanp-Combined_QOL_v1_w83_P.pak",
-        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w83/laanp-Combined_QOL_v1_w83.EXMOD"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84_P.pak",
+        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84.EXMOD"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
@@ -17,10 +17,10 @@
       "name": "laanp-NoWeather",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "Clears all weather, sunny all the time!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w83/laanp_NoWeather_v1_w83_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-NoWeather_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
