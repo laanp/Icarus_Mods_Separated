@@ -1,6 +1,6 @@
 # laanp Mods
 
-Compatible with Icarus Version: Rev. 1.3.5.113110 (Week: 83)
+Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
@@ -13,26 +13,26 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 
 ## Mods Available:
 
-### laanp-Combined_QOL_v1_w83_P.pak
+### laanp-Combined_QOL_v1_w84_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-NoWeather_v1_w83_P.pak
+### laanp-NoWeather_v1_w84_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
 
-### laanp-LargerDropshipSlots_v1_w83_P.pak
+### laanp-LargerDropshipSlots_v1_w84_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
-### laanp_FreeBuild_v1_w83_P.pak
+### laanp_FreeBuild_v1_w84_P.pak
 - Everything is free to build at all benches.
 - Some notes on this one:
   - Benches that auto craft items still need at least one item  to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
   - Fishing bench (fillet section) should not have Rotten Meat left in it - otherwise it will fill up with Rotten Meat Lures!
 
-### laanp-BuildersDream_v1_w83_P.pak
+### laanp-BuildersDream_v1_w84_P.pak
 - Combines laanp-Combined_QOL + laanp_FreeBuild with a few adjustments:
    - Removes temperature effects on player
    - Modifies Workshop MXC Furnace to smelt everything, faster, and allows outdoor placement
@@ -43,7 +43,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
    - Mining Stone now levels up a character EXTREMELY fast! - This is to facilitate starting a new character and getting him up over level 30 
      quickly, to unlock everything to get to building.
 
-### laanp-RespawnResourcesOW_v1_w83_P.pak
+### laanp-RespawnResourcesOW_v1_w84_P.pak
 - Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
 - How To Use:
    - Install as per any mod (refer to Installation Details below)
