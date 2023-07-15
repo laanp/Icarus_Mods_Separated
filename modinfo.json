@@ -4,7 +4,7 @@
       "name": "laanp-Combined_QOL",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "A collection of mods to make survival easier. View Readme on GitHub for details.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84_P.pak",
