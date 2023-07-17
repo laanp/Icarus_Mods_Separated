@@ -9,7 +9,6 @@ Description:
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
----------------------------------------------------------------------------------------------------------
 
 ## Installation Details
 
