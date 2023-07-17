@@ -36,12 +36,12 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Combines laanp-Combined_QOL + laanp_FreeBuild with a few adjustments:
    - Removes temperature effects on player
    - Modifies Workshop MXC Furnace to smelt everything, faster, and allows outdoor placement
+   - Mortar & Pestle is immune to weather effects
    - Changes Workshop mod kit item "Pete's Starter Cabin Kit" to include 3 x modified MXC Furnaces (instead of 2 x Stone Furnaces)
    - Adds Workshop Item "Pete's Circular Construction Set" - Nice kit with lots of material for building a circular structure
    - Adds Workshop Item "Pete's Fishing Kit" - Nice kit with a Rod, Tackle box, Trap and all the lures.
    - Player can now directly craft Oxite, Coal & Salt from player crafting menu
-   - Mining Stone now levels up a character EXTREMELY fast! - This is to facilitate starting a new character and getting him up over level 30 
-     quickly, to unlock everything to get to building.
+   - Overall levelling is much faster, and mining Stone now levels up a character EXTREMELY fast! - This is to facilitate starting a new character and getting him up over level 30 quickly, to unlock everything to get to building.
 
 ### laanp-RespawnResourcesOW_v1_w84_P.pak
 - Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
@@ -137,6 +137,16 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
+
+
 
 
 
