@@ -4,9 +4,11 @@ Mod Version: 1
 
 Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
 
-Description:
----------------------------------------------------------------------------------------------------------
-- Removes all weather from the game.
+## Description:
+Completely removes all weather from the game, sunny all the time!
+
+## Mod Details:
+- Completely removes all weather and forecast system from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
 
@@ -49,9 +51,6 @@ I have been playing with these mods for quite some time now, with no problems...
 - This mod was designed as standalone, and may not be compatible with other mods.
 - Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
     with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
-- This mod changes storage cabinets & bench inventory slot sizes.  
-   If you fill all slots in these benches/storage cabinets on a prospect and return to it without these mods running, you will lose
-   all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
 - Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
