@@ -5,7 +5,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w84",
-      "description": "A collection of mods to make survival easier. View Readme on GitHub for details.",
+      "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84_P.pak",
         "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84.EXMOD"
@@ -18,12 +18,63 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w84",
-      "description": "Clears all weather, sunny all the time!",
+      "description": "Completely removes all weather from the game, sunny all the time!",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-NoWeather_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
+    },
+    {
+      "name": "laanp-LargerDropshipSlots",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w84",
+      "description": "Dropship cargo and Loadout slots increase from 15 - 30",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-LargerDropshipSlots_v1_w84_P.pak",
+        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-LargerDropshipSlots_v1_w84.EXMOD"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
+    },
+    {
+      "name": "laanp-FreeBuild",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w84",
+      "description": "Everything is free to build at all benches.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-FreeBuild_v1_w84_P.pak",
+        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-FreeBuild_v1_w84.EXMOD"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
+    },
+    {
+      "name": "laanp-BuildersDream",
+      "author": "laanp",
+      "version": "2.0",
+      "compatibility": "w84",
+      "description": "Combines a number of mods in one package, to make building your top priority.  Includes all stack sizes = 100, unlimited crafting, increased crafting speeds, CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v2_w84/laanp-BuildersDream_v2_w84_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildersDream_Readme.md"
+    },
+    {
+      "name": "laanp-RespawnResourcesOW",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w84",
+      "description": "Resets all Open World resources.  One-time use mod to reset your mines, nodes, trees, rocks.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-RespawnResourcesOW_v1_w84_P.pak",
+        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-RespawnResourcesOW_v1_w84.EXMOD"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RespawnResourcesOW_Readme.md"
     }
   ]
-}
+
