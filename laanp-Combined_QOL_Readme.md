@@ -1,5 +1,5 @@
-laanp-Combined_QOL_v1_w84_P.pak
-----------------------------------------------------------------------
+## laanp-Combined_QOL_v1_w84_P.pak
+
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
@@ -8,8 +8,10 @@ Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
 
 ## Description:
 Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
-    
+
+## Mod Details:
 ### 1. laanp changes: 
+- Player levels shows actual, beyond 60
 - No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
 - O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
@@ -30,24 +32,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary bench
 - Adds The Following Workshop Kits:
-  - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
-    - (30) Stone Floors
-    - (20) Stone Ramps	
-    - (20) Stone Walls
-    - (4) Stone Angled Walls
-    - (1) reinforced door
-    - (40) Concrete Beams
-    - (1) Campfire
-    - (1) Bedroll
-    - (1) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
-    - (1) Crafting Bench
-    - (1) Herbalism Bench
-    - (1) Bedroll
-    - (1) Mortar & Pestle
-    - (2) Stone Furnaces
-    - (1) Anvil
-    - (1) Masonry Bench
-  
+
   - "Pete's Starter Loadout Kit" - Workshop replacement of "Carrot Farming Packet" - Contains the following:
     - ST-700 Arms Armor
     - ST-700 Chest Armor
@@ -71,25 +56,44 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (2) Micromeal (turns into the Teleporter Kit)
     - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
 
+  - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
+    - (30) Stone Floors
+    - (20) Stone Ramps	
+    - (20) Stone Walls
+    - (4) Stone Angled Walls
+    - (1) reinforced door
+    - (40) Concrete Beams
+    - (1) Campfire
+    - (1) Bedroll
+    - (1) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
+    - (1) Crafting Bench
+    - (1) Herbalism Bench
+    - (1) Bedroll
+    - (1) Mortar & Pestle
+    - (2) Stone Furnaces
+    - (1) Anvil
+    - (1) Masonry Bench
+
   - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following:
     - (5) Berry
     - (5) Corn
-    - (5) Coffee
+    - (20) Coffee Bean
     - (5) Soy Bean
     - (5) Pumpkin
-    - (5) Wild Tea
+    - (5) Wild Tea - missing
     - (5) Carrot
     - (5) Mushroom
-    - (5) Lily
+    - (20) Lily
     - (5) Squash
-    - (5) Reed_Flower
+    - (20) Reed_Flower
     - (5) Watermelon
-    - (5) Yeast
-    - (5) Cocoa
-    - (20) Kumara
-    - (20) Rhubarb
-    - (20) Avocado
-    - (20) Strawberry
+    - (20) Yeast
+    - (20) Cocoa
+    - (20) Gorse Flower
+    - (5) Kumara
+    - (5) Rhubarb
+    - (5) Avocado
+    - (5) Strawberry
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
@@ -175,16 +179,14 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
 
 ## Disclaimer
-I have been playing with these mods for quite some time now, with no problems... having said that:
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
-- This mod was designed as standalone, and may not be compatible with other mods.
-- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
-    with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
-- This mod changes storage cabinets & bench inventory slot sizes.  
-   If you fill all slots in these benches/storage cabinets on a prospect and return to it without these mods running, you will lose
-   all those items in those additional slots. 
-- Feel free to drop me any ideas for mod changes/suggestions.
+- This mod may not be compatible with other mods, refer to the Mod Details for further mod information. 
+- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible with Week 77 Icarus release.  
+  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
+- This mod changes some inventory/bench/storage cabinets slot sizes.  
+  If you have a prospect with these mods running, and had filled extra slot capacities in your inventory/bench/storage cabinets, be warned that loading this prospect without the mods will result in some lost material and resources. 
+- Feel free to drop me any ideas for mod changes/suggestions, or custom mod requests.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
 - Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
    and make sure you acknowledge credit to any contributing modders.
