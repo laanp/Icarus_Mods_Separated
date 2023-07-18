@@ -20,8 +20,7 @@
       "compatibility": "w84",
       "description": "Clears all weather, sunny all the time!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-NoWeather_v1_w84_P.pak",
-        "exmodz": ""  
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-NoWeather_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
