@@ -32,7 +32,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
     for the first available recipe item in the bench inventory.
   - Fishing bench (fillet section) should not have Rotten Meat left in it - otherwise it will fill up with Rotten Meat Lures!
 
-### laanp-BuildersDream_v1_w84_P.pak
+### laanp-BuildersDream_v2_w84_P.pak
 - Combines laanp-Combined_QOL + laanp_FreeBuild with a few adjustments:
    - Removes temperature effects on player
    - Modifies Workshop MXC Furnace to smelt everything, faster, and allows outdoor placement
@@ -137,6 +137,104 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
