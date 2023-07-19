@@ -1,16 +1,16 @@
-laanp-LargerDropshipSlots_v1_w84_P.pak
-----------------------------------------------------------------------
+## laanp-NoWeather_v1_w84_P.pak
+
 Mod Version: 1
 
 Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
 
 ## Description:
-Dropship cargo and Loadout slots increase from 15 - 30
- 
-## Mod Details:
-- Double you dropship cargo.
-- Allows you to bring more stuff to the planet.
+Completely removes all weather from the game, sunny all the time!
 
+## Mod Details:
+- Completely removes all weather and forecast system from the game.
+- Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
+- Can be used with all other mods, as long as they do not modify any of the weather json files.
 
 ## Installation Details
 
@@ -39,16 +39,19 @@ if the ...\mods directory does not exist, create it.
 Use the exact same mods on both server and client machine or else run the risk of weird stuff happening.
 Usually the server settings/mods will override anything running on the local client machine(s), but match the mods to stay out of trouble.
 
+## Youtube Links on Overview & How To Use:
+- [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
+- [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
+- [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
 
 ## Disclaimer
+I have been playing with these mods for quite some time now, with no problems... having said that:
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
-- This mod may not be compatible with other mods, refer to the Mod Details for further mod information, and "laanp_mod_compatibility_matrix.pdf". 
-- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w84_ in the mod file name means mod is compatible with Week 84 Icarus release.  
-  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
-- Some mods change inventory/bench/storage cabinets slot sizes, as well as slot stack sizes.  
-  If you have a prospect with these mods running, and had filled extra slot capacities in your inventory/bench/storage cabinets, be warned that loading this prospect without the mods will result in some lost material and resources. 
-- Feel free to drop me any ideas for mod changes/suggestions, or custom mod requests.
+- This mod was designed as standalone, and may not be compatible with other mods.
+- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
+    with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
+- Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
 - Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
    and make sure you acknowledge credit to any contributing modders.
