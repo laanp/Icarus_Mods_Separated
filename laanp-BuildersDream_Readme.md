@@ -11,11 +11,10 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
 - Base experience gain amplified to speed up leveling significantly
-- Mining stone speeds up leveling dramatically 
 - Crafting speeds increased significantly
 - Craft everything for free in all benches
-- Adds crafting of Oxite, Coal & Salt to Character crafting level
 - All slot stack sizes changed to 100
+- Adds crafting of Oxite, Coal & Salt to Character crafting level
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - Temperature effects disabled
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
@@ -30,8 +29,10 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
 - Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
-- "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
+- "Pete's Resource Killer" module - Revises the Workshop Animal Healthbar module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
   simply remove the module from suit auxilliary slot, to mine normally.
+- "Pete's Insane Leveling" module - Revises the Workshop Adlift module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
+  simply remove the module from suit auxilliary slot, to turn off effects.
 - "Xigo S5-II envirosuit" modifed with 4 Aux suit slots, +20% heat/cold resistance - also reduced cost in Workshop to 1 Ren to research, 1 Ren to buy. 
 - "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance
 - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
@@ -48,15 +49,16 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
     - Gatherer's Backpack
     - Shengong 'Liwei' O2 Tank (prefilled) 
     - Shengong 'Hulu' Canteen (prefilled)
-    - (2) Mass Dampener Modules (50% Movement Speed Increase)
+    - (1) Mass Dampener Modules (50% Movement Speed Increase)
     - Titanium Knife (high durability)   		
     - Titanium Pickaxe (high durability)		
     - Titanium Axe (high durability)		
     - Larkwell Arrow Bundle (100,000 arrows!)
-    - Compound Bow + extra stats, including damage equivalent to Larkwell Compound Bow + (extended durability)
+    - Compound Bow + extra stats, including damage equivalent to Larkwell Compound Bow + extended durability
     - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
     - (2) Micromeal (turns into the teleporter bundle)
-    - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
+    - (1) Animal Healthbar Module (turns into "Pete's Resource Killer" module - for 1 hit ore, stone, tree)
+    - (1) Adlift Module (turns into "Pete's Insane Leveling module" - for 1 hit ore, stone, tree)
 
   - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
     - (100) Stone Floors
