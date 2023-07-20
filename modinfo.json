@@ -7,8 +7,7 @@
       "compatibility": "w84",
       "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84_P.pak",
-        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84.EXMOD"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-Combined_QOL_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
@@ -32,8 +31,7 @@
       "compatibility": "w84",
       "description": "Dropship cargo and Loadout slots increase from 15 - 30",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-LargerDropshipSlots_v1_w84_P.pak",
-        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-LargerDropshipSlots_v1_w84.EXMOD"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-LargerDropshipSlots_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
@@ -45,8 +43,7 @@
       "compatibility": "w84",
       "description": "Everything is free to build at all benches.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-FreeBuild_v1_w84_P.pak",
-        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-FreeBuild_v1_w84.EXMOD"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-FreeBuild_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
@@ -70,11 +67,11 @@
       "compatibility": "w84",
       "description": "Resets all Open World resources.  One-time use mod to reset your mines, nodes, trees, rocks.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-RespawnResourcesOW_v1_w84_P.pak",
-        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-RespawnResourcesOW_v1_w84.EXMOD"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-RespawnResourcesOW_v1_w84_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RespawnResourcesOW_Readme.md"
     }
   ]
+}
 
