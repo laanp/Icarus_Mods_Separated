@@ -19,7 +19,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 
 ### laanp-BuildersDream_v2_w84_P.pak
 - Combines laanp-Combined_QOL + laanp_FreeBuild with a bunch of new features!:
-- Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-laanp-BuildersDream_Readme.md) for all the details.
+- Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
 ### laanp-WorkshopFree_v1_w84_P.pak
 - All items in the Workshop are free. Go crazy!
