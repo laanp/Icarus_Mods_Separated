@@ -17,6 +17,13 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
+### laanp-BuildersDream_v2_w84_P.pak
+- Combines laanp-Combined_QOL + laanp_FreeBuild with a bunch of new features!:
+- Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-laanp-BuildersDream_Readme.md) for all the details.
+
+### laanp-WorkshopFree_v1_w84_P.pak
+- All items in the Workshop are free. Go crazy!
+
 ### laanp-NoWeather_v1_w84_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
@@ -30,19 +37,9 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Some notes on this one:
   - Benches that auto craft items still need at least one item  to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
+  - Warning! - some benches will spew material all over your cabin, if you craft more items than their available slots! 
   - Fishing bench (fillet section) should not have Rotten Meat left in it - otherwise it will fill up with Rotten Meat Lures!
-
-### laanp-BuildersDream_v2_w84_P.pak
-- Combines laanp-Combined_QOL + laanp_FreeBuild with a few adjustments:
-   - Removes temperature effects on player
-   - Modifies Workshop MXC Furnace to smelt everything, faster, and allows outdoor placement
-   - Mortar & Pestle is immune to weather effects
-   - Changes Workshop mod kit item "Pete's Starter Cabin Kit" to include 3 x modified MXC Furnaces (instead of 2 x Stone Furnaces)
-   - Adds Workshop Item "Pete's Circular Construction Set" - Nice kit with lots of material for building a circular structure
-   - Adds Workshop Item "Pete's Fishing Kit" - Nice kit with a Rod, Tackle box, Trap and all the lures.
-   - Player can now directly craft Oxite, Coal & Salt from player crafting menu
-   - Overall levelling is much faster, and mining Stone now levels up a character EXTREMELY fast! - This is to facilitate starting a new character and getting him up over level 30 quickly, to unlock everything to get to building.
-
+ 
 ### laanp-RespawnResourcesOW_v1_w84_P.pak
 - Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
 - How To Use:
@@ -137,6 +134,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
