@@ -1,8 +1,8 @@
-laanp-BuildersDream_v2_w84_P.pak
+laanp-BuildersDream_v1_w85_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
+Compatible with Icarus Version: Rev. 1.3.7.113609 (Week: 85)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes all stack sizes = 100, unlimited crafting, increased crafting speeds, 
@@ -218,6 +218,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
