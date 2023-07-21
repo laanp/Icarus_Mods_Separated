@@ -40,6 +40,19 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-WorkshopFree_Readme.md"
     },
     {
+      "name": "laanp-PetesResourceKiller",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w84",
+      "description": "- Inspired by DexterMod's "One_Hit_Wonder" mod, this suit module enables 100% of the time, 1-hit resource gathering for trees, rocks & ores.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-PetesResourceKiller_v1_w84_P.pak",
+        "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-PetesResourceKiller_v1_w84.EXMOD"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesResourceKiller_Readme.md"
+    },
+    {
       "name": "laanp-NoWeather",
       "author": "laanp",
       "version": "1.0",
