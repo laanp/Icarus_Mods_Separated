@@ -13,7 +13,7 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 - Base experience gain amplified to speed up leveling significantly
 - Crafting speeds increased significantly
 - Craft everything for free in all benches
-- All slot stack sizes changed to 100
+- All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000)
 - Adds crafting of Oxite, Coal & Salt to Character crafting level
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - Temperature effects disabled
@@ -117,15 +117,14 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
-Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
-- Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
-- Hit "H" key to bring up the hands in the hud.
-- Right-mouse button to bring up Custom Options menu.
-- An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-- Allows temporary removal of all nearby caveworms (until next spawn time)
-- An option to clear all weather 
-- An option to put out all fires
-- An option to leave via dropshop from anywhere
+To activate the Custom Options Interface: 
+- Hit "H" key to bring up the hands in the hud (fists will be displayed in lower right corner of screen).
+- Right-mouse button click to bring up Custom Options menu:
+  - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
+  - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
+  - Allows temporary removal of all nearby caveworms (until next spawn time)
+  - An option to put out all fires (does not work currently)
+  - An option to leave via dropshop from anywhere.
 
 
 ### 3.  Teleporter (JimK72)
@@ -171,8 +170,8 @@ Usually the server settings/mods will override anything running on the local cli
 
 ## Known Bugs/Issues/Notes - As of this current release.
 ### Custom Options Interface:
-- "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
-- "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server, maybe just building fires? - haven't tested yet.
+- "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
+- "Extinguish Fire" - Does not work in single player client mode, or on Dedicated Server.
 - "Clear Foliage" - Don't panic if you accidentally hit this and all your local flora is gone.  It only lasts for your current session.
 
 ### Teleporter:  
