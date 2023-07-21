@@ -31,7 +31,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w84",
-      "description": "- All items in the Workshop are free. Go crazy!",
+      "description": "All items in the Workshop are free. Go crazy!",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-WorkshopFree_v1_w84_P.pak",
         "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-WorkshopFree_v1_w84.EXMOD"
@@ -44,7 +44,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w84",
-      "description": "- Inspired by DexterMod's 'One_Hit_Wonder' mod, this suit module enables 100% of the time, 1-hit resource gathering for trees, rocks & ores.",
+      "description": "Inspired by DexterMod's 'One_Hit_Wonder' mod, this suit module enables 100% of the time, 1-hit resource gathering for trees, rocks & ores.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-PetesResourceKiller_v1_w84_P.pak",
         "exmodz": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w84/laanp-PetesResourceKiller_v1_w84.EXMOD"
