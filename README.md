@@ -24,6 +24,13 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 ### laanp-WorkshopFree_v1_w84_P.pak
 - All items in the Workshop are free. Go crazy!
 
+### laanp-PetesResourceKiller_v1_w84_P.pak
+- Envirosuit module to enable 100% of the time, 1-hit resource gathering for trees, rocks & ores.
+- Inspired by DexterMod's "One_Hit_Wonder" mod. 
+- "Pete's Resource Killer" revises the Workshop Animal Healthbar module - When placed in aux. slot of suit, activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
+- Simply remove the module from your envirosuit auxilliary slot, to neutralize the effects and chop trees or mine normally.
+- Make sure you have "Seasoned Logsman" talent unlocked, otherwise you'll end up spending all your time picking up wood, instead of it automatically going into your inverntory!
+
 ### laanp-NoWeather_v1_w84_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
@@ -34,11 +41,9 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 
 ### laanp-FreeBuild_v1_w84_P.pak
 - Everything is free to build at all benches.
-- Some notes on this one:
-  - Benches that auto craft items still need at least one item  to start crafting - they will continue to craft until all slots are full
+- Some things to watch:
+  - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
-  - Warning! - some benches will spew material all over your cabin, if you craft more items than their available slots! 
-  - Fishing bench (fillet section) should not have Rotten Meat left in it - otherwise it will fill up with Rotten Meat Lures!
  
 ### laanp-RespawnResourcesOW_v1_w84_P.pak
 - Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
@@ -134,6 +139,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
