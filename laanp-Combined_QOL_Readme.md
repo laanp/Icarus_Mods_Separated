@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w85_P.pak
+laanp-Combined_QOL_v1_w86_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.7.113609 (Week: 85)
+Compatible with Icarus Version: Rev. 1.3.8.113903 (Week: 86)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -102,7 +102,7 @@ To activate the Custom Options Interface:
 - Right-mouse button click to bring up Custom Options menu:
   - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
   - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-  - Allows temporary removal of all nearby caveworms (until next spawn time)
+  - Allows temporary removal of all nearby caveworms (until next spawn time) - Only works in single player mode
   - An option to put out all fires (does not work currently)
   - An option to leave via dropshop from anywhere.
 
@@ -196,6 +196,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
