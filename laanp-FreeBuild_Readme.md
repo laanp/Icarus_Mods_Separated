@@ -1,16 +1,15 @@
-laanp-FreeBuild_v1_w85_P.pak
+laanp-FreeBuild_v1_w86_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.7.113609 (Week: 85)
+Compatible with Icarus Version: Rev. 1.3.8.113903 (Week: 86)
 
 ## Description:
 Everything is free to build at all benches.
  
 ## Mod Details:
 - Basically you can craft anything you have unlocked in your Tech Tree.
-- Use caution with some benches, since they tend to spew extra crafted material all over your floor, if all their slots fill up.
-
+- Auto-craft benches will continuously craft for the first applicable ordered item in its inventory slots, until the bench inventory fills up!
 
 ## Installation Details
 
@@ -59,5 +58,7 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
