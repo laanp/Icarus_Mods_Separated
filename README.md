@@ -31,12 +31,6 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Simply remove the module from your envirosuit auxilliary slot, to neutralize the effects and chop trees or mine normally.
 - Make sure you have "Seasoned Logsman" talent unlocked, otherwise you'll end up spending all your time picking up wood, instead of it automatically going into your inverntory!
 
-### laanp-NoKeas_v1_w86_P.pak
-- Disables spawning of Keas (big parrot-like birds)
-- While I like to use these annoying birds as target practice, they have this annoying habit of spawning either directly in, 
-  or under my base structures (especially when building higher bases).
-- This mod removes them from the maps entirely.
-
 ### laanp-NoTreesDown_v1_w86_P.pak
 - Eliminates trees from falling down during a storm.
 
