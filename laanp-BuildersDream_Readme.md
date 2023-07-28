@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w85_P.pak
+laanp-BuildersDream_v1_w86_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.7.113609 (Week: 85)
+Compatible with Icarus Version: Rev. 1.3.8.113903 (Week: 86)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes all stack sizes = 100, unlimited crafting, increased crafting speeds, 
@@ -12,8 +12,9 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 - Player levels shows actual, beyond 60
 - Base experience gain amplified to speed up leveling significantly
 - Crafting speeds increased significantly
-- Craft everything for free in all benches
+- Craft everything for free in all benches (FreeBuild mod included)
 - All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000)
+- All Workshop items are free to research & craft
 - Adds crafting of Oxite, Coal & Salt to Character crafting level
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - Temperature effects disabled
@@ -122,7 +123,7 @@ To activate the Custom Options Interface:
 - Right-mouse button click to bring up Custom Options menu:
   - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
   - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-  - Allows temporary removal of all nearby caveworms (until next spawn time)
+  - Allows temporary removal of all nearby caveworms (until next spawn time) - Only works in single player mode
   - An option to put out all fires (does not work currently)
   - An option to leave via dropshop from anywhere.
 
@@ -185,6 +186,10 @@ If you are using "Pete's Resource Killer" module (1 hit for tree, rocks and ore 
 with your axe, and do not have the Talent "Seasoned Logsman" - the one that auto picks up your wood, you'll end up with wood pieces all over
 the place and not in your inventory!  This is expected behaviour.
 
+### FreeBuild
+Basically you can craft anything you have unlocked in your Tech Tree.
+Auto-craft benches will continuously craft for the first applicable ordered item in its inventory slots, until the bench inventory fills up!
+
 ### Equipment Retrieval
 None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
 You need to purchase the kits at the Workshop, before launching any mission, Open World, or Outpost. 
@@ -218,6 +223,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
