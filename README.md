@@ -31,8 +31,9 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Simply remove the module from your envirosuit auxilliary slot, to neutralize the effects and chop trees or mine normally.
 - Make sure you have "Seasoned Logsman" talent unlocked, otherwise you'll end up spending all your time picking up wood, instead of it automatically going into your inverntory!
 
-### laanp-NoTreesDown_v1_w86_P.pak
-- Eliminates trees from falling down during a storm.
+### laanp-KeepTrees_v1_w86_P.pak
+- Eliminates trees from falling down due to high winds in a storm.
+- Removes all foliage from catching fire, due to lightning storms.
 
 ### laanp-NoKeas_v1_w86_P.pak
 - Disables spawning of Keas (big parrot-like birds)
@@ -147,22 +148,6 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
