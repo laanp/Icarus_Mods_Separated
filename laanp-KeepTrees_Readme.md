@@ -39,10 +39,6 @@ if the ...\mods directory does not exist, create it.
 Use the exact same mods on both server and client machine or else run the risk of weird stuff happening.
 Usually the server settings/mods will override anything running on the local client machine(s), but match the mods to stay out of trouble.
 
-## Youtube Links on Overview & How To Use:
-- [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
-- [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
-- [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
 
 ## Disclaimer
 I have been playing with these mods for quite some time now, with no problems... having said that:
