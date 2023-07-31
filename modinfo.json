@@ -49,16 +49,40 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesResourceKiller_Readme.md"
     },
     {
-      "name": "laanp-KeepTrees",
+      "name": "laanp-KeepTheTrees",
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w86",
-      "description": "Stops trees from falling down in a wind storm and from catching fire due to lightning strikes",
+      "description": "Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-KeepTrees_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-KeepTheTrees_v1_w86_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-KeepTrees_Readme.md"
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-KeepTheTrees_Readme.md"
+    },
+    {
+      "name": "laanp-NoTreeLightningFires",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w86",
+      "description": "Stops trees from catching on fire due to lightning strikes",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-NoTreeLightningFires_v1_w86_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoTreeLightningFires_Readme.md"
+    },
+    {
+      "name": "laanp-NoWindFallenTrees",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w86",
+      "description": "Stops trees from falling down in a wind storm",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-NoWindFallenTrees_v1_w86_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWindFallenTrees_Readme.md"
     },
     {
       "name": "laanp-NoKeas",
