@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w86_P.pak
+laanp-BuildersDream_v1_w87_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.8.113903 (Week: 86)
+Compatible with Icarus Version: Rev. 1.3.9.114091 (Week: 87)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes all stack sizes = 100, unlimited crafting, increased crafting speeds, 
@@ -14,6 +14,7 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 - Crafting speeds increased significantly
 - Craft everything for free in all benches (FreeBuild mod included)
 - All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000)
+- Base player inventory slots changed from 24 - 42
 - All Workshop items are free to research & craft
 - Adds crafting of Oxite, Coal & Salt to Character crafting level
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
@@ -36,7 +37,7 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
   simply remove the module from suit auxilliary slot, to turn off effects.
 - "Xigo S5-II envirosuit" modifed with 4 Aux suit slots, +20% heat/cold resistance - also reduced cost in Workshop to 1 Ren to research, 1 Ren to buy. 
 - "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance
-- "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
+- "Gatherer's Backpack" from the workshop now adds 18 slots, with -65% weight reduction for ores & wood
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary bench
 - Adds The Following Workshop Kits:
@@ -126,6 +127,8 @@ To activate the Custom Options Interface:
   - Allows temporary removal of all nearby caveworms (until next spawn time) - Only works in single player mode
   - An option to put out all fires (does not work currently)
   - An option to leave via dropshop from anywhere.
+  - An option to pause the game
+  - an option to adjust out-of-bounds timer
 
 
 ### 3.  Teleporter (JimK72)
@@ -223,6 +226,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
