@@ -4,10 +4,10 @@
       "name": "laanp-Combined_QOL",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-Combined_QOL_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-Combined_QOL_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
@@ -16,10 +16,10 @@
       "name": "laanp-BuildersDream",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Combines a number of mods in one package, to make building your top priority.  Includes all stack sizes = 100, unlimited crafting, increased crafting speeds, CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-BuildersDream_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-BuildersDream_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildersDream_Readme.md"
@@ -28,10 +28,10 @@
       "name": "laanp-WorkshopFree",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "- All items in the Workshop are free. Go crazy!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-WorkshopFree_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-WorkshopFree_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-WorkshopFree_Readme.md"
@@ -40,10 +40,10 @@
       "name": "laanp-PetesResourceKiller",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "- Inspired by DexterMod's 'One_Hit_Wonder' mod, this suit module enables 100% of the time, 1-hit resource gathering for trees, rocks & ores.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-PetesResourceKiller_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-PetesResourceKiller_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesResourceKiller_Readme.md"
@@ -52,10 +52,10 @@
       "name": "laanp-KeepTheTrees",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-KeepTheTrees_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-KeepTheTrees_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-KeepTheTrees_Readme.md"
@@ -64,10 +64,10 @@
       "name": "laanp-NoTreeLightningFires",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Stops trees from catching on fire due to lightning strikes",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-NoTreeLightningFires_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-NoTreeLightningFires_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoTreeLightningFires_Readme.md"
@@ -76,10 +76,10 @@
       "name": "laanp-NoWindFallenTrees",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Stops trees from falling down in a wind storm",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-NoWindFallenTrees_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-NoWindFallenTrees_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWindFallenTrees_Readme.md"
@@ -88,10 +88,10 @@
       "name": "laanp-NoKeas",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Disables spawning of Keas (big parrot-like birds)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-NoKeas_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-NoKeas_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoKeas_Readme.md"
@@ -100,10 +100,10 @@
       "name": "laanp-NoWeather",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Completely removes all weather from the game, sunny all the time!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-NoWeather_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-NoWeather_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
@@ -112,10 +112,10 @@
       "name": "laanp-LargerDropshipSlots",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Dropship cargo and Loadout slots increase from 15 - 30",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-LargerDropshipSlots_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-LargerDropshipSlots_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
@@ -124,10 +124,10 @@
       "name": "laanp-FreeBuild",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
+      "compatibility": "w87",
       "description": "Everything is free to build at all benches.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-FreeBuild_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-FreeBuild_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
@@ -136,10 +136,10 @@
       "name": "laanp-RespawnResourcesOW",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w86",
-      "description": "Resets all Open World resources.  One-time use mod to reset your mines, nodes, trees, rocks.",
+      "compatibility": "w87",
+      "description": "Resets all Open World resources.  Use this mod to reset your mines, nodes, trees & rocks.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w86/laanp-RespawnResourcesOW_v1_w86_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-RespawnResourcesOW_v1_w87_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RespawnResourcesOW_Readme.md"
