@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w86_P.pak
+laanp-Combined_QOL_v1_w87_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.8.113903 (Week: 86)
+Compatible with Icarus Version: Rev. 1.3.9.114091 (Week: 87)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -105,6 +105,8 @@ To activate the Custom Options Interface:
   - Allows temporary removal of all nearby caveworms (until next spawn time) - Only works in single player mode
   - An option to put out all fires (does not work currently)
   - An option to leave via dropshop from anywhere.
+  - An option to pause the game
+  - an option to adjust out-of-bounds timer
 
 
 ### 3.  Teleporter (JimK72)
@@ -196,6 +198,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
