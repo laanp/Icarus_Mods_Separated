@@ -85,6 +85,30 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWindFallenTrees_Readme.md"
     },
     {
+      "name": "laanp-NoCaveWorms",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w87",
+      "description": "Removes Cave Worms from spawning on all prospects including Missions & Open Worlds",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-NoCaveWorms_v1_w87_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoCaveWorms_Readme.md"
+    },
+    {
+      "name": "laanp-NoCaveWormsOW",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w87",
+      "description": "Removes Cave Worms from spawning on Open World propsects only (Olympus & Styx Maps).",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w87/laanp-NoCaveWormsOW_v1_w87_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoCaveWormsOW_Readme.md"
+    },
+    {
       "name": "laanp-NoKeas",
       "author": "laanp",
       "version": "1.0",
