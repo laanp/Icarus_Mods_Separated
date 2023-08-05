@@ -40,6 +40,11 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 ### laanp-NoWindFallenTrees_v1_w87_P.pak
 - Stops trees from falling down in a wind storm
 
+### laanp-NoCaveWorms_v1_w87_P.pak
+- Removes Cave Worms from spawning on all prospects including Missions & Open Worlds
+
+### laanp-NoCaveWormsOW_v1_w87_P.pak
+- Removes Cave Worms from spawning on Open World propsects only (Olympus & Styx Maps).
 
 ### laanp-NoKeas_v1_w87_P.pak
 - Disables spawning of Keas (big parrot-like birds)
@@ -154,30 +159,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
