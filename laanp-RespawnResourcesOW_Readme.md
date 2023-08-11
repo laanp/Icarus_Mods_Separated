@@ -1,8 +1,8 @@
-laanp-RespawnResourcesOW_v1_w87_P.pak
+laanp-RespawnResourcesOW_v1_w88_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.9.114091 (Week: 87)
+Compatible with Icarus Version: Rev. 1.3.10.114532 (Week: 88)
 
 ## Description:
 Resets all Open World resources.  Use this mod to reset your mines, nodes, trees & rocks.
@@ -37,6 +37,8 @@ Steps to reset all resources for Open World prospects for Styx & Olympus maps:
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
