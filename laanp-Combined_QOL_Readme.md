@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w87_P.pak
+laanp-Combined_QOL_v1_w88_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.9.114091 (Week: 87)
+Compatible with Icarus Version: Rev. 1.3.10.114532 (Week: 88)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -19,10 +19,12 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Workshop MXC Furnace has been modified (smelts faster than the electric furnace, and can be portable, not affected by weather) 
 - Dropship cargo and Loadout slots increase from 15 - 30 
 - Bigger slot sizes for benches, fireplace, firepit, campfire, furnaces, wood cupboard, fridge, freezer etc.
+- Inhibits ice from being placed in the Deep Freeze, and therefore stops ice from forming in the Deep Freeze. 
 - High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
 - High durability on wooden torch (only need one for the entire game!)
 - Water Pump with lower power requirements (500) and high water output (5000) - No need for additional pump
 - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
+- Water wheels no longer accumulate junk.
 - Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
 - "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
@@ -74,26 +76,28 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following:
+  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following seeds:
     - (5) Berry
     - (5) Corn
-    - (20) Coffee Bean
+    - (5) Coffee
     - (5) Soy Bean
     - (5) Pumpkin
-    - (5) Wild Tea - missing
+    - (5) Tea
     - (5) Carrot
     - (5) Mushroom
-    - (20) Lily
+    - (5) Lily
     - (5) Squash
-    - (20) Reed_Flower
+    - (5) Reed Flower
     - (5) Watermelon
-    - (20) Yeast
-    - (20) Cocoa
-    - (20) Gorse Flower
+    - (5) Yeast
+    - (5) Cocoa
+    - (5) Gorse
     - (5) Kumara
     - (5) Rhubarb
     - (5) Avocado
     - (5) Strawberry
+    - (5) Wheat
+
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
@@ -198,6 +202,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
