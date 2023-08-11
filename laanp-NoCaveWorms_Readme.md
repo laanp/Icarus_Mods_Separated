@@ -1,8 +1,8 @@
-laanp-NoCaveWorms_v1_w87_P.pak
+laanp-NoCaveWorms_v1_w88_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.9.114091 (Week: 87)
+Compatible with Icarus Version: Rev. 1.3.10.114532 (Week: 88)
 
 ## Description:
 Removes Cave Worms from spawning on all prospects including Missions & Open Worlds
@@ -61,5 +61,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
