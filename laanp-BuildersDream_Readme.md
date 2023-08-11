@@ -1,12 +1,11 @@
-laanp-BuildersDream_v1_w87_P.pak
+laanp-BuildersDream_v1_w88_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.9.114091 (Week: 87)
+Compatible with Icarus Version: Rev. 1.3.10.114532 (Week: 88)
 
 ## Description:
-Combines a number of mods in one package, to make building your top priority.  Includes all stack sizes = 100, unlimited crafting, increased crafting speeds, 
-CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
+Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
     
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
@@ -29,6 +28,7 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 - High durability on wooden torch (only need one for the entire game!)
 - Water Pump with lower power requirements (500) and high water output (5000) - No need for additional pump
 - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
+- Water wheels no longer accumulate junk.
 - Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
 - "Pete's Resource Killer" module - Revises the Workshop Animal Healthbar module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
@@ -41,6 +41,7 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary bench
 - Adds The Following Workshop Kits:
+
   - "Pete's Starter Loadout Kit" - Workshop replacement of "Carrot Farming Packet" - Contains the following:
     - ST-700 Arms Armor (high durability)
     - ST-700 Chest Armor (high durability)
@@ -78,26 +79,28 @@ CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much m
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following:
+  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following seeds:
     - (5) Berry
     - (5) Corn
-    - (20) Coffee Bean
+    - (5) Coffee
     - (5) Soy Bean
     - (5) Pumpkin
-    - (5) Wild Tea - missing
+    - (5) Tea
     - (5) Carrot
     - (5) Mushroom
-    - (20) Lily
+    - (5) Lily
     - (5) Squash
-    - (20) Reed_Flower
+    - (5) Reed Flower
     - (5) Watermelon
-    - (20) Yeast
-    - (20) Cocoa
-    - (20) Gorse Flower
+    - (5) Yeast
+    - (5) Cocoa
+    - (5) Gorse
     - (5) Kumara
     - (5) Rhubarb
     - (5) Avocado
     - (5) Strawberry
+    - (5) Wheat
+
 
   - "Pete's Circular Construction Kit" - Workshop replacement of "Go" - Contains the following:
     - (300) Concrete Beams
@@ -226,6 +229,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
