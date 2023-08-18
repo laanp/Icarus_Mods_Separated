@@ -1,8 +1,8 @@
-laanp-NoWeather_v1_w88_P.pak
+laanp-NoWeather_v1_w89_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.10.114532 (Week: 88)
+Compatible with Icarus Version: Rev. 1.3.11.114779 (Week: 89)
 
 ## Description:
 Completely removes all weather from the game, sunny all the time!
@@ -62,6 +62,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
