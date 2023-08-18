@@ -1,0 +1,250 @@
+Icarus – First Cohort
+Modding Tutorial – Adding Custom Kits to the Workshop
+By laanp
+--------------------------------------------------------------------------------------------------------------------------------
+1. Create custom Workshop menu item record in \data\Talents\D_TalentArchetypes.json
+   example:
+        {
+            "Name": "Workshop_<Kit_Menu_Name>",
+            "Model": {
+                "RowName": "Workshop"
+            },
+            "DisplayName": "NSLOCTEXT(\"D_TalentArchetypes\", \"Workshop_<Kit_Menu_Name>-DisplayName\", \"<Kit Menu Name>\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_Consume.Icon_Consume"
+        }
+
+   NOTES:
+	- Replace <Kit_Menu_Name> with your new kit menu code name
+	- Replace <Kit Menu Name> with the actual menu text
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+2. Create a custom Workshop menu item record placeholder in \data\Talents\D_TalentTrees.json
+   example:
+        {
+            "Name": "Workshop_<Kit_Menu_Name>",
+            "BackgroundTexture": "/Game/Assets/2DArt/UI/Windows/EmptyAsset.EmptyAsset",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/ITEM_Meta_Pickaxe.ITEM_Meta_Pickaxe",
+            "Archetype": {
+                "RowName": "Workshop_<Kit_Menu_Name>"
+            }
+        }
+
+   NOTES:
+	- Replace <Kit_Menu_Name> with your new kit menu code name
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+3. Create custom Workshop purchasable item(s) in your custom Workshop menu by adding records in \data\Talents\D_Talents.json
+   example:
+        {
+            "Name": "Workshop_<Kit_Name>",
+            "ExtraData": {
+                "RowName": "Meta_<Kit_Name>",        <------ points to name in D_WorkshopItems
+                "DataTableName": "D_WorkshopItems"
+            },
+            "TalentTree": {
+                "RowName": "Workshop_<Kit_Menu_Name>"   <------ points to name in D_TalentTrees
+            },
+            "Position": {           <------ screen position of the icon of your purchasable item
+                "X": 500,
+                "Y": 750
+            },
+            "Size": {
+                "X": 250,
+                "Y": 250
+            }
+        },                   <------------ delete this comma if it's the last record
+
+   NOTES:
+	- Create one of these records for each workshop item you want to add, be mindful of ending commas (last entry does not get an ending comma)
+	- Remove my "<----..." notes above if you are copying the code
+	- Replace <Kit_Menu_Name> with your new kit menu code name
+	- Replace <Kit_Name> with your new kit code name
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+4. Define custom Workshop purchasable item costs, by creating records in  \data\MetaWorkshop\D_WorkshopItems.json
+   example:
+        {
+            "Name": "Meta_<Kit_Name>",
+            "Item": {
+                "RowName": "<Kit_Name>"   <----   points to same name in D_ItemTemplate
+            },
+            "ResearchCost": [            <----   Section defines research cost
+                {
+                    "Meta": {
+                        "RowName": "Credits",      <----- Change this to ""Exotic1" if you want to charge Exotics for this
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 100             <----- How much it costs to research
+                }
+            ],
+            "ReplicationCost": [         <----   Section defines purchase cost
+                {
+                    "Meta": {
+                        "RowName": "Credits",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 50         <----- How much it costs to purchase 
+                }
+            ]
+        },           <------------ delete this comma if it's the last record 
+
+   NOTES:
+	- Create one of these records for each workshop item you want to add, be mindful of ending commas (last entry does not get an ending comma)
+	- Remove my "<----..." notes above if you are copying the code
+	- Replace <Kit_Name> with your new kit code name
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+5. Add custom Workshop purchasable kit item(s) record(s) in  \data\Items\D_ItemsStatic.json
+   for each custom kit item you are adding.
+   example:
+        {
+            "Name": "<Kit_Name>",
+            "Meshable": {
+                "RowName": "Mesh_Carbon_ArmorPack"     <---- this will be the mesh of the unbundled kit item, if you drop it
+            },
+            "Itemable": {
+                "RowName": "Item_<Kit_Name>"           <---- You can define the description name in D_Itemable.json - see below
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Consumable": {
+                "RowName": "<Kit_Name>"		  <-----  Defines what gets unbundled from the kit in D_Consumable.json - see below
+            },
+            "Usable": {
+                "RowName": "Consume"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "Audio": {
+                "RowName": "Default"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Consumable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },        <------------ delete this comma if it's the last record 
+
+   NOTES:
+	- Create one of these records for each workshop item you want to add, be mindful of ending commas (last entry does not get an ending comma)
+	- Remove my "<----..." notes above if you are copying the code
+	- Replace <Kit_Name> with your new kit code name
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+6. Add custom Workshop purchasable kit item(s) record(s) in  \data\Items\D_ItemTemplate.json
+   for each custom kit item you are adding.  These entries are placeholder records that point to "D_ItemsStatic" records.
+   example:
+        {
+            "Name": "<Kit_Name>",
+            "ItemStaticData": {
+                "RowName": "<Kit_Name>"     <----   points to same name in D_ItemsStatic
+            }
+        },    <------------ delete this comma if it's the last record 
+
+   NOTES:
+	- Create one of these records for each workshop kit item you want to add, be mindful of ending commas (last entry does not get an ending comma)
+	- Remove my "<----..." notes above if you are copying the code
+	- Replace <Kit_Name> with your new kit code name
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+7. Add what item(s) gets unbundled in your custom Workshop purchasable kit in: \data\Traits\D_Consumable.json
+   for each custom kit item you are adding.  These entries are placeholder records that point to "D_ItemsStatic" records.
+   example:
+        {
+            "Name": "<Kit_Name>",
+            "Modifier": {
+                "ModifierLifetime": 0
+            },
+            "Byproducts": [                       <----- This section defines all the items that will unbundle when you consume the kit on the planet
+                {
+                    "RowName": "Titanium_Pickaxe",
+                    "DataTableName": "D_ItemTemplate"
+                },
+                {
+                    "RowName": "Titanium_Axe",
+                    "DataTableName": "D_ItemTemplate"
+                },
+                {
+                    "RowName": "Titanium_Knife",
+                    "DataTableName": "D_ItemTemplate"
+                },
+                {
+                    "RowName": "Compound_Bow",
+                    "DataTableName": "D_ItemTemplate"
+                },
+            ]
+        },    <------------ delete this comma if it's the last record 
+
+   NOTES:
+	- Create one of these records for each workshop kit item you want to add, be mindful of ending commas (last entry does not get an ending comma)
+	- Remove my "<----..." notes above if you are copying the code
+	- Replace <Kit_Name> with your new kit code name
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+8. For each custom Workshop kit item, add a record in: \data\Traits\D_Itemable.json
+   These entries define the Display Name, Description, Icon and additional flavortext for the kit, including kit weight and stack size.
+   example:
+        {
+            "Name": "Item_<Kit_Name>",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_<Kit_Name>-DisplayName\", \"Kit Display Name\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/ITEM_Carbon_Head_V1.ITEM_Carbon_Head_V1",     <---- use any icon here...
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_<Kit_Name>-Description\", \"Everything needed to start a prospect - Titanium pickaxe, axe, and Knife\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_<Kit_Name>-FlavorText\", \"Let's Go!\")",
+            "Weight": 100,
+            "MaxStack": 1
+        },   <------------ delete this comma if it's the last record 
+
+
+   NOTES:
+	- Create one of these records for each workshop kit item you want to add, be mindful of ending commas (last entry does not get an ending comma)
+	- Remove my "<----..." notes above if you are copying the code
+	- Replace <Kit_Name> with your new kit code name
+	- Replace <Kit Display Name> with the actual kit display text
