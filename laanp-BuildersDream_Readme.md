@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w88_P.pak
+laanp-BuildersDream_v1_w89_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.10.114532 (Week: 88)
+Compatible with Icarus Version: Rev. 1.3.11.114779 (Week: 89)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -204,6 +204,7 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Visit my separated mods page (by request): [https://github.com/laanp/Icarus_Mods_Separated](https://github.com/laanp/Icarus_Mods_Separated)
 
 ## Youtube Links on Overview & How To Use:
+- [Icarus - First Cohort - Mod Highlight "laanp-BuildersDream"](https://youtu.be/yWz3LKhAOTE)
 - [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
 - [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
 - [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
@@ -229,6 +230,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
