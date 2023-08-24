@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w89_P.pak
+laanp-BuildersDream_v1_w90_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.11.114779 (Week: 89)
+Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -42,44 +42,48 @@ Combines a number of mods in one package, to make building your top priority.  I
   at the Rustic Decorations Bench, and stone statues at the masonary bench
 - Adds The Following Workshop Kits:
 
-  - "Pete's Starter Loadout Kit" - Workshop replacement of "Carrot Farming Packet" - Contains the following:
-    - ST-700 Arms Armor (high durability)
-    - ST-700 Chest Armor (high durability)
-    - ST-700 Feet Armor (high durability)
-    - ST-700 Head Armor (high durability)
-    - ST-700 Legs Armor (high durability)		
-    - Wooden Torch (high durability)
-    - Gatherer's Backpack
-    - Shengong 'Liwei' O2 Tank (prefilled) 
+  - "Pete's Starter Loadout Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - ST-700 Arms Armor
+    - ST-700 Chest Armor
+    - ST-700 Feet Armor
+    - ST-700 Head Armor
+    - ST-700 Legs Armor
+    - Gatherer's Backpack (better stats, more slots)
+    - Shengong 'Liwei' O2 Tank (prefilled)
     - Shengong 'Hulu' Canteen (prefilled)
-    - (1) Mass Dampener Modules (50% Movement Speed Increase)
-    - Titanium Knife (high durability)   		
-    - Titanium Pickaxe (high durability)		
-    - Titanium Axe (high durability)		
-    - Larkwell Arrow Bundle (100,000 arrows!)
     - Compound Bow + extra stats, including damage equivalent to Larkwell Compound Bow + extended durability
+    - Larkwell Arrow Bundle (100,000 arrows!)
+    - Titanium Pickaxe (high durability, added stats)
+    - Titanium Axe (high durability, added stats)
+    - Titanium Knife (high durability, added stats)
     - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
-    - (2) Micromeal (turns into the teleporter bundle)
-    - (1) Animal Healthbar Module (turns into "Pete's Resource Killer" module - for 1 hit ore, stone, tree)
+    - Wooden Torch (high durability - lasts forever!)
+    - (20) Dried Stringy Meat
+    - (10) Antibiotic Tonic
+    - (10) Anit-Poison Tonic
+    - (1) Mass Dampener Modules (50% speed increase each)
+    - (2) Micromeal (turns into the Teleporter Kit)
+    - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
     - (1) Adlift Module (turns into "Pete's Insane Leveling module" - for 1 hit ore, stone, tree)
 
-  - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
+  - "Pete's Starter Stone Cabin Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (100) Stone Floors
-    - (100) Stone Ramps
+    - (100) Stone Ramps	
     - (40) Stone Walls
     - (4) Stone Angled Walls
-    - (1) reinforced door
+    - (3) reinforced doors
     - (100) Concrete Beams
     - (1) Campfire
-    - (1) Bedroll                  
+    - (1) Bedroll
+    - (3) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
     - (1) Crafting Bench
     - (1) Herbalism Bench
+    - (1) Bedroll
     - (1) Mortar & Pestle
-    - (3) MXC Furnaces from Workshop (Upgrade to smelt faster than the electric furnace, and can be portable, not affected by weather)
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop item under new Menu called "Pete's Kits" - Contains the following seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -100,24 +104,22 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Avocado
     - (5) Strawberry
     - (5) Wheat
+    - (5) Fiber
 
-
-  - "Pete's Circular Construction Kit" - Workshop replacement of "Go" - Contains the following:
+  - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
     - (200) Stone Floors
     - (40) Stone Walls
     - (100) Stone Ramps
     - (3) Reinforced Doors
-    - (60) Interior Wood Creates
-    - (60) Interior Wood Beams
-    - (60) Interior Wood Floors
-    - (60) Wooden Signs
+    - (40) Interior Wood Creates
+    - (40) Wooden Signs
 
-  - "Pete's Fishing Kit" - Workshop replacement of "Endurogel" - Contains the following:
+  - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (1) Refined Wood Fishing Rod
     - (1) Advanced Fishing Trap
     - (1) Tackle Box
-    - (22) Lures (1 of each kind)
+    - (23) Lures (1 of each kind)
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -230,6 +232,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
