@@ -1,6 +1,6 @@
 # laanp Mods
 
-Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90)
+Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90) - New Frontiers
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
