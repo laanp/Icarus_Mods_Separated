@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w89_P.pak
+laanp-Combined_QOL_v1_w90_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.11.114779 (Week: 89)
+Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -13,6 +13,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
 - No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
+- All inventory slots stack size increased to 100 
+- Base inventory slots for player changed from 24 - 42
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
 - O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
 - Workshop MXC BioFuel Canister can be purchased and will autofill with 100M units (can run a generator for a long time!)
@@ -22,10 +24,10 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Inhibits ice from being placed in the Deep Freeze, and therefore stops ice from forming in the Deep Freeze. 
 - High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
 - High durability on wooden torch (only need one for the entire game!)
-- Water Pump with lower power requirements (500) and high water output (5000) - No need for additional pump
+- Water Pump with lower power requirements (500) and high water output (10,000) - No need for additional pump
 - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
-- Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
+- Compound Bow & Standard Larkwell arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
 - "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
   simply remove the module from suit auxilliary slot, to mine normally.
@@ -35,48 +37,47 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
   at the Rustic Decorations Bench, and stone statues at the masonary bench
 - Adds The Following Workshop Kits:
 
-  - "Pete's Starter Loadout Kit" - Workshop replacement of "Carrot Farming Packet" - Contains the following:
+  - "Pete's Starter Loadout Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - ST-700 Arms Armor
     - ST-700 Chest Armor
     - ST-700 Feet Armor
     - ST-700 Head Armor
     - ST-700 Legs Armor
-    - Gatherer's Backpack (better stats)
+    - Gatherer's Backpack (better stats, more slots)
     - Shengong 'Liwei' O2 Tank (prefilled)
     - Shengong 'Hulu' Canteen (prefilled)
-    - Larkwell Martinez Compound Bow (better stats)
+    - Compound Bow + extra stats, including damage equivalent to Larkwell Compound Bow + extended durability
     - Larkwell Arrow Bundle (100,000 arrows!)
     - Titanium Pickaxe (high durability, added stats)
     - Titanium Axe (high durability, added stats)
     - Titanium Knife (high durability, added stats)
     - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
     - Wooden Torch (high durability - lasts forever!)
-    - (20) Dried String Meat
+    - (20) Dried Stringy Meat
     - (10) Antibiotic Tonic
     - (10) Anit-Poison Tonic
-    - (2) Mass Dampener Modules (50% speed increase each)
+    - (1) Mass Dampener Modules (50% speed increase each)
     - (2) Micromeal (turns into the Teleporter Kit)
     - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
 
-  - "Pete's Starter Stone Cabin Kit" - Workshop replacement of "Berry Farming Packet" - Contains the following:
-    - (30) Stone Floors
-    - (20) Stone Ramps	
-    - (20) Stone Walls
+  - "Pete's Starter Stone Cabin Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (100) Stone Floors
+    - (100) Stone Ramps	
+    - (40) Stone Walls
     - (4) Stone Angled Walls
-    - (1) reinforced door
-    - (40) Concrete Beams
+    - (3) reinforced doors
+    - (100) Concrete Beams
     - (1) Campfire
     - (1) Bedroll
-    - (1) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
+    - (3) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
     - (1) Crafting Bench
     - (1) Herbalism Bench
     - (1) Bedroll
     - (1) Mortar & Pestle
-    - (2) Stone Furnaces
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop replacement of "Wheat Farming Packet" - Contains the following seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop item under new Menu called "Pete's Kits" - Contains the following seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -97,6 +98,22 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Avocado
     - (5) Strawberry
     - (5) Wheat
+    - (5) Fiber
+
+  - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (300) Concrete Beams
+    - (200) Stone Floors
+    - (40) Stone Walls
+    - (100) Stone Ramps
+    - (2) Reinforced Doors
+    - (40) Interior Wood Creates
+    - (40) Wooden Signs
+
+  - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (1) Refined Wood Fishing Rod
+    - (1) Advanced Fishing Trap
+    - (1) Tackle Box
+    - (23) Lures (1 of each kind)
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -202,6 +219,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
