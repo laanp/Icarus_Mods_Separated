@@ -1,6 +1,6 @@
 # laanp Mods
 
-Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90) - New Frontiers
+Compatible with Icarus Version: Rev. 2.0.0.115258 (Week: 90)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
@@ -17,7 +17,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w90_P.pak
+### laanp-BuildersDream_v2_w90_P.pak
 - Combines laanp-Combined_QOL + laanp_FreeBuild with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
@@ -64,7 +64,13 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 - Some things to watch:
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
+
+### laanp-MXC_CanUpgrade40k_v1_w90_P.pak
+- Upgrades Workshop MXC Fuel Cannister to 40K pre-filled fuel 
  
+### laanp-MXC_CanUpgrade80k_v1_w90_P.pak
+- Upgrades Workshop MXC Fuel Cannister to 80K pre-filled fuel 
+
 ### laanp-RespawnResourcesOW_v1_w90_P.pak
 - Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
 - How To Use:
@@ -159,50 +165,5 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
