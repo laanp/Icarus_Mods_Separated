@@ -71,7 +71,7 @@ To download the *.pak file or *.EXMOD file, click on "Latest" Release button to 
 ### laanp-MXC_CanUpgrade80k_v1_w90_P.pak
 - Upgrades Workshop MXC Fuel Cannister to 80K pre-filled fuel 
 
-### laanp-RespawnResourcesOW_v1_w90_P.pak
+### laanp-RespawnResourcesOW_v2_w90_P.pak
 - Resets all Open World resources.  One time mod to use and reset your mines, nodes, trees, rocks.
 - How To Use:
    - Install as per any mod (refer to Installation Details below)
