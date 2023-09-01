@@ -111,6 +111,13 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
+
+### After a Game Update:
+It is generally good practice to follow this procedure when the game goes through an update: 
+   - After the files have been updated and patched, startup your Icarus game without any mods installed. 
+   - Go into character selection, and view the talent/tech trees, then exit the game completely.  
+   - Now install the new mods compatible with the week# and play the game.
+
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
 - "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server
@@ -120,7 +127,8 @@ Usually the server settings/mods will override anything running on the local cli
 There is a known issue where ocassionally, after you teleport back to a saved destination when you walk over the teleport pad, you will teleport 
 and the screen will become pitch black.  Just activate the remote on your hotbar (remember the key), and teleport back to the teleport pad.  
 The screen should correct itself, then step off the pad and walk back over it to retry the teleport to the saved location.  
-It will usually work the 2nd time you try.
+It will usually work the 2nd time you try. You'll also sometimes be teleported under the graphics mesh, just move around a bit and you will pop back up to the surface. 
+If it still doesn't correct itself, hit ESC and click on the "Unstuck" menu option.
 
 ### "Pete's Resource Killer"
 If you are using "Pete's Resource Killer" module (1 hit for tree, rocks and ore gathering) - it goes without saying if you are chopping a tree
@@ -165,62 +173,6 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
