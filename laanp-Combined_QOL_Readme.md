@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w90_P.pak
+laanp-Combined_QOL_v1_w91_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90)
+Compatible with Icarus Version: Rev. 2.0.1.115492 (Week: 91)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -219,6 +219,10 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
