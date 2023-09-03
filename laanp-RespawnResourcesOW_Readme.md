@@ -5,10 +5,11 @@ Mod Version: 1
 Compatible with Icarus Version: Rev. 2.0.1.115492 (Week: 91)
 
 ## Description:
-Resets all Open World resources.  Use this mod to reset your mines, nodes, trees & rocks.
+Resets all Open World resources in Olympus, Styx & Prometheus maps.  Use this mod to reset your mines, nodes, trees & rocks. 
+NOTE*** Will not reset Scoria, Clay or Obsidian rock formations (anything you can mine with a Sledgehammer).
 
 ## Mod Details:
-Steps to reset all resources for Open World prospects for Styx, Olympus & Promethius maps:
+Steps to reset all resources for Open World prospects: 
 1. Place the file "laanp-RespawnResourcesOW_vx_wYY_P.pak" into the mods folder for your game at:
    (drive)\Program Files (x86)\Steam\steamapps\common\Icarus\Icarus\Content\Paks\mods
    If the \mods directory does not exist, create it.
