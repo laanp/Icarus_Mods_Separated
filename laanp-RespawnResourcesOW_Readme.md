@@ -5,7 +5,7 @@ Mod Version: 1
 Compatible with Icarus Version: Rev. 2.0.1.115492 (Week: 91)
 
 ## Description:
-Resets all Open World resources in Olympus, Styx & Prometheus maps.  Use this mod to reset your mines, nodes, trees & rocks. 
+Resets all Open World resources in Olympus, Styx & Prometheus maps.  Use this mod to reset your mines, nodes, trees & rocks.    
 NOTE*** Will not reset Scoria, Clay or Obsidian rock formations (anything you can mine with a Sledgehammer).
 
 ## Mod Details:
