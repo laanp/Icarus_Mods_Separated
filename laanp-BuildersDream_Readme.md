@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w91_P.pak
+laanp-BuildersDream_v1_w92_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.0.1.115492 (Week: 91)
+Compatible with Icarus Version: Rev. 2.0.2.115842 (Week: 92)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -12,9 +12,9 @@ Combines a number of mods in one package, to make building your top priority.  I
 - Base experience gain amplified to speed up leveling significantly
 - Crafting speeds increased significantly
 - Craft everything for free in all benches (FreeBuild mod included)
+- All Workshop items are free to research & craft
 - All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000)
 - Base player inventory slots changed from 24 - 42
-- All Workshop items are free to research & craft
 - Adds crafting of Oxite, Coal & Salt to Character crafting level
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - Temperature effects disabled
@@ -121,6 +121,14 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (1) Tackle Box
     - (23) Lures (1 of each kind)
 
+  - "Pete's Ore Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (100) Iron Ore
+    - (100) Copper Ore
+    - (100) Aluminium Ore
+    - (100) Platinum Ore
+    - (100) Titanium Ore
+    - (100) Gold Ore
+    - (100) Frozen Ore
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
@@ -232,6 +240,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
