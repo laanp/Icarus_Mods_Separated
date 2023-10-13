@@ -1,8 +1,8 @@
-laanp-NoTreeLightningFires_v1_w96_P.pak
+laanp-NoTreeLightningFires_v1_w97_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.0.6.116557 (Week: 96)
+Compatible with Icarus Version: Rev. 2.1.0.116866 (Week: 97)
 
 ## Description:
 Stops trees from catching on fire due to lightning strikes
@@ -57,6 +57,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
