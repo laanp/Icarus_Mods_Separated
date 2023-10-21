@@ -21,6 +21,19 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Combines laanp-Combined_QOL + laanp_FreeBuild with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
+### laanp-StacksAndKits_v1_w98_P.pak
+- A more natural Icarus experience, with a minimized kit set:
+  - Player levels shows actual, beyond 60
+  - Added new Workshop menu item called "Pete's Kits" - Which contains the following:
+    - "Pete's Basic Starter Kit" (includes advanced tools, and a bedroll)
+    - "Pete's All Seeds Farming Packets" - All the seeds in the game
+    - "Pete's Promethius Kit" - containing the following:
+      - (100) Frozen Ore
+      - (100) Clay
+      - (100) Obsidian
+      - (100) Scoria
+      - (100) Crystallized Miasma
+
 ### laanp-WorkshopFree_v1_w98_P.pak
 - All items in the Workshop are free. Go crazy!
 
@@ -65,9 +78,6 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
 
-### laanp-MXC_CanUpgrade40k_v1_w98_P.pak
-- Upgrades Workshop MXC Fuel Cannister to 40K pre-filled fuel 
- 
 ### laanp-MXC_CanUpgrade80k_v1_w98_P.pak
 - Upgrades Workshop MXC Fuel Cannister to 80K pre-filled fuel 
 
@@ -173,24 +183,6 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
