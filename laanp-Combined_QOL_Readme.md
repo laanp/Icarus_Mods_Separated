@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w98_P.pak
+laanp-Combined_QOL_v1_w99_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.1.117032 (Week: 98)
+Compatible with Icarus Version: Rev. 2.1.2.117234 (Week: 99)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -99,6 +99,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
+    - (5) Tomato
+    - (5) Potato
 
   - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
@@ -114,6 +116,13 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Advanced Fishing Trap
     - (1) Tackle Box
     - (23) Lures (1 of each kind)
+
+  - "Pete's Promethius Materials Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (100) Frozen Ore
+    - (100) Clay
+    - (100) Obsidian
+    - (100) Scoria
+    - (100) Crystallized Miasma
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -219,6 +228,10 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
