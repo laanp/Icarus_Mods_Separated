@@ -1,12 +1,15 @@
-laanp-StacksAndKits_v1_w101_P.pak
+laanp-StacksAndKits_v2_w101_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.4.117586 (Week: 101)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other 
-quality of life aspects of my other mods.    
+quality of life aspects of my other mods. 
+
+## V2 Update
+Updated the mod so Biofuel Cans, Canteens, O2 Tanks & Glass Bottles do not stack to avoid loosing filled containers.
 
 ### Changes: 
 - Player levels shows actual, beyond 60
