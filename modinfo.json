@@ -4,10 +4,10 @@
       "name": "laanp-Combined_QOL",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-Combined_QOL_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-Combined_QOL_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
@@ -16,10 +16,10 @@
       "name": "laanp-BuildersDream",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-BuildersDream_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-BuildersDream_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildersDream_Readme.md"
@@ -28,10 +28,10 @@
       "name": "laanp-StacksAndKits",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods.    ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-StacksAndKits_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-StacksAndKits_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StacksAndKits_Readme.md"
@@ -40,10 +40,10 @@
       "name": "laanp-WorkshopFree",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "- All items in the Workshop are free. Go crazy!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-WorkshopFree_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-WorkshopFree_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-WorkshopFree_Readme.md"
@@ -52,10 +52,10 @@
       "name": "laanp-PetesResourceKiller",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "- Inspired by DexterMod's 'One_Hit_Wonder' mod, this suit module enables 100% of the time, 1-hit resource gathering for trees, rocks & ores.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-PetesResourceKiller_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-PetesResourceKiller_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesResourceKiller_Readme.md"
@@ -64,10 +64,10 @@
       "name": "laanp-KeepTheTrees",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-KeepTheTrees_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-KeepTheTrees_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-KeepTheTrees_Readme.md"
@@ -76,10 +76,10 @@
       "name": "laanp-NoTreeLightningFires",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Stops trees from catching on fire due to lightning strikes",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-NoTreeLightningFires_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-NoTreeLightningFires_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoTreeLightningFires_Readme.md"
@@ -88,10 +88,10 @@
       "name": "laanp-NoWindFallenTrees",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Stops trees from falling down in a wind storm",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-NoWindFallenTrees_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-NoWindFallenTrees_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWindFallenTrees_Readme.md"
@@ -100,10 +100,10 @@
       "name": "laanp-NoCaveWorms",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Removes Cave Worms from spawning on all prospects including Missions & Open Worlds",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-NoCaveWorms_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-NoCaveWorms_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoCaveWorms_Readme.md"
@@ -112,10 +112,10 @@
       "name": "laanp-NoCaveWormsOW",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Removes Cave Worms from spawning on Open World propsects only (Olympus & Styx Maps).",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-NoCaveWormsOW_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-NoCaveWormsOW_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoCaveWormsOW_Readme.md"
@@ -124,10 +124,10 @@
       "name": "laanp-NoKeas",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Disables spawning of Keas (big parrot-like birds)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-NoKeas_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-NoKeas_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoKeas_Readme.md"
@@ -136,10 +136,10 @@
       "name": "laanp-NoWeather",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Completely removes all weather from the game, sunny all the time!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-NoWeather_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-NoWeather_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
@@ -148,10 +148,10 @@
       "name": "laanp-LargerDropshipSlots",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Dropship cargo and Loadout slots increase from 15 - 30",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-LargerDropshipSlots_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-LargerDropshipSlots_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
@@ -160,10 +160,10 @@
       "name": "laanp-FreeBuild",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Everything is free to build at all benches.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-FreeBuild_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-FreeBuild_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
@@ -172,10 +172,10 @@
       "name": "laanp-MXC_CanUpgrade80k",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Upgrades Workshop MXC Fuel Cannister to 80K pre-filled fuel",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-MXC_CanUpgrade80k_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-MXC_CanUpgrade80k_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MXC_CanUpgrade80k_Readme.md"
@@ -184,10 +184,10 @@
       "name": "laanp-RespawnResourcesOW",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w100",
+      "compatibility": "w101",
       "description": "Resets all Open World resources in Olympus, Styx & Prometheus maps.  Use this mod to reset your mines, nodes, trees & rocks.    NOTE*** Will not reset Scoria, Clay or Obsidian rock formations (anything you can mine with a Sledgehammer).",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w100/laanp-RespawnResourcesOW_v1_w100_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w101/laanp-RespawnResourcesOW_v1_w101_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RespawnResourcesOW_Readme.md"
