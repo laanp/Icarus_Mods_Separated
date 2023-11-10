@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w100_P.pak
+laanp-StacksAndKits_v1_w101_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.3.117372 (Week: 100)
+Compatible with Icarus Version: Rev. 2.1.4.117586 (Week: 101)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other 
@@ -64,6 +64,8 @@ quality of life aspects of my other mods.
     - (100) Obsidian
     - (100) Scoria
     - (100) Crystallized Miasma
+
+
 
 
 
