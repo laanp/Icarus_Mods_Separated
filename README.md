@@ -69,6 +69,9 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
 
+### laanp-NoWaterWheelJunk_v1_w102_P.pak
+- Water wheels no longer accumulate junk.
+
 ### laanp-LargerDropshipSlots_v1_w102_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
