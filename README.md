@@ -59,6 +59,10 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### laanp-NoCaveWormsOW_v1_w102_P.pak
 - Removes Cave Worms from spawning on Open World propsects only (Olympus & Styx Maps).
 
+### laanp-NoFreezerIce_v1_w102_P.pak
+- Stops ice from accumulating in the Deep Freeze (freezer)
+- Note: Side-effect is that ice cannot be placed in the Deep Freeze at all!
+
 ### laanp-NoKeas_v1_w102_P.pak
 - Disables spawning of Keas (big parrot-like birds)
 - On some maps and in some of your building locations, Keas will spawn either directly in, or under base structures (especially when building higher bases).
@@ -71,6 +75,10 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 
 ### laanp-NoWaterWheelJunk_v1_w102_P.pak
 - Water wheels no longer accumulate junk.
+
+### laanp-RealLevels_v1_w102_P.pak
+- Shows character true level based on experience points.
+- Standard game will cap your level display at 60, and this mod will unlock it. 
 
 ### laanp-LargerDropshipSlots_v1_w102_P.pak
 - Dropship cargo slots increase from 15 - 30 
