@@ -3,11 +3,11 @@
     {
       "name": "laanp-Combined_QOL",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w105",
       "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w105/laanp-Combined_QOL_v1_w105_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v2_w105/laanp-Combined_QOL_v2_w105_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
