@@ -1,6 +1,6 @@
-laanp-Combined_QOL_v1_w105_P.pak
+laanp-Combined_QOL_v2_w105_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.8.118221 (Week: 105)
 
@@ -99,8 +99,6 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
-    - (5) Tomato
-    - (5) Potato
 
   - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
