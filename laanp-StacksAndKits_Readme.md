@@ -1,12 +1,12 @@
-laanp-StacksAndKits_v1_w105_P.pak
+laanp-StacksAndKits_v1_w106_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.8.118221 (Week: 105)
+Compatible with Icarus Version: Rev. 2.1.9.118433 (Week: 106)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other 
-quality of life aspects of my other mods.    
+quality of life aspects of my other mods, specifically the Pete's Kits Workshop items.    
 
 ### Changes: 
 - Player levels shows actual, beyond 60
@@ -33,7 +33,7 @@ quality of life aspects of my other mods.
     - (10) Anti-Poison Tonic
     - (1) Bedroll
 
-  - "Pete's All Seeds Farming Packet" - Workshop item under new Menu called "Pete's Kits" - Contains the following seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -55,8 +55,8 @@ quality of life aspects of my other mods.
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
-    - (5) Tomato
     - (5) Potato
+    - (5) Tomato
 
   - "Pete's Promethius Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (100) Frozen Ore
@@ -64,6 +64,8 @@ quality of life aspects of my other mods.
     - (100) Obsidian
     - (100) Scoria
     - (100) Crystallized Miasma
+
+
 
 
 
