@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v2_w105_P.pak
+laanp-Combined_QOL_v1_w106_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.8.118221 (Week: 105)
+Compatible with Icarus Version: Rev. 2.1.9.118433 (Week: 106)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -77,7 +77,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop item under new Menu called "Pete's Kits" - Contains the following seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -99,6 +99,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
+    - (5) Potato
+    - (5) Tomato
 
   - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
@@ -226,6 +228,10 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
