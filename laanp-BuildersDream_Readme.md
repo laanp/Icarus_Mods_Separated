@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w105_P.pak
+laanp-BuildersDream_v1_w106_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.8.118221 (Week: 105)
+Compatible with Icarus Version: Rev. 2.1.9.118433 (Week: 106)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -27,7 +27,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 - High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
 - High durability on wooden torch (only need one for the entire game!)
 - Water Pump with lower power requirements (500) and high water output (5000) - No need for additional pump
-- Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
+- Biofuel Generator, Water wheel & Wind Turbines now with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
 - Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
@@ -83,7 +83,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop item under new Menu called "Pete's Kits" - Contains the following seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -105,6 +105,9 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
+    - (5) Potato
+    - (5) Tomato
+
 
   - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
@@ -240,6 +243,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
