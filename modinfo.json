@@ -73,6 +73,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesInsaneLeveler_Readme.md"
     },
     {
+      "name": "laanp-BiomeColors",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w106",
+      "description": "This mod will switch the Promethius map to replace Swamp & Grasslands (ugly purple sky) biomes to normal forest atmosphere colors.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w106/laanp-BiomeColors_v1_w106_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BiomeColors_Readme.md"
+    },
+    {
       "name": "laanp-KeepTheTrees",
       "author": "laanp",
       "version": "1.0",
