@@ -49,6 +49,11 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - When this module is placed in any aux. slot of your envirosuit, will advance player character XP and Level very quickly.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
+### laanp-BiomeColors_v1_w106_P.pak
+- This mod will switch the Promethius map to replace Swamp & Grasslands biomes to normal forest atmosphere colors. 
+- No more ugly purple sky in the Grasslands area.
+- Clear skies in the Swamp areas.
+
 ### laanp-KeepTheTrees_v1_w106_P.pak
 - Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes
 
@@ -198,54 +203,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
