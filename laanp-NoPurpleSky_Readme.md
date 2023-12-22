@@ -1,8 +1,8 @@
-laanp-NoPurpleSky_v1_w106_P.pak
+laanp-NoPurpleSky_v1_w107_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.9.118433 (Week: 106)
+Compatible with Icarus Version: Rev. 2.1.10.118570 (Week: 107)
 
 ## Description:
 This mod will switch the Promethius map to replace Grasslands biomes to normal forest atmosphere colors.     
@@ -56,6 +56,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
