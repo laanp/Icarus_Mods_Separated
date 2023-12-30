@@ -1,8 +1,9 @@
-laanp-BuildersDream_v1_w108_P.pak
+laanp-BuildersDream_v2_w108_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.11.118569 (Week: 108)
+- Corrected Teleporter not unbundling correctly with Pete's Starter Kit
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
