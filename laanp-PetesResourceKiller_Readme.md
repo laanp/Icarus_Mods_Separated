@@ -1,8 +1,8 @@
-laanp-PetesResourceKiller_v1_w108_P.pak
+laanp-PetesResourceKiller_v1_w109_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.11.118569 (Week: 108)
+Compatible with Icarus Version: Rev. 2.1.12.118568 (Week: 109)
 
 ## Description:
 Inspired by DexterMod's 'One_Hit_Wonder' mod, this suit module enables 100% of the time, 1-hit resource gathering for trees, rocks & ores.
@@ -60,6 +60,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
