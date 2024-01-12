@@ -1,16 +1,16 @@
-laanp-StacksAndKits_v1_w109_P.pak
+laanp-StacksAndKits_v2_w110_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
-Compatible with Icarus Version: Rev. 2.1.12.118568 (Week: 109)
+Compatible with Icarus Version: Rev. 2.1.13.118586 (Week: 110)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other 
-quality of life aspects of my other mods, specifically the Pete's Kits Workshop items.    
+quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
 
 ### Changes: 
 - Player levels shows actual, beyond 60
-- All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000)
+- All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000, Fiber to 500)
 - Adds The Following Workshop Kits, under "Pete's Kits" menu group in the Workshop: 
   - "Pete's Basic Loadout Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - ST-700 Arms Armor
@@ -64,15 +64,12 @@ quality of life aspects of my other mods, specifically the Pete's Kits Workshop 
     - (100) Scoria
     - (100) Crystallized Miasma
 
-- Adds The Following Workshop Modules, under "Pete's Modules" menu group in the Workshop: 
-   - "Pete's Resource Killer" Module
-     - When placed in aux. slot of suit, activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
-     - Simply remove the module from your envirosuit auxilliary slot, to neutralize the effects and chop trees or mine normally.
-     - Make sure you have "Seasoned Logsman" talent unlocked, otherwise you'll end up spending all your time picking up wood, instead of it automatically going into your inverntory!
-
-   - "Pete's Insane Leveler" Module
-     - When this module is placed in any aux. slot of your envirosuit, will advance player character XP and Level very quickly.
-     - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
+- Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
+  - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
+  - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
+  - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
+  - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%   
+  simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 
 ## Installation Details
@@ -120,6 +117,10 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
