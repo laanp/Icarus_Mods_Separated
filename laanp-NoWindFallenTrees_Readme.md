@@ -1,8 +1,8 @@
-laanp-NoWindFallenTrees_v1_w109_P.pak
+laanp-NoWindFallenTrees_v2_w110_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
-Compatible with Icarus Version: Rev. 2.1.12.118568 (Week: 109)
+Compatible with Icarus Version: Rev. 2.1.13.118586 (Week: 110)
 
 ## Description:
 Stops trees from falling down in a wind storm
@@ -55,6 +55,10 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
