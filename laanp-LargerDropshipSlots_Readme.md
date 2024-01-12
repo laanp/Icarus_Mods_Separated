@@ -1,8 +1,8 @@
-laanp-LargerDropshipSlots_v1_w109_P.pak
+laanp-LargerDropshipSlots_v2_w110_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
-Compatible with Icarus Version: Rev. 2.1.12.118568 (Week: 109)
+Compatible with Icarus Version: Rev. 2.1.13.118586 (Week: 110)
 
 ## Description:
 Dropship cargo and Loadout slots increase from 15 - 30
@@ -59,6 +59,10 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
