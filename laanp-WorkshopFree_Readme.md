@@ -1,14 +1,16 @@
-laanp-WorkshopFree_v2_w110_P.pak
+laanp-WorkshopFree_v1_w111_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.13.118586 (Week: 110)
+Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
 
 ## Description:
 - All items in the Workshop are free. Go crazy!
 
 ## Mod Details:
 - Allows you to research & buy all items for free at the Workshop.
+
+
 
 
 
