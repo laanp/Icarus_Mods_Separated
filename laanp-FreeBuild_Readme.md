@@ -1,8 +1,8 @@
-laanp-FreeBuild_v2_w110_P.pak
+laanp-FreeBuild_v1_w111_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.13.118586 (Week: 110)
+Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
 
 ## Description:
 Everything is free to build at all benches.
@@ -58,6 +58,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
