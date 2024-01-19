@@ -35,7 +35,6 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary bench
-- Adds The Following Workshop Kits:
 
 - Adds the Following Workshop Kits under a new Workshop menu called "Pete's Kits":
 
@@ -109,6 +108,13 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Advanced Fishing Trap
     - (1) Tackle Box
     - (23) Lures (1 of each kind)
+
+  - "Pete's Nuclear Extractor Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (3) "Pete's Nuclear Extractors"
+      - These extractors are self contained, powered by an internal nuclear power generator and do not require separate fuel or electricity.
+      - They can be carried & stacked in regular inventory (not in the G-slot)
+      - These extractors will speed up exotic extraction by 90%! 
+      - Extractors or Kits are not returnable to the station, but they are cost effective to research at 50 credits and 25 credits to purchase. 
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
@@ -206,9 +212,10 @@ the place and not in your inventory!  This is expected behaviour.
 This module, when placed in your envirosuit auxilliary slot, provides immunity to damage from lava, fire, poison & cave pneumonia.
 The afflictions will still show on your character status effects, however you will not take any damage. 
 
-### Equipment Retrieval
-None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
-You need to purchase the kits at the Workshop, before launching any mission, Open World, or Outpost. 
+### Preparation & Equipment Retrieval
+- Make sure you purchase and equip the modified "Xigo S5-II envirosuit" or "Shengong 'Bhiu' envirosuit before your drop on the planet.  These suits have the extra auxilliary slots that can hold the modules provided in this mod.
+- None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
+- You need to purchase the kits at the Workshop, before launching any mission, Open World, or Outpost. 
 
 ## Want Separated Mods?
 - Visit my separated mods page (by request): [https://github.com/laanp/Icarus_Mods_Separated](https://github.com/laanp/Icarus_Mods_Separated)
@@ -238,66 +245,4 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
