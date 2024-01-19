@@ -29,7 +29,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w111",
-      "description": "- This mod alters the game Seed Pouch so it will have 30 slots.- Adds new Workshop menu item called "Pete's Kits" which will contain a new Workshop item called "Pete's All Seeds Farming Packet" that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.",
+      "description": "- This mod alters the game Seed Pouch so it will have 30 slots.- Adds new Workshop menu item called 'Pete's Kits' which will contain a new Workshop item called 'Pete's All Seeds Farming Packet' that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w111/laanp-PetesSeedKit_v1_w111_P.pak"
       },
