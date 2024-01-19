@@ -5,7 +5,7 @@ Mod Version: 1
 Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
 
 ## Description:
-Creates a purchasable kit containing 3 x "Pete's Nuclear Extractor".
+Creates a purchasable kit containing 3 x "Pete's Nuclear Extractor" for quickly & conveniently extracting exotics on your prospects.
 
 ## Mod Details:
 - Purchase at the Workshop under new menu group "Pete's Kits".
