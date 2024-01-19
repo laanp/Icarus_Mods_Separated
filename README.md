@@ -72,7 +72,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - When this module is placed in any aux. slot of your envirosuit, will activate 50% increase in base movement & sprint speed.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesMover_v1_w111_P.pak
+### laanp-PetesNuclearExtractor_v1_w111_P.pak
 - Creates a purchasable kit containing 3 x "Pete's Nuclear Extractors".
 - Purchase at the Workshop under new menu group "Pete's Kits".
 - The kit will unbundle on the planet with (3) new items called "Pete's Nuclear-Powered Extractors".
