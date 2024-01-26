@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w111_P.pak
+laanp-Combined_QOL_v1_w112_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
+Compatible with Icarus Version: Rev. 2.1.15.119165 (Week: 112)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -17,6 +17,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Base inventory slots for player changed from 24 - 42
 - Adds crafting of Epoxy from wood, & Salt from Stone at Character crafting level
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
+- Crop plots/mounds no longer get 'Seed Fatigue' debuff after harvesting.
 - O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
 - Workshop MXC BioFuel Canister can be purchased and will autofill with 100M units (can run a generator for a long time!)
 - Workshop MXC Furnace has been modified (smelts faster than the electric furnace, and can be portable, not affected by weather) 
@@ -102,6 +103,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Volatile Exotic Seeds
 
   - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (1) Refined Wood Fishing Rod
@@ -109,12 +111,14 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Tackle Box
     - (23) Lures (1 of each kind)
 
-  - "Pete's Nuclear Extractor Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
-    - (3) "Pete's Nuclear Extractors"
-      - These extractors are self contained, powered by an internal nuclear power generator and do not require separate fuel or electricity.
-      - They can be carried & stacked in regular inventory (not in the G-slot)
-      - These extractors will speed up exotic extraction by 90%! 
-      - Extractors or Kits are not returnable to the station, but they are cost effective to research at 50 credits and 25 credits to purchase. 
+  - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
+    - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
+    - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
+    - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+    - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+    - (10) Portable Beacons - To mark your mining equipment on the map
+    - All custom extractors/harvestor are modified for quick extraction
+    - They can be carried & stacked in regular inventory (not in the G-slot)
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
@@ -190,6 +194,10 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
+### This mod was designed as a bundled standalone mod that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
+If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
+Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
+
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
 - "Extinguish Fire" - Does not work in single player client mode, or on Dedicated Server.
@@ -245,4 +253,68 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
