@@ -1,6 +1,6 @@
 # laanp Mods
 
-Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
+Compatible with Icarus Version: Rev. 2.1.15.119165 (Week: 112)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
@@ -13,19 +13,15 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 
 ## Mods Available:
 
-### laanp-Combined_QOL_v1_w111_P.pak
+### laanp-Combined_QOL_v1_w112_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w111_P.pak
-- Combines laanp-Combined_QOL + laanp_FreeBuild with a bunch of new features!:
+### laanp-BuildersDream_v1_w112_P.pak
+- Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
-### laanp-PetesSeedKit_v1_w111_P.pak
-- This mod alters the game Seed Pouch so it will have 30 slots.
-- Adds new Workshop menu item called "Pete's Kits" which will contain a new Workshop item called "Pete's All Seeds Farming Packet" that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.
-
-### laanp-StacksAndKits_v1_w111_P.pak
+### laanp-StacksAndKits_v1_w112_P.pak
 - A more natural Icarus experience, with a minimized kit set:
   - Player levels shows actual, beyond 60
   - Added new Workshop menu item called "Pete's Kits" - Which contains the following:
@@ -37,28 +33,40 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
       - (100) Obsidian
       - (100) Scoria
       - (100) Crystallized Miasma
+   - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
+     - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
+     - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
+     - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+     - (10) Portable Beacons - To mark your mining equipment on the map
+     - All custom extractors/harvestor are modified for quick extraction
+     - They can be carried & stacked in regular inventory (not in the G-slot)
   - Adds new Workshop menu item called "Pete's Modules" - Which contains the following:
     - "Pete's Resource Killer" - activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
     - "Pete's Insane Leveler" - will advance player character XP and Level very quickly.
     - "Pete's Lava Cave Lord" - will activate 100% damage resistance against falling in lava, fire, poison and pneumonia.
     - "Pete's Mover" - will activate 50% increase in base movement & sprint speed.
 
-### laanp-WorkshopFree_v1_w111_P.pak
+### laanp-PetesSeedKit_v1_w112_P.pak
+- This mod alters the game Seed Pouch so it will have 30 slots.
+- Adds new Workshop menu item called "Pete's Kits" which will contain a new Workshop item called "Pete's All Seeds Farming Packet" that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.
+
+### laanp-WorkshopFree_v1_w112_P.pak
 - All items in the Workshop are free. Go crazy!
 
-### laanp-PetesResourceKiller_v1_w111_P.pak
+### laanp-PetesResourceKiller_v1_w112_P.pak
 - New module called "Pete's Resource Killer" can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When placed in aux. slot of suit, activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
 - Simply remove the module from your envirosuit auxilliary slot, to neutralize the effects and chop trees or mine normally.
 - Make sure you have "Seasoned Logsman" talent unlocked, otherwise you'll end up spending all your time picking up wood, instead of it automatically going into your inverntory!
 - Rome wasn't built in a day, but this will get you there quicker!
 
-### laanp-PetesInsaneLeveler_v1_w111_P.pak
+### laanp-PetesInsaneLeveler_v1_w112_P.pak
 - Introduces a new module called "Pete's Insane Leveler" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, will advance player character XP and Level very quickly.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesLavaCaveLord_v1_w111_P.pak
+### laanp-PetesLavaCaveLord_v1_w112_P.pak
 - Introduces a new module called "Pete's Lava Cave Lord" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, activates 100% resistance to:
   - Pneumonia
@@ -67,67 +75,73 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
   - Damage from any poison effects (Caveworms, nasty fish, Komodo bites, etc)
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesMover_v1_w111_P.pak
+### laanp-PetesMover_v1_w112_P.pak
 - Introduces a new module called "Pete's Mover" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, will activate 50% increase in base movement & sprint speed.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
 ### laanp-PetesNuclearExtractor_v1_w111_P.pak
-- Creates a purchasable kit containing 3 x "Pete's Nuclear Extractors".
-- Purchase at the Workshop under new menu group "Pete's Kits".
-- The kit will unbundle on the planet with (3) new items called "Pete's Nuclear-Powered Extractors".
-- These extractors are self contained, powered by an internal nuclear power generator and do not require separate fuel or electricity.
-- They can be carried & stacked in regular inventory (No G-Slot requirement)
-- These extractors will speed up exotic extraction by 90%! 
-- Extractors or Kits are not returnable to the station, but they are cost effective to research at 50 credits and 25 credits to purchase. 
+Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pete's Mining Kit" containing the following:
+  - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
+  - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
+  - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+  - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+  - (10) Portable Beacons - To mark your mining equipment on the map
+  - All custom extractors/harvestor are modified for quick extraction
+  - They can be carried & stacked in regular inventory (not in the G-slot)
 
-### laanp-NoPurpleSky_v1_w111_P.pak
-- This mod will switch the Promethius map to replace the Grasslands biome to normal forest atmosphere colors. 
+### laanp-NoPurpleSky_v1_w112_P.pak
+- This mod will switch the Prometheus map to replace the Grasslands biome to normal forest atmosphere colors. 
 - No more ugly purple sky in the Grasslands areas.
 
-### laanp-NoSwampFog_v1_w111_P.pak
+### laanp-NoSwampFog_v1_w112_P.pak
 - This mod will switch the Promethius map to replace the Swamp biome to normal forest atmosphere colors. 
 - No more green fog, with clear skies in the Swamp areas.
 
-### laanp-KeepTheTrees_v1_w111_P.pak
+### laanp-KeepTheTrees_v1_w112_P.pak
 - Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes
 
-### laanp-NoTreeLightningFires_v1_w111_P.pak
+### laanp-NoTreeLightningFires_v1_w112_P.pak
 - Stops trees from catching on fire due to lightning strikes
 
-### laanp-NoWindFallenTrees_v1_w111_P.pak
+### laanp-NoWindFallenTrees_v1_w112_P.pak
 - Stops trees from falling down in a wind storm
 
-### laanp-NoCaveWorms_v1_w111_P.pak
+### laanp-NoCaveWorms_v1_w112_P.pak
 - Removes Cave Worms from spawning on all prospects including Missions & Open Worlds
 
-### laanp-NoCaveWormsOW_v1_w111_P.pak
+### laanp-NoCaveWormsOW_v1_w112_P.pak
 - Removes Cave Worms from spawning on Open World propsects only (Olympus & Styx Maps).
 
-### laanp-NoFreezerIce_v1_w111_P.pak
+### laanp-NoFreezerIce_v1_w112_P.pak
 - Stops ice from accumulating in the Deep Freeze (freezer)
 
-### laanp-NoKeas_v1_w111_P.pak
+### laanp-NoKeas_v1_w112_P.pak
 - Disables spawning of Keas (big parrot-like birds)
 - On some maps and in some of your building locations, Keas will spawn either directly in, or under base structures (especially when building higher bases).
   This can be quite annoying when building, this mod removes them from the maps entirely.
 
-### laanp-NoWeather_v1_w111_P.pak
+### laanp-NoPlantFatigue_v1_w112_P.pak
+- Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting 
+- Harvest without penalty!
+- You may need to pickup previously deployed crop plots that had 'Seed Fatigue' debuff and re-deploy the crop plot to clear the previous debuffs. 
+
+### laanp-NoWeather_v1_w112_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
 
-### laanp-NoWaterWheelJunk_v1_w111_P.pak
+### laanp-NoWaterWheelJunk_v1_w112_P.pak
 - Water wheels no longer accumulate junk.
 
-### laanp-RealLevels_v1_w111_P.pak
+### laanp-RealLevels_v1_w112_P.pak
 - Shows character true level based on experience points.
 - Standard game will cap your level display at 60, and this mod will unlock it. 
 
-### laanp-LargerDropshipSlots_v1_w111_P.pak
+### laanp-LargerDropshipSlots_v1_w112_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
-### laanp-FreeBuild_v1_w111_P.pak
+### laanp-FreeBuild_v1_w112_P.pak
 - Everything is free to build at all benches.
 - Some things to watch:
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
@@ -136,7 +150,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 ### laanp-MXC_CanUpgrade80k_v1_w111_P.pak
 - Upgrades Workshop MXC Fuel Cannister to 80K pre-filled fuel 
 
-### laanp-RespawnResourcesOW_v1_w111_P.pak
+### laanp-RespawnResourcesOW_v1_w112_P.pak
 - Resets all Open World resources (Olympus, Styx, Promethius).  Use this mod whenever you want to reset your mines, nodes, trees, rocks.
 - How To Use:
    - Install as per any mod (refer to Installation Details below)
@@ -176,6 +190,9 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
+### Some of my bundled mods (laanp-BuildersDream & laanp-Combined_QOL) were designed as a bundled standalone mods that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
+If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
+Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### After a Game Update:
 It is generally good practice to follow this procedure when the game goes through an update: 
@@ -209,7 +226,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
 - [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
 
-## laanp_mod_compatibility_matrix.pdf
+## laanp Mod Compatibility Matrix
+The [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp_mod_compatibility_matrix.pdf) is a pdf that will provide a visual x-ref of all of my separated mods, and the json files each affect. 
 
 ### How to use this matrix:
 - Scan for your mod name in leftmost column and note the marked columns to the right showing associated json files that are affected. If any other mod is affecting the same file, then those mods are not compatible with the mod you have selected.
@@ -238,6 +256,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
