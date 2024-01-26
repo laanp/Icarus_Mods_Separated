@@ -1,17 +1,16 @@
-laanp-PetesSeedKit_v1_w111_P.pak
+laanp-PetesSeedKit_v1_w112_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
+Compatible with Icarus Version: Rev. 2.1.15.119165 (Week: 112)
 
 ## Description:
-- This mod alters the game Seed Pouch so it will have 30 slots.
-- Adds new Workshop menu item called "Pete's Kits" which will contain a new Workshop item called "Pete's All Seeds Farming Packet" that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.
+This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a custom seed pouch in the Workshop, pre-filled with (5) each of all the seeds found in the game. 
 
-### Changes: 
+## Mod Details:
 - Modified Seed Pouch with 30 Slots
-- New Workshop menu item called "Pete's Kits"
-- New Workshop item called "Pete's All Seeds Farming Packet" (located under "Pete's Kits") when unbundled on planet provides:
+- New Workshop menu item called 'Pete's Kits'
+- New Workshop item called 'Pete's All Seeds Farming Packet' (located under 'Pete's Kits') when unbundled on planet provides:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -35,6 +34,7 @@ Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Volatile Exotic Seeds
 
 
 ## Installation Details
@@ -82,6 +82,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
