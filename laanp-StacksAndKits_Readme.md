@@ -1,12 +1,11 @@
-laanp-StacksAndKits_v1_w111_P.pak
+laanp-StacksAndKits_v1_w112_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
+Compatible with Icarus Version: Rev. 2.1.15.119165 (Week: 112)
 
 ## Description:
-This mod is designed for Icarus players who want to keep the experience intact but like some of the other 
-quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
+This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
 
 ### Changes: 
 - Player levels shows actual, beyond 60
@@ -58,7 +57,7 @@ quality of life aspects of my other mods, specifically the some starter kits in 
     - (5) Tomato
 
   - "Pete's Nuclear Extractor Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
-    - (3) "Pete's Nuclear Extractors"
+    - (3) "Pete's Nuclear Extractors" - to extract exotics quickly and conveniently on your prospects. 
       - These extractors are self contained, powered by an internal nuclear power generator and do not require separate fuel or electricity.
       - They can be carried & stacked in regular inventory (not in the G-slot)
       - These extractors will speed up exotic extraction by 90%! 
@@ -124,3 +123,174 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
