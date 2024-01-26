@@ -80,7 +80,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - When this module is placed in any aux. slot of your envirosuit, will activate 50% increase in base movement & sprint speed.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesNuclearExtractor_v1_w111_P.pak
+### laanp-PetesMiningKit_v1_w112_P.pak
 Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pete's Mining Kit" containing the following:
   - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
   - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
@@ -256,66 +256,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
