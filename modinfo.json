@@ -109,16 +109,16 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMover_Readme.md"
     },
     {
-      "name": "laanp-PetesNuclearExtractor",
+      "name": "laanp-PetesMiningKit",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w111",
+      "compatibility": "w112",
       "description": "",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w111/laanp-PetesNuclearExtractor_v1_w111_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w112/laanp-PetesMiningKit_v1_w112_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesNuclearExtractor_Readme.md"
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMiningKit_Readme.md"
     },
     {
       "name": "laanp-NoPurpleSky",
