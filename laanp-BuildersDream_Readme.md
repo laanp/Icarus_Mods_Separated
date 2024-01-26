@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w111_P.pak
+laanp-BuildersDream_v1_w112_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.14.118795 (Week: 111)
+Compatible with Icarus Version: Rev. 2.1.15.119165 (Week: 112)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -20,6 +20,8 @@ Combines a number of mods in one package, to make building your top priority.  I
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - Temperature effects disabled
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
+- Crop plots/mounds no longer get 'Seed Fatigue' debuff after harvesting.
+- Basic Ceiling Light can now attach to walls and underside of ramps.
 - O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
 - Workshop MXC BioFuel Canister can be purchased and will autofill with 100M units (can run a generator for a long time!)
 - Workshop MXC Furnace has been modified (smelts faster than the electric furnace, and can be portable, not affected by weather) 
@@ -37,7 +39,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 - "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance
 - "Gatherer's Backpack" from the workshop now adds 18 slots, with -65% weight reduction for ores & wood
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
-  at the Rustic Decorations Bench, and stone statues at the masonary bench 
+  at the Rustic Decorations Bench, and stone statues at the masonary benches 
 
 - Adds the Following Workshop Kits under a new Workshop menu called "Pete's Kits":
 
@@ -105,6 +107,14 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Volatile Exotic Seeds
+
+  - "Pete's Food Buff Kit" (Fish Pie Icon) - When consumed on planet, unbundles into the following:
+    - (100) Vegetable Pie
+    - (100) Fish Pie
+    - (100) Vegetable Roll
+    - (100) Shepherd's Roll
+    - (100) Savory Roll
 
   - "Pete's Advanced Construction Kit" (Concrete Beam Icon) - Contains the following:
     - (200) Stone Floors
@@ -149,6 +159,15 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (1) Advanced Fishing Trap
     - (1) Tackle Box
     - (23) Lures (1 of each kind)
+
+  - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
+    - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
+    - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
+    - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+    - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+    - (10) Portable Beacons - To mark your mining equipment on the map
+    - All custom extractors/harvestor are modified for quick extraction
+    - They can be carried & stacked in regular inventory (not in the G-slot)
 
   - "Pete's Ore Kit" (Ore Icon) - Contains the following:
     - (100) Iron Ore
@@ -232,6 +251,10 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
+### This mod was designed as a bundled standalone mod that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
+If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
+Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
+
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
 - "Extinguish Fire" - Does not work in single player client mode, or on Dedicated Server.
@@ -257,6 +280,10 @@ The afflictions will still show on your character status effects, however you wi
 ### FreeBuild
 Basically you can craft anything you have unlocked in your Tech Tree.
 Auto-craft benches will continuously craft for the first applicable ordered item in its inventory slots, until the bench inventory fills up!
+
+### WorkshopFree
+With this mod, you must have Red Exotics (DLC Content - New Frontiers) unlocked in your game to research/craft Workshop items that require Red Exotics. 
+Red Exotics are unlocked with an entry in the Profile.json
 
 ### Equipment Retrieval
 None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
@@ -293,6 +320,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
