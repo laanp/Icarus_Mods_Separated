@@ -134,6 +134,9 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
 ### laanp-NoWaterWheelJunk_v1_w112_P.pak
 - Water wheels no longer accumulate junk.
 
+### laanp-PowerSurge_v1_w111_P.pak
+- All power generating devices modified to provide 50k power output. Includes Biofuel Generator, Solar Panel, Water wheel & Wind Turbines - More than enough for all your power needs. 
+
 ### laanp-RealLevels_v1_w112_P.pak
 - Shows character true level based on experience points.
 - Standard game will cap your level display at 60, and this mod will unlock it. 
@@ -146,9 +149,6 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
 - Some things to watch:
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
-
-### laanp-MXC_CanUpgrade80k_v1_w111_P.pak
-- Upgrades Workshop MXC Fuel Cannister to 80K pre-filled fuel 
 
 ### laanp-RespawnResourcesOW_v1_w112_P.pak
 - Resets all Open World resources (Olympus, Styx, Promethius).  Use this mod whenever you want to reset your mines, nodes, trees, rocks.
@@ -192,7 +192,7 @@ Usually the server settings/mods will override anything running on the local cli
 ## Known Bugs/Issues/Notes - As of this current release.
 ### Some of my bundled mods (laanp-BuildersDream & laanp-Combined_QOL) were designed as a bundled standalone mods that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
 If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
-Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp_mod_compatibility_matrix.pdf) for a x-ref of laanp mods that can be used together in the game.
+Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### After a Game Update:
 It is generally good practice to follow this procedure when the game goes through an update: 
