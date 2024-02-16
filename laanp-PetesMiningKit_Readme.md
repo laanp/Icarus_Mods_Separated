@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w114_P.pak
+laanp-PetesMiningKit_v1_w115_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.17.119455 (Week: 114)
+Compatible with Icarus Version: Rev. 2.1.18.119581 (Week: 115)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, and volatile red exotics.  Will unbundle custom extractors, mining drills and harvesters along with (10) beacons to help keep track of all your equipment on the map.
@@ -65,6 +65,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
