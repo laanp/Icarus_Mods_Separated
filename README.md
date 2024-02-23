@@ -2,6 +2,11 @@
 
 Compatible with Icarus Version: Rev. 2.1.19.119802 (Week: 116)
 _______________________________________________________________________________________________________________________________________________________________________
+Update Notice Alert
+-------------------------------------------------
+I am going on much-needed vacation starting Feb. 29th - March 7th, which means I will be back in time to update my mods for Week 118 updates, but will be missing all laanp mod updates for week 117.
+_______________________________________________________________________________________________________________________________________________________________________
+
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
 RECOMMENDED: Download the [Icarus Mod Manager by Jim72](https://github.com/Jimk72/Icarus_Software). It will allow you to easily and conveniently install, remove, merge, and update any mods you use! Mods can be updated every week simply by updating the data folder and then updating the installed mods without the need to re-download versions of them. 
