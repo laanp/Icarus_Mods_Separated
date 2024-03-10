@@ -39,7 +39,6 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
      - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
      - (10) Portable Beacons - To mark your mining equipment on the map
-     - All custom extractors/harvestor are modified for quick extraction
      - They can be carried & stacked in regular inventory (not in the G-slot)
   - Adds new Workshop menu item called "Pete's Modules" - Which contains the following:
     - "Pete's Resource Killer" - activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
