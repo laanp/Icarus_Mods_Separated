@@ -1,6 +1,6 @@
-laanp-Combined_QOL_v1_w118_P.pak
+laanp-Combined_QOL_v2_w118_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
 
@@ -194,9 +194,12 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
-### This mod was designed as a bundled standalone mod that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
-If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
+### This mod was designed as a bundled standalone mod that affects a number of files and may not be compatible with other mods - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
 Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
+
+### "Pete's Mining Kit"
+Since W117 Update, my original speedier versions of these extractors no longer worked, so all mining speeds are now per normal game mode.  
+I am keeping my eye out for a fix, but it has eluded me thus far. 
 
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
@@ -253,78 +256,6 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
