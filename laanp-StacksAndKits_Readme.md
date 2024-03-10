@@ -1,6 +1,6 @@
-laanp-StacksAndKits_v1_w118_P.pak
+laanp-StacksAndKits_v2_w118_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
 
@@ -56,12 +56,13 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Potato
     - (5) Tomato
 
-  - "Pete's Nuclear Extractor Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
-    - (3) "Pete's Nuclear Extractors" - to extract exotics quickly and conveniently on your prospects. 
-      - These extractors are self contained, powered by an internal nuclear power generator and do not require separate fuel or electricity.
-      - They can be carried & stacked in regular inventory (not in the G-slot)
-      - These extractors will speed up exotic extraction by 90%! 
-      - Extractors or Kits are not returnable to the station, but they are cost effective to research at 50 credits and 25 credits to purchase. 
+  - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
+    - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
+    - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
+    - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+    - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+    - (10) Portable Beacons - To mark your mining equipment on the map
+    - They can be carried & stacked in regular inventory (not in the G-slot)
 
   - "Pete's Promethius Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (100) Frozen Ore
