@@ -1,6 +1,6 @@
-laanp-PetesMiningKit_v1_w118_P.pak
+laanp-PetesMiningKit_v2_w118_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
 
@@ -15,7 +15,6 @@ Adds a new Workshop menu called "Pete's Kits" and includes the following kit:
      - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
      - (10) Portable Beacons - To mark your mining equipment on the map
-     - All custom extractors/harvestor are modified for quick extraction
      - They can be carried & stacked in regular inventory (not in the G-slot)
      - Equipment cannot be returned to the station.
 
