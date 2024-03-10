@@ -13,15 +13,15 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 
 ## Mods Available:
 
-### laanp-Combined_QOL_v1_w118_P.pak
+### laanp-Combined_QOL_v2_w118_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w118_P.pak
+### laanp-BuildersDream_v2_w118_P.pak
 - Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
-### laanp-StacksAndKits_v1_w118_P.pak
+### laanp-StacksAndKits_v2_w118_P.pak
 - A more natural Icarus experience, with a minimized kit set:
   - Player levels shows actual, beyond 60
   - Added new Workshop menu item called "Pete's Kits" - Which contains the following:
@@ -80,14 +80,13 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 - When this module is placed in any aux. slot of your envirosuit, will activate 50% increase in base movement & sprint speed.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesMiningKit_v1_w118_P.pak
+### laanp-PetesMiningKit_v2_w118_P.pak
 Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pete's Mining Kit" containing the following:
   - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
   - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
   - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
   - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
   - (10) Portable Beacons - To mark your mining equipment on the map
-  - All custom extractors/harvestor are modified for quick extraction
   - They can be carried & stacked in regular inventory (not in the G-slot)
 
 ### laanp-NoPurpleSky_v1_w118_P.pak
