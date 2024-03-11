@@ -229,18 +229,6 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoKeas_Readme.md"
     },
     {
-      "name": "laanp-NoPlantFatigue",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w118",
-      "description": "Stops all seeded plants from experiencing 'Plant Fatigue' debuff after harvesting.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w118/laanp-NoPlantFatigue_v1_w118_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoPlantFatigue_Readme.md"
-    },
-    {
       "name": "laanp-NoWeather",
       "author": "laanp",
       "version": "1.0",
