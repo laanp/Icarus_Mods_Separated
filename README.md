@@ -119,11 +119,6 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
 - On some maps and in some of your building locations, Keas will spawn either directly in, or under base structures (especially when building higher bases).
   This can be quite annoying when building, this mod removes them from the maps entirely.
 
-### laanp-NoPlantFatigue_v1_w118_P.pak
-- Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting 
-- Harvest without penalty!
-- You may need to pickup previously deployed crop plots that had 'Seed Fatigue' debuff and re-deploy the crop plot to clear the previous debuffs. 
-
 ### laanp-NoWeather_v1_w118_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
