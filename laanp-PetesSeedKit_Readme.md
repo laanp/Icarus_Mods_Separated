@@ -1,8 +1,8 @@
-laanp-PetesSeedKit_v1_w118_P.pak
+laanp-PetesSeedKit_v1_w119_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
+Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
 
 ## Description:
 This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a custom seed pouch in the Workshop, pre-filled with (5) each of all the seeds found in the game. 
@@ -34,8 +34,8 @@ This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a cu
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Bramble
     - (5) Volatile Exotic Seeds
-
 
 ## Installation Details
 
@@ -82,6 +82,10 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
