@@ -1,8 +1,8 @@
-laanp-BuildersDream_v2_w118_P.pak
+laanp-BuildersDream_v1_w119_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
+Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -83,7 +83,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
+  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -107,6 +107,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Bramble
     - (5) Volatile Exotic Seeds
 
   - "Pete's Food Buff Kit" (Fish Pie Icon) - When consumed on planet, unbundles into the following:
@@ -166,6 +167,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
     - (10) Portable Beacons - To mark your mining equipment on the map
+    - All custom extractors/harvestor are modified for quick extraction
     - They can be carried & stacked in regular inventory (not in the G-slot)
 
   - "Pete's Ore Kit" (Ore Icon) - Contains the following:
@@ -319,6 +321,12 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
 
 
 
