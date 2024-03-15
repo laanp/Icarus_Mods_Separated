@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v2_w118_P.pak
+laanp-Combined_QOL_v1_w119_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
+Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -79,7 +79,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
+  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -103,6 +103,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Bramble
     - (5) Volatile Exotic Seeds
 
   - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
@@ -257,6 +258,10 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
