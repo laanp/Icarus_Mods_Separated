@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v2_w118_P.pak
+laanp-StacksAndKits_v1_w119_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
+Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -31,7 +31,7 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (10) Anti-Poison Tonic
     - (1) Bedroll
 
-  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
+  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -55,6 +55,8 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Bramble
+    - (5) Volatile Exotic Seeds
 
   - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
     - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
@@ -124,6 +126,14 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
+
+
+
+
 
 
 
