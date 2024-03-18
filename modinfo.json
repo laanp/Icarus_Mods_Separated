@@ -291,7 +291,7 @@
     {
       "name": "laanp-LargerDropshipSlots",
       "author": "laanp",
-      "version": "1.0",
+      "version": "W119-v1.0",
       "compatibility": "w119",
       "description": "Dropship cargo and Loadout slots increase from 15 - 30",
       "files": {
