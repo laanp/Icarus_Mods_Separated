@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w119_P.pak
+laanp-PetesMiningKit_v1_w120_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
+Compatible with Icarus Version: Rev. 2.1.23.120788 (Week: 120)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, and volatile red exotics.  Will unbundle custom extractors, mining drills and harvesters along with (10) beacons to help keep track of all your equipment on the map.
@@ -17,6 +17,11 @@ Adds a new Workshop menu called "Pete's Kits" and includes the following kit:
      - (10) Portable Beacons - To mark your mining equipment on the map
      - They can be carried & stacked in regular inventory (not in the G-slot)
      - Equipment cannot be returned to the station.
+
+## Known Bugs/Issues/Notes - As of this current release.
+### "Pete's Mining Kit"
+For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" with your mouse cursor. 
+This does not affect the player, and can be ignored.  Deep-mining drill will function at higher speeds.
 
 
 ## Installation Details
@@ -64,6 +69,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
