@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w119_P.pak
+laanp-BuildersDream_v1_w120_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
+Compatible with Icarus Version: Rev. 2.1.23.120788 (Week: 120)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -321,6 +321,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
