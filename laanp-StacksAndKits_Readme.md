@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w120_P.pak
+laanp-StacksAndKits_v1_w121_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.23.120788 (Week: 120)
+Compatible with Icarus Version: Rev. 2.1.24.120925 (Week: 121)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -20,12 +20,13 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - Gatherer's Backpack
     - Shengong 'Liwei' O2 Tank (prefilled)
     - Shengong 'Hulu' Canteen (prefilled)
-    - Larkwell Compound Bow + extended durability
-    - Larkwell Arrow Bundle (100,000 arrows!)
+    - Larkwell Compound Bow (high durability)
+    - Larkwell Arrow Bundle (100,000 arrows in 1 stack!)
     - Titanium Pickaxe (high durability)
     - Titanium Axe (high durability)
     - Titanium Knife (high durability)
-    - Wooden Torch (high durability - lasts forever!)
+    - Titanium Sickle (high durability)
+    - Wooden Torch (high durability)
     - (20) Dried Stringy Meat
     - (10) Antibiotic Tonic
     - (10) Anti-Poison Tonic
@@ -33,10 +34,11 @@ This mod is designed for Icarus players who want to keep the experience intact b
 
 - Upgrades certain items durability to 10M for:
   - Items noted as (high durability) in "Pete's Basic Loadout Kit" above.
-  - Inaris "Ventura" Knife in Workshop
-  - 
-
-
+  - Inaris "Ventura" Knife (Workshop)
+  - Inaris "Neves" Pickaxe
+  - Larkwell Martinez Compound Bow
+  - Hunting Rifle
+  - Trench Shotgun
 
   - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following seeds:
     - (5) Berry
@@ -115,6 +117,30 @@ if the ...\mods directory does not exist, create it.
 Use the exact same mods on both server and client machine or else run the risk of weird stuff happening.
 Usually the server settings/mods will override anything running on the local client machine(s), but match the mods to stay out of trouble.
 
+## Known Bugs/Issues/Notes - As of this current release.
+### "Pete's Mining Kit"
+For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
+This does not affect the player, and can be ignored.  All drills will function at higher speeds.
+
+### Teleporter:  
+There is a known issue where ocassionally, after you teleport back to a saved destination when you walk over the teleport pad, you will teleport 
+and the screen will become pitch black.  Just activate the remote on your hotbar (remember the key), and teleport back to the teleport pad.  
+The screen should correct itself, then step off the pad and walk back over it to retry the teleport to the saved location.  
+It will usually work the 2nd time you try.
+
+### "Pete's Resource Killer"
+If you are using "Pete's Resource Killer" module (1 hit for tree, rocks and ore gathering) - it goes without saying if you are chopping a tree
+with your axe, and do not have the Talent "Seasoned Logsman" - the one that auto picks up your wood, you'll end up with wood pieces all over
+the place and not in your inventory!  This is expected behaviour.
+
+### "Pete's Lava Cave Lord"
+This module, when placed in your envirosuit auxilliary slot, provides immunity to damage from lava, fire, poison & cave pneumonia.
+The afflictions will still show on your character status effects, however you will not take any damage. 
+
+### Equipment Retrieval
+None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
+You need to purchase the kits at the Workshop, before launching any mission, Open World, or Outpost. 
+
 ## Disclaimer
 I have been playing with these mods for quite some time now, with no problems... having said that:
 - Backup and save all user data before installing or using any mods.
@@ -133,6 +159,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
