@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w120_P.pak
+laanp-BuildersDream_v1_w121_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.23.120788 (Week: 120)
+Compatible with Icarus Version: Rev. 2.1.24.120925 (Week: 121)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -52,7 +52,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - Gatherer's Backpack (better stats, more slots)
     - Shengong 'Liwei' O2 Tank (prefilled)
     - Shengong 'Hulu' Canteen (prefilled)
-    - Compound Bow + extra stats, including damage equivalent to Larkwell Compound Bow + extended durability
+    - Compound Bow + extra stats, including damage equivalent to Larkwell Compound Bow +(high durability)
     - Larkwell Arrow Bundle (100k arrows!) - unbundle in 1 slot
     - Titanium Pickaxe (high durability, added stats)
     - Titanium Axe (high durability, added stats)
@@ -65,6 +65,14 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (100) Anti-Poison Tonic
     - (2) Teleporter Kit bundles
     - (1) Pete's Resource Killer module - for 1 hit ore, stone, tree
+
+    - Upgrades certain items durability to 10M for:
+      - Items noted as (high durability) in "Pete's Starter Loadout Kit" above.
+      - Inaris "Ventura" Knife (Workshop)
+      - Inaris "Neves" Pickaxe
+      - Larkwell Martinez Compound Bow
+      - Hunting Rifle
+      - Trench Shotgun
 
   - "Pete's Starter Stone Cabin Kit" (Stone Wall Icon) - Contains the following:
     - (100) Stone Floors
@@ -178,6 +186,13 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (100) Titanium Ore
     - (100) Gold Ore
 
+  - "Pete's Promethius Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
+    - (100) Frozen Ore
+    - (100) Clay
+    - (100) Obsidian
+    - (100) Scoria
+    - (100) Crystallized Miasma
+
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
   - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
@@ -256,12 +271,17 @@ Usually the server settings/mods will override anything running on the local cli
 If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
 Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
+### "Pete's Mining Kit"
+For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
+This does not affect the player, and can be ignored.  All drills will function at higher speeds.
+
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
 - "Extinguish Fire" - Does not work in single player client mode, or on Dedicated Server.
 - "Clear Foliage" - Don't panic if you accidentally hit this and all your local flora is gone.  It only lasts for your current session.
 - On Dedicated server (multiplayer), Turning on/off closest local fire, will only show for player who initiated it. 
 - On Dedicated server (multiplayer), Turning on/off lights, will only show for player who initiated it.
+- Turning lights and local Fire on/off may cause the game to freeze. Would recommend using in-game interface instead.
 
 ### Teleporter:  
 There is a known issue where ocassionally, after you teleport back to a saved destination when you walk over the teleport pad, you will teleport 
@@ -321,6 +341,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
