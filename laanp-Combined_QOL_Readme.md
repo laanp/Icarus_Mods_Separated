@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w121_P.pak
+laanp-Combined_QOL_v1_w122_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.24.120925 (Week: 121)
+Compatible with Icarus Version: Rev. 2.1.25.121153 (Week: 122)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -61,6 +61,14 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (100) Anti-Poison Tonic
     - (2) Teleporter Kit bundles
     - (1) Pete's Resource Killer module - for 1 hit ore, stone, tree
+
+    - Upgrades certain items durability to 10M for:
+      - Items noted as (high durability) in "Pete's Starter Loadout Kit" above.
+      - Inaris "Ventura" Knife (Workshop)
+      - Inaris "Neves" Pickaxe
+      - Larkwell Martinez Compound Bow
+      - Hunting Rifle
+      - Trench Shotgun
 
   - "Pete's Starter Stone Cabin Kit" (Stone Wall Icon) - Contains the following:
     - (100) Stone Floors
@@ -200,8 +208,8 @@ You may have success merging with other mods using various Mod Managers, but do 
 Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### "Pete's Mining Kit"
-Since W117 Update, my original speedier versions of these extractors no longer worked, so all mining speeds are now per normal game mode.  
-I am keeping my eye out for a fix, but it has eluded me thus far. 
+For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
+This does not affect the player, and can be ignored.  All drills will function at higher speeds.
 
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
@@ -258,6 +266,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
