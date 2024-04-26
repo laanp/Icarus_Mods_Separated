@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w124_P.pak
+laanp-BuildersDream_v1_w125_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.27.121535 (Week: 124)
+Compatible with Icarus Version: Rev. 2.2.0.121975 (Week: 125)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -268,6 +268,7 @@ Usually the server settings/mods will override anything running on the local cli
 
 ## Known Bugs/Issues/Notes - As of this current release.
 ### This mod was designed as a bundled standalone mod that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
+This mod uses a variation of Jimk72's CustomOptions, Teleporter and Camera_Distance mods, so do not merge those mods with this one!! 
 If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
 Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
@@ -341,6 +342,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
