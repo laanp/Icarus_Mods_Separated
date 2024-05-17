@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w127_P.pak
+laanp-Combined_QOL_v1_w128_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.2.122731 (Week: 127)
+Compatible with Icarus Version: Rev. 2.2.3.122924 (Week: 128)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -128,6 +128,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (10) Portable Beacons - To mark your mining equipment on the map
     - All custom extractors/harvestor are modified for quick extraction
     - They can be carried & stacked in regular inventory (not in the G-slot)
+
+  - "Pete's Mini Foundry" - Compact version of the Foundry (1/4 the size!)
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
@@ -267,6 +269,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
