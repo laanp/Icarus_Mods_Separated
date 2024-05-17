@@ -4,10 +4,10 @@
       "name": "laanp-Combined_QOL",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-Combined_QOL_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-Combined_QOL_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
@@ -16,10 +16,10 @@
       "name": "laanp-BuildersDream",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-BuildersDream_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-BuildersDream_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildersDream_Readme.md"
@@ -28,178 +28,70 @@
       "name": "laanp-StacksAndKits",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-StacksAndKits_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-StacksAndKits_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StacksAndKits_Readme.md"
     },
     {
+      "name": "laanp-FreeBuild",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Everything is free to build at all benches.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-FreeBuild_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
+    },
+    {
+      "name": "laanp-LargerDropshipSlots",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Dropship cargo and Loadout slots increase from 15 - 30",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-LargerDropshipSlots_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
+    },
+    {
+      "name": "laanp-MiniFoundry",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Creates a new Workshop item under "Pete's Kits" called "Pete's Mini Foundry".A smaller version of the original that will fit in a single story building!  ",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-MiniFoundry_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MiniFoundry_Readme.md"
+    },
+    {
       "name": "laanp-MXC_Furnace",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "This mod will enhance the existing Workshop MXC Furnace to smelt like an Electric Furnace, increase smelting speed, and can be installed anywhere (inside/outside).     ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-MXC_Furnace_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-MXC_Furnace_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MXC_Furnace_Readme.md"
     },
     {
-      "name": "laanp-PetesSeedKit",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a custom seed pouch in the Workshop, pre-filled with (5) each of all the seeds found in the game. ",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PetesSeedKit_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesSeedKit_Readme.md"
-    },
-    {
-      "name": "laanp-WorkshopFree",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "All items in the Workshop are free. Go crazy!",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-WorkshopFree_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-WorkshopFree_Readme.md"
-    },
-    {
-      "name": "laanp-PetesResourceKiller",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "New suit module which enables 1-hit resource gathering for trees, rocks & ores.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PetesResourceKiller_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesResourceKiller_Readme.md"
-    },
-    {
-      "name": "laanp-PetesInsaneLeveler",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "This mod allows players to level up very quickly, through use of a custom module.Provides a new Workshop module that can be activated at any time by placing in your envirosuit to increase experience points and levels your character very quickly.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PetesInsaneLeveler_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesInsaneLeveler_Readme.md"
-    },
-    {
-      "name": "laanp-PetesLavaCaveLord",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "This suit module enables complete damage resistance from falling in Lava, being on fire, or pneumonia and poison effects.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PetesLavaCaveLord_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesLavaCaveLord_Readme.md"
-    },
-    {
-      "name": "laanp-PetesMover",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Custom suit module that increases base movement & sprint speed.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PetesMover_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMover_Readme.md"
-    },
-    {
-      "name": "laanp-PetesMiningKit",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, and volatile red exotics.  Will unbundle custom extractors, mining drills and harvesters along with (10) beacons to help keep track of all your equipment on the map.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PetesMiningKit_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMiningKit_Readme.md"
-    },
-    {
-      "name": "laanp-NoPurpleSky",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "This mod will switch the Prometheus map to replace Grasslands biomes to normal forest atmosphere colors.     ",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoPurpleSky_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoPurpleSky_Readme.md"
-    },
-    {
-      "name": "laanp-NoSwampFog",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "This mod will switch the Promethius map to replace Swamp biomes to normal forest atmosphere colors.     ",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoSwampFog_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoSwampFog_Readme.md"
-    },
-    {
-      "name": "laanp-KeepTheTrees",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-KeepTheTrees_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-KeepTheTrees_Readme.md"
-    },
-    {
-      "name": "laanp-NoTreeLightningFires",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Stops trees from catching on fire due to lightning strikes",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoTreeLightningFires_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoTreeLightningFires_Readme.md"
-    },
-    {
-      "name": "laanp-NoWindFallenTrees",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Stops trees from falling down in a wind storm",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoWindFallenTrees_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWindFallenTrees_Readme.md"
-    },
-    {
       "name": "laanp-NoCaveCreatures",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Removes Cave Worms & Bees from spawning on all prospects including Missions & Open Worlds",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoCaveCreatures_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoCaveCreatures_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoCaveCreatures_Readme.md"
@@ -208,10 +100,10 @@
       "name": "laanp-NoCaveCreaturesOW",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Removes Cave Worms & Bees from spawning in caves on Open World propsects only (Olympus, Styx & Prometheus Maps).",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoCaveCreaturesOW_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoCaveCreaturesOW_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoCaveCreaturesOW_Readme.md"
@@ -220,10 +112,10 @@
       "name": "laanp-NoFreezerIce",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Stops ice from accumulating in the Deep Freeze (freezer)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoFreezerIce_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoFreezerIce_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoFreezerIce_Readme.md"
@@ -232,58 +124,178 @@
       "name": "laanp-NoKeas",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Disables spawning of Keas (big parrot-like birds)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoKeas_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoKeas_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoKeas_Readme.md"
     },
     {
+      "name": "laanp-NoPurpleSky",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "This mod will switch the Prometheus map to replace Grasslands biomes to normal forest atmosphere colors.     ",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoPurpleSky_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoPurpleSky_Readme.md"
+    },
+    {
       "name": "laanp-NoSeedFatigue",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoSeedFatigue_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoSeedFatigue_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoSeedFatigue_Readme.md"
     },
     {
-      "name": "laanp-NoWeather",
+      "name": "laanp-NoSwampFog",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
-      "description": "Completely removes all weather from the game, sunny all the time!",
+      "compatibility": "w128",
+      "description": "This mod will switch the Promethius map to replace Swamp biomes to normal forest atmosphere colors.     ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoWeather_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoSwampFog_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoSwampFog_Readme.md"
+    },
+    {
+      "name": "laanp-NoTreeLightningFires",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Stops trees from catching on fire due to lightning strikes",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoTreeLightningFires_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoTreeLightningFires_Readme.md"
+    },
+    {
+      "name": "laanp-NoWindFallenTrees",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Stops trees from falling down in a wind storm",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoWindFallenTrees_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWindFallenTrees_Readme.md"
     },
     {
       "name": "laanp-NoWaterWheelJunk",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Water wheels no longer accumulate junk.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-NoWaterWheelJunk_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoWaterWheelJunk_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWaterWheelJunk_Readme.md"
     },
     {
+      "name": "laanp-NoWeather",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Completely removes all weather from the game, sunny all the time!",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-NoWeather_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
+    },
+    {
+      "name": "laanp-PetesSeedKit",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a custom seed pouch in the Workshop, pre-filled with (5) each of all the seeds found in the game. ",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PetesSeedKit_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesSeedKit_Readme.md"
+    },
+    {
+      "name": "laanp-PetesInsaneLeveler",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "This mod allows players to level up very quickly, through use of a custom module.Provides a new Workshop module that can be activated at any time by placing in your envirosuit to increase experience points and levels your character very quickly.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PetesInsaneLeveler_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesInsaneLeveler_Readme.md"
+    },
+    {
+      "name": "laanp-PetesLavaCaveLord",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "This suit module enables complete damage resistance from falling in Lava, being on fire, or pneumonia and poison effects.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PetesLavaCaveLord_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesLavaCaveLord_Readme.md"
+    },
+    {
+      "name": "laanp-PetesMiningKit",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, and volatile red exotics.  Will unbundle custom extractors, mining drills and harvesters along with (10) beacons to help keep track of all your equipment on the map.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PetesMiningKit_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMiningKit_Readme.md"
+    },
+    {
+      "name": "laanp-PetesMover",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "Custom suit module that increases base movement & sprint speed.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PetesMover_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMover_Readme.md"
+    },
+    {
+      "name": "laanp-PetesResourceKiller",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "New suit module which enables 1-hit resource gathering for trees, rocks & ores.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PetesResourceKiller_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesResourceKiller_Readme.md"
+    },
+    {
       "name": "laanp-PowerSurge",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "All power generating devices modified to provide 50k power output. Includes Biofuel Generator, Solar Panel, Water wheel & Wind Turbines - More than enough for all your power needs.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-PowerSurge_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-PowerSurge_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PowerSurge_Readme.md"
@@ -292,49 +304,37 @@
       "name": "laanp-RealLevels",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Shows real player XP level",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-RealLevels_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-RealLevels_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RealLevels_Readme.md"
     },
     {
-      "name": "laanp-LargerDropshipSlots",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Dropship cargo and Loadout slots increase from 15 - 30",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-LargerDropshipSlots_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
-    },
-    {
-      "name": "laanp-FreeBuild",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w127",
-      "description": "Everything is free to build at all benches.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-FreeBuild_v1_w127_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
-    },
-    {
       "name": "laanp-RespawnResourcesOW",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w127",
+      "compatibility": "w128",
       "description": "Resets all Open World resources in Olympus, Styx & Prometheus maps.  Use this mod to reset your mines, nodes, trees & rocks.    NOTE*** Will not reset Scoria, Clay or Obsidian rock formations (anything you can mine with a Sledgehammer).",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w127/laanp-RespawnResourcesOW_v1_w127_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-RespawnResourcesOW_v1_w128_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RespawnResourcesOW_Readme.md"
+    },
+    {
+      "name": "laanp-WorkshopFree",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w128",
+      "description": "All items in the Workshop are free. Go crazy!",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w128/laanp-WorkshopFree_v1_w128_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-WorkshopFree_Readme.md"
     }
   ]
 }
