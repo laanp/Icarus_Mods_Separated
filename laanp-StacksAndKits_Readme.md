@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w127_P.pak
+laanp-StacksAndKits_v1_w128_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.2.122731 (Week: 127)
+Compatible with Icarus Version: Rev. 2.2.3.122924 (Week: 128)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -74,6 +74,8 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
     - (10) Portable Beacons - To mark your mining equipment on the map
     - They can be carried & stacked in regular inventory (not in the G-slot)
+
+  - "Pete's Mini Foundry" - Compact version of the Foundry (1/4 the size!)
 
   - "Pete's Promethius Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (100) Frozen Ore
@@ -159,6 +161,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
