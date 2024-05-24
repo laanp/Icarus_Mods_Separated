@@ -77,7 +77,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w129",
-      "description": "Creates a new Workshop item under "Pete's Kits" called "Pete's Mini Foundry".A smaller version of the original that will fit in a single story building!  ",
+      "description": "Creates a new Workshop item under ""Pete's Kits"" called ""Pete's Mini Foundry"".A smaller version of the original that will fit in a single story building!",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w129/laanp-MiniFoundry_v1_w129_P.pak"
       },
