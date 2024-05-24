@@ -329,7 +329,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w129",
-      "description": '- Adds the following new craftable item at the Carpentry and Electric Carpentry Benches:  - "Pete's Refined Wood Beam EndCaps" - 2 variations of different end caps for Interior Wood Beams (Closed and Boxed variations)',
+      "description": "- Adds the following new craftable item at the Carpentry and Electric Carpentry Benches:  - ""Pete's Refined Wood Beam EndCaps"" - 2 variations of different end caps for Interior Wood Beams (Closed and Boxed variations)",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w129/laanp-RefinedWoodEndCaps_v1_w129_P.pak"
       },
