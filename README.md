@@ -153,6 +153,11 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
       delete this mod Pak file from the \mods directory.  Now you can restart the game and play with all resources replenished!
       Great for refreshing all those burnt trees, and refilling the mines. - Think of the Thumper without the worms! 
 
+### laanp-StoneWoodInterior_v1_w129_P.pak
+- Changes stone building pieces to have refined interior wood on the inside, stone on the outside.
+- Interior wood inherits strength of the stone pieces.
+- Removing the mod just switches existing walls back to normal stone, no impact on existing base. 
+
 ### laanp-WorkshopFree_v1_w129_P.pak
 - All items in the Workshop are free. Go crazy!
 
