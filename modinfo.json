@@ -349,6 +349,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-RespawnResourcesOW_Readme.md"
     },
     {
+      "name": "laanp-laanp-StoneWoodInterior",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w129",
+      "description": "Changes stone building pieces to have interior wood on the inside, stone on the outside.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w129/laanp-StoneWoodInterior_v1_w129_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-StoneWoodInterior.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StoneWoodInterior_Readme.md"
+    },
+    {
       "name": "laanp-WorkshopFree",
       "author": "laanp",
       "version": "1.0",
