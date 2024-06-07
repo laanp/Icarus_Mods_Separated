@@ -1,8 +1,8 @@
-laanp-NoCaveCreaturesOW_v1_w130_P.pak
+laanp-NoCaveCreaturesOW_v1_w131_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.5.123370 (Week: 130)
+Compatible with Icarus Version: Rev. 2.2.6.123616 (Week: 131)
 
 ## Description:
 Removes Cave Worms & Bees from spawning in caves on Open World propsects only (Olympus, Styx & Prometheus Maps).
@@ -56,6 +56,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
