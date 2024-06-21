@@ -1,6 +1,6 @@
 # laanp Mods
 
-Compatible with Icarus Version: Rev. 2.2.7.123661 (Week: 132)
+Compatible with Icarus Version: Rev. 2.2.8.123948 (Week: 133)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
@@ -16,15 +16,15 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 Combined Mods:
 -------------------------------------------------------------------------------
-### laanp-Combined_QOL_v1_w132_P.pak
+### laanp-Combined_QOL_v1_w133_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w132_P.pak
+### laanp-BuildersDream_v1_w133_P.pak
 - Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
-### laanp-StacksAndKits_v1_w132_P.pak
+### laanp-StacksAndKits_v1_w133_P.pak
 - A more natural Icarus experience, with a minimized kit set
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-StacksAndKits_Readme.md) for all the details.
 
@@ -32,74 +32,74 @@ Combined Mods:
 -------------------------------------------------------------------------------
 Separated Mods:
 -------------------------------------------------------------------------------
-### laanp-FreeBuild_v1_w132_P.pak
+### laanp-FreeBuild_v1_w133_P.pak
 - Everything is free to build at all benches.
 - Some things to watch:
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
 
-### laanp-LightSwitch_v1_w132_P.pak
+### laanp-LightSwitch_v1_w133_P.pak
 - Creates a new craftable, self-powered light switch with 50k of internal power!
 - A collaborative mod created by Jimk72, Shadowwolf2099, and laanp
 
-### laanp-LargerDropshipSlots_v1_w132_P.pak
+### laanp-LargerDropshipSlots_v1_w133_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
-### laanp-MiniFoundry_v1_w132_P.pak
+### laanp-MiniFoundry_v1_w133_P.pak
 - Creates a new Workshop item under 'Pete's Kits' called 'Pete's Mini Foundry'.
 - A quarter-scale version of the original, that will fit on a single floor piece and in a single story building!  
 
-### laanp-MXC_Furnace_v1_w132_P.pak
+### laanp-MXC_Furnace_v1_w133_P.pak
 - This mod will enhance the existing Workshop MXC Furnace to smelt like an Electric Furnace, increase smelting speed, and can be installed anywhere (inside/outside).     
 - The special gasketing design even allows it to function under water!
 
-### laanp-NoCaveCreatures_v1_w132_P.pak
+### laanp-NoCaveCreatures_v1_w133_P.pak
 - Removes all cave creatures (worms & bees) from spawning on all prospects including Missions & Open Worlds
 
-### laanp-NoCaveCreaturesOW_v1_w132_P.pak
+### laanp-NoCaveCreaturesOW_v1_w133_P.pak
 - Removes all cave creatures (worms & bees) from spawning on Open World propsects only (Olympus, Styx & Prometheus Maps).
 
-### laanp-NoFreezerIce_v1_w132_P.pak
+### laanp-NoFreezerIce_v1_w133_P.pak
 - Stops ice from accumulating in the Deep Freeze (freezer)
 
-### laanp-NoKeas_v1_w132_P.pak
+### laanp-NoKeas_v1_w133_P.pak
 - Disables spawning of Keas (big parrot-like birds)
 - On some maps and in some of your building locations, Keas will spawn either directly in, or under base structures (especially when building higher bases).
   This can be quite annoying when building, this mod removes them from the maps entirely.
 
-### laanp-NoPurpleSky_v1_w132_P.pak
+### laanp-NoPurpleSky_v1_w133_P.pak
 - This mod will switch the Prometheus map to replace the Grasslands biome to normal forest atmosphere colors. 
 - No more ugly purple sky in the Grasslands areas.
 
-### laanp-NoSeedFatigue_v1_w132_P.pak
+### laanp-NoSeedFatigue_v1_w133_P.pak
 - Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting 
 - Harvest without penalty!
 - You may need to pickup previously deployed crop plots that had 'Seed Fatigue' debuff and re-deploy the crop plot to clear the previous debuffs. 
 
-### laanp-NoSwampFog_v1_w132_P.pak
+### laanp-NoSwampFog_v1_w133_P.pak
 - This mod will switch the Promethius map to replace the Swamp biome to normal forest atmosphere colors. 
 - No more green fog, with clear skies in the Swamp areas.
 
-### laanp-NoTreeLightningFires_v1_w132_P.pak
+### laanp-NoTreeLightningFires_v1_w133_P.pak
 - Stops trees from catching on fire due to lightning strikes
 
-### laanp-NoWindFallenTrees_v1_w132_P.pak
+### laanp-NoWindFallenTrees_v1_w133_P.pak
 - Stops trees from falling down in a wind storm
 
-### laanp-NoWaterWheelJunk_v1_w132_P.pak
+### laanp-NoWaterWheelJunk_v1_w133_P.pak
 - Water wheels no longer accumulate junk.
 
-### laanp-NoWeather_v1_w132_P.pak
+### laanp-NoWeather_v1_w133_P.pak
 - Removes all weather from the game.
 - Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
 - Can be used with all other mods, as long as they do not modify any of the weather json files.
 
-### laanp-PetesInsaneLeveler_v1_w132_P.pak
+### laanp-PetesInsaneLeveler_v1_w133_P.pak
 - Introduces a new module called "Pete's Insane Leveler" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, will advance player character XP and Level very quickly.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesLavaCaveLord_v1_w132_P.pak
+### laanp-PetesLavaCaveLord_v1_w133_P.pak
 - Introduces a new module called "Pete's Lava Cave Lord" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, activates 100% resistance to:
   - Pneumonia
@@ -108,7 +108,7 @@ Separated Mods:
   - Damage from any poison effects (Caveworms, nasty fish, Komodo bites, etc)
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesMiningKit_v1_w132_P.pak
+### laanp-PetesMiningKit_v1_w133_P.pak
 Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pete's Mining Kit" containing the following:
   - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
   - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
@@ -118,34 +118,34 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
   - All custom extractors/harvestor are modified for quick extraction
   - They can be carried & stacked in regular inventory (not in the G-slot)
 
-### laanp-PetesMover_v1_w132_P.pak
+### laanp-PetesMover_v1_w133_P.pak
 - Introduces a new module called "Pete's Mover" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, will activate 50% increase in base movement & sprint speed.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesResourceKiller_v1_w132_P.pak
+### laanp-PetesResourceKiller_v1_w133_P.pak
 - New module called "Pete's Resource Killer" can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When placed in aux. slot of suit, activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
 - Simply remove the module from your envirosuit auxilliary slot, to neutralize the effects and chop trees or mine normally.
 - Make sure you have "Seasoned Logsman" talent unlocked, otherwise you'll end up spending all your time picking up wood, instead of it automatically going into your inverntory!
 - Rome wasn't built in a day, but this will get you there quicker!
 
-### laanp-PetesSeedKit_v1_w132_P.pak
+### laanp-PetesSeedKit_v1_w133_P.pak
 - This mod alters the game Seed Pouch so it will have 30 slots.
 - Adds new Workshop menu item called "Pete's Kits" which will contain a new Workshop item called "Pete's All Seeds Farming Packet" that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.
 
-### laanp-PowerSurge_v1_w132_P.pak
+### laanp-PowerSurge_v1_w133_P.pak
 - All power generating devices modified to provide 50k power output. Includes Biofuel Generator, Solar Panel, Water wheel & Wind Turbines - More than enough for all your power needs. 
 
-### laanp-RealLevels_v1_w132_P.pak
+### laanp-RealLevels_v1_w133_P.pak
 - Shows character true level based on experience points.
 - Standard game will cap your level display at 60, and this mod will unlock it. 
 
-### laanp-RefinedWoodEndCaps_v1_w132_P.pak
+### laanp-RefinedWoodEndCaps_v1_w133_P.pak
 - Adds a new craftable item called "Pete's Refined Wood Beam EndCaps" that offers 2 variations of deployable end caps for Interior Wood Beams (Closed and Boxed variations).
 - Craftable at the Carpentry and Electric Carpentry Benches
 
-### laanp-RespawnResourcesOW_v1_w132_P.pak
+### laanp-RespawnResourcesOW_v1_w133_P.pak
 - Resets all Open World resources (Olympus, Styx, Promethius).  Use this mod whenever you want to reset your mines, nodes, trees, rocks.
 - How To Use:
    - Install as per any mod (refer to Installation Details below)
@@ -153,12 +153,12 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
       delete this mod Pak file from the \mods directory.  Now you can restart the game and play with all resources replenished!
       Great for refreshing all those burnt trees, and refilling the mines. - Think of the Thumper without the worms! 
 
-### laanp-StoneWoodInterior_v1_w132_P.pak
+### laanp-StoneWoodInterior_v1_w133_P.pak
 - Changes stone building pieces to have refined interior wood on the inside, stone on the outside.
 - Interior wood inherits strength of the stone pieces.
 - Removing the mod just switches existing walls back to normal stone, no impact on existing base. 
 
-### laanp-WorkshopFree_v1_w132_P.pak
+### laanp-WorkshopFree_v1_w133_P.pak
 - All items in the Workshop are free. Go crazy!
 
 _______________________________________________________________________________________________________________________________________________________________________
@@ -259,6 +259,10 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
