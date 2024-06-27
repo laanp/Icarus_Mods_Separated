@@ -115,6 +115,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
 
