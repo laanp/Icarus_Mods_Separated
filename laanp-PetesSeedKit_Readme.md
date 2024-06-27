@@ -34,6 +34,7 @@ This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a cu
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
 
