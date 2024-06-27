@@ -64,6 +64,7 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
 
