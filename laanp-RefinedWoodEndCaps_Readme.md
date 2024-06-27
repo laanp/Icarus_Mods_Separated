@@ -1,16 +1,18 @@
-laanp-RefinedWoodEndCaps_v1_w133_P.pak
+laanp-RefinedWoodEndCaps_v1_w134_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.8.123948 (Week: 133)
+Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
 
 ## Description:
-- Adds the following new craftable item at the Carpentry and Electric Carpentry Benches:
-  - 'Pete's Refined Wood Beam EndCaps' - 2 variations of different end caps for Interior Wood Beams (Closed and Boxed variations)
+Provides end caps for Interior Wood Beams (Closed and Boxed variations).
  
 ## Mod Details:
+- Adds the following new craftable item at the Carpentry and Electric Carpentry Benches:
+  - "Pete's Refined Wood Beam EndCaps" - 2 variations of different end caps for Interior Wood Beams (Closed and Boxed variations)
 - Close up those gaping holes at the end of the interior wood beams!
 - Cleans up the transitions between all beam junctions. 
+
 
 ## Installation Details
 
@@ -59,6 +61,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
