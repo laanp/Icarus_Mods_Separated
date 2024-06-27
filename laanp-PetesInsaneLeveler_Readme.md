@@ -1,16 +1,15 @@
-laanp-PetesInsaneLeveler_v1_w133_P.pak
+laanp-PetesInsaneLeveler_v1_w134_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.8.123948 (Week: 133)
+Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
 
 ## Description:
 This mod allows players to level up very quickly, through use of a custom module.
-Provides a new Workshop module that can be activated at any time by placing in your envirosuit to increase experience points and levels your character very quickly.
 
 ## Mod Details:
 - Introduces a new module called "Pete's Insane Leveler" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
-- When this module is placed in any aux. slot of your envirosuit, will advance player character XP and Level very quickly.
+- When this module is placed in any aux. slot of your envirosuit, it will advance player character XP and Level very quickly.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
 
@@ -59,6 +58,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
