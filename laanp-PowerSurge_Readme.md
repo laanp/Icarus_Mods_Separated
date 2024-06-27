@@ -1,18 +1,15 @@
-laanp-PowerSurge_v1_w133_P.pak
+laanp-PowerSurge_v1_w134_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.8.123948 (Week: 133)
+Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
 
 
 ## Description:
-----------------------------------------------------------------------
 All power generating devices modified to provide 50k power output. 
-Includes Biofuel Generator, Solar Panel, Water wheel & Wind Turbines - More than enough for all your power needs.
 
 ## Mod Details:
-- Don't worry about lack of power for your bases.
-- All power generators (Biofuel Generator, Solar Panel, Water wheel & Wind Turbines) provide 50k power output.
+- All power generators (Biofuel Generator, Solar Panel, Water wheel & Wind Turbines) will provide 50k power output.
 
 
 ## Installation Details
@@ -58,6 +55,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
