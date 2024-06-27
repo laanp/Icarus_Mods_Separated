@@ -111,6 +111,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
 
