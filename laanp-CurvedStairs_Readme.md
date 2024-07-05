@@ -1,16 +1,14 @@
-laanp-CurvedStairs_v1_w134_P.pak
+laanp-CurvedStairs_v1_w135_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
+Compatible with Icarus Version: Rev. 2.2.10.124449 (Week: 135)
 
 ## Description:
 This mod will add special buildable concrete curved stairs and associated railings.
 
 ## Mod Details:
-- Allows multiple styles of specialized curved concrete stairs & railings
-- Stairs are new buildable pieces, and railings are new deployable pieces
-- Available to craft for free at the character level
+- New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings" crafted at the character level
 - Hit 'R' for variations, when deploying.
 
 
