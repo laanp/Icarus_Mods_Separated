@@ -49,6 +49,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-CircleGuides_Readme.md"
     },
     {
+      "name": "laanp-CurvedStairs",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w135",
+      "description": "This mod will add special buildable concrete curved stairs and associated railings.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w135/laanp-CurvedStairs_v1_w135_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-CurvedStairs.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-CurvedStairs_Readme.md"
+    },
+    {
       "name": "laanp-FreeBuild",
       "author": "laanp",
       "version": "1.0",
