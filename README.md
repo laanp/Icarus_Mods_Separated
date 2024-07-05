@@ -42,6 +42,11 @@ Separated Mods:
   - "Pete's Direct Angle Guides" - Used for any-side placement on vertical beams to create a new angle.
 - Once the build item is deployed, hit the 'R' key for available variations.   
 
+### laanp-CurvedStairs_v1_w135_P.pak
+- This mod will add special buildable concrete curved stairs and associated railings.
+- New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings" crafted at the character level
+- Hit 'R' for variations, when deploying.
+
 ### laanp-FreeBuild_v1_w135_P.pak
 - Everything is free to build at all benches.
 - Some things to watch:
