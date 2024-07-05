@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w134_P.pak
+laanp-Combined_QOL_v1_w135_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
+Compatible with Icarus Version: Rev. 2.2.10.124449 (Week: 135)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -15,6 +15,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - All slot stack sizes changed to 100 (except specialty items, like fillables, tackle box and Seed Pouch. Salt, Charcoal and Paints are increased to 1,000 & Fiber to 500)
 - Base inventory slots for player changed from 24 - 42
+- Adds (+2) aux. slots to ANY envirosuit - does not show in specs, but will appear on planet.
 - Adds crafting of Epoxy from wood, & Salt from Stone at Character crafting level
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
 - Crop plots/mounds no longer get 'Seed Fatigue' debuff after harvesting.
@@ -109,8 +110,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
-    - (5) Potato
     - (5) Tomato
+    - (5) Potato
     - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
@@ -137,6 +138,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
   - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
   - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
   - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%  
+  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
   simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 
@@ -270,6 +272,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
