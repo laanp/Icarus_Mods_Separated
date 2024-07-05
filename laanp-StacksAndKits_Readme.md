@@ -1,14 +1,15 @@
-laanp-StacksAndKits_v1_w134_P.pak
+laanp-StacksAndKits_v1_w135_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
+Compatible with Icarus Version: Rev. 2.2.10.124449 (Week: 135)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
 
 ### Changes: 
 - Player levels shows actual, beyond 60
+- Adds (+2) aux. slots to ANY envirosuit - does not show in specs, but will appear on planet.
 - All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000, Fiber to 500)
 - Adds The Following Workshop Kits, under "Pete's Kits" menu group in the Workshop: 
   - "Pete's Basic Loadout Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
@@ -62,8 +63,8 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
-    - (5) Potato
     - (5) Tomato
+    - (5) Potato
     - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
@@ -90,6 +91,7 @@ This mod is designed for Icarus players who want to keep the experience intact b
   - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
   - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
   - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%   
+  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
   simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 
@@ -162,6 +164,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
