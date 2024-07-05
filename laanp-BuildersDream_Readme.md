@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w134_P.pak
+laanp-BuildersDream_v1_w135_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.9.124268 (Week: 134)
+Compatible with Icarus Version: Rev. 2.2.10.124449 (Week: 135)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -16,6 +16,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 - All slot stack sizes changed to 100 (except specialty items, like fillables, tackle box and Seed Pouch. Salt, Charcoal and Paints are increased to 1,000 & Fiber to 500)
 - All items weigh nothing.
 - Base player inventory slots changed from 24 - 42
+- Adds (+2) aux. slots to ANY envirosuit - does not show in specs, but will appear on planet.
 - Adds crafting of Oxite, Coal & Salt to Character crafting level
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - Temperature effects disabled
@@ -113,8 +114,8 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
-    - (5) Potato
     - (5) Tomato
+    - (5) Potato
     - (5) Kiwi
     - (5) Bramble
     - (5) Volatile Exotic Seeds
@@ -201,6 +202,7 @@ Combines a number of mods in one package, to make building your top priority.  I
   - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
   - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
   - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%  
+  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
   simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 ### 2.  Custom_Options (Jimk72):
@@ -345,6 +347,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
