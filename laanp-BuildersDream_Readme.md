@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w135_P.pak
+laanp-BuildersDream_v1_w136_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.10.124449 (Week: 135)
+Compatible with Icarus Version: Rev. 2.2.11.124669 (Week: 136)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -197,13 +197,27 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (100) Scoria
     - (100) Crystallized Miasma
 
-- Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
+- Adds the following craftable items at the character level:
+  - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings"
+  - New craftable building parts that assist with vertical beam placement for circular buildings:
+    - "Pete's Circle Build Guides" - Circle miter-box guides for 6,8,12,16,24,36 & 48 sided buildings.
+    - "Pete's Wall Offset Angle Guides" - Single miter-box angle guides for wall/floor placements.
+    - "Pete's Direct Angle Guides" - Single miter-box direct angle guides for new angles on existing grid. 
+
+- Adds the following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
   - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
   - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
   - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%  
   - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
   simply remove the module from suit auxilliary slot, to completely turn off any effects.
+
+- Adds the following new craftable item at the carpentry benches that add the following building parts:
+  - "Pete's Roofline Accents" - Allows building the following add-on pieces:
+    - (2) Styles of peak roof end gables (for any style roofs/ramps)
+    - (2) Styles of 2-story roof gable ends (for any style roofs/ramps)
+    - (1) Gable Stone Addon (mini gable with stone roof/walls and a small window) 
+
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 that introduces an interface to set various settings like Jump height, Map Markers, Caves/Ore Deposits, etc... 
@@ -347,6 +361,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
