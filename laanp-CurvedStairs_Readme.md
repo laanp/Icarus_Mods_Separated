@@ -1,8 +1,8 @@
-laanp-CurvedStairs_v1_w136_P.pak
+laanp-CurvedStairs_v1_w137_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.11.124669 (Week: 136)
+Compatible with Icarus Version: Rev. 2.2.12.124800 (Week: 137)
 
 ## Description:
 This mod will add special buildable concrete curved stairs and associated railings.
@@ -57,6 +57,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
