@@ -1,8 +1,8 @@
-laanp-PetesTrees_v1_w136_P.pak
+laanp-PetesTrees_v1_w137_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.11.124669 (Week: 136)
+Compatible with Icarus Version: Rev. 2.2.12.124800 (Week: 137)
 
 ## Description:
 New craftable, deployable trees for your base!
@@ -10,10 +10,10 @@ New craftable, deployable trees for your base!
 
 ## Mod Details:
 - Creates new item called "Pete's Trees", craftable for free at the character level.
-- Allows for several variations of deployable trees, including small & large fir trees, palm trees and cactus
-- Trees are immune to weather effects. 
-- Use 'R' while deploying the trees for variations.
-- Trees can be picked up and moved, to enhance your base look! 
+- Allows for several variations of deployable foliage, including small & large fir/pine trees, palm trees, cactus & shrubs
+- Deployed foliage is immune to weather effects. 
+- Use 'R' while deploying the foliage for variations.
+- All deployable foliage can be picked up and moved, to enhance your base look! 
 
 
 ## Installation Details
@@ -63,6 +63,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
