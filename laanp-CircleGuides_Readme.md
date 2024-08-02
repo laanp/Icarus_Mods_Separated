@@ -1,8 +1,8 @@
-laanp-CircleGuides_v1_w138_P.pak
+laanp-CircleGuides_v1_w139_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.13.125172 (Week: 138)
+Compatible with Icarus Version: Rev. 2.2.14.125372 (Week: 139)
 
 ## Description:
 New craftable building parts that assist with vertical beam placement for circular buildings.
@@ -67,6 +67,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
