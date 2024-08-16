@@ -1,8 +1,8 @@
-laanp-NoKeas_v1_w140_P.pak
+laanp-NoKeas_v1_w141_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.15.125691 (Week: 140)
+Compatible with Icarus Version: Rev. 2.2.16.125988 (Week: 141)
 
 ## Description:
 Disables spawning of Keas (big parrot-like birds)
@@ -11,6 +11,8 @@ Disables spawning of Keas (big parrot-like birds)
 - While I like to use these annoying birds as target practice, they have this annoying habit of spawning either directly in, 
   or under my base structures (especially when building higher bases).
 - This mod removes them from the maps entirely.
+
+
 
 
 
