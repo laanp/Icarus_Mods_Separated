@@ -1,8 +1,8 @@
-laanp-MXC_Furnace_v1_w141_P.pak
+laanp-MXC_Furnace_v1_w142_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.16.125988 (Week: 141)
+Compatible with Icarus Version: Rev. 2.2.17.126344 (Week: 142)
 
 ## Description:
 This mod will enhance the existing Workshop MXC Furnace to smelt like an Electric Furnace, increase smelting speed, and can be installed anywhere (inside/outside).     
@@ -58,6 +58,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
