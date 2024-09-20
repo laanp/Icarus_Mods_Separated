@@ -1,8 +1,8 @@
-laanp-NoSwampFog_v1_w145_P.pak
+laanp-NoSwampFog_v1_w146_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.20.127215 (Week: 145)
+Compatible with Icarus Version: Rev. 2.2.21.127494 (Week: 146)
 
 ## Description:
 This mod will switch the Promethius map to replace Swamp biomes to normal forest atmosphere colors.
@@ -57,6 +57,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
