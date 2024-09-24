@@ -32,15 +32,11 @@ Combined Mods:
 -------------------------------------------------------------------------------
 Separated Mods:
 -------------------------------------------------------------------------------
-### laanp-CircleGuides_v1_w146_P.pak
-- New craftable building parts that assist with vertical beam placement for circular buildings.
-- Parts are designed as "miter box" configuration that assists in more precise positioning of vertical beams in free placement mode.
-- Visible beam marker cross, and half-wall guides provide angle and height control of vertical beam placement.  
-- Craftable at the character level (for free), the following building parts:
-  - "Pete's Circle Build Guides" - Pre-placed guides for 6,8,12,16,24,36,48-sided circular buildings 
-  - "Pete's Wall Offset Angle Guides" - Used for right-side placement on vertical beams at the wall location, for setup of next vertical beam placement.
-  - "Pete's Direct Angle Guides" - Used for any-side placement on vertical beams to create a new angle.
-- Once the build item is deployed, hit the 'R' key for available variations.   
+### laanp-CircleBuilder_v1_w146_P.pak
+- Circle building mod that facilitates construction of up to 48 sided circular buildings.  
+- While pointing at any vertical beam, with a another deployed, right-mouse button to bring up "Pete's Circle Builder" Menu.
+- Also supports any custom angle rotation of vertical beams around a centre, including step height change and rotation amount.
+- Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
 
 ### laanp-CurvedStairs_v1_w146_P.pak
 - This mod will add special buildable concrete curved stairs and associated railings.
