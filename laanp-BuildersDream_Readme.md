@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w146_P.pak
+laanp-BuildersDream_v1_w147_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.21.127494 (Week: 146)
+Compatible with Icarus Version: Rev. 2.2.22.127885 (Week: 147)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -118,6 +118,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Potato
     - (5) Kiwi
     - (5) Bramble
+    - (5) Sugar Cane
     - (5) Volatile Exotic Seeds
 
   - "Pete's Food Buff Kit" (Fish Pie Icon) - When consumed on planet, unbundles into the following:
@@ -199,10 +200,6 @@ Combines a number of mods in one package, to make building your top priority.  I
 
 - Adds the following craftable items at the character level:
   - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings"
-  - New craftable building parts that assist with vertical beam placement for circular buildings:
-    - "Pete's Circle Build Guides" - Circle miter-box guides for 6,8,12,16,24,36 & 48 sided buildings.
-    - "Pete's Wall Offset Angle Guides" - Single miter-box angle guides for wall/floor placements.
-    - "Pete's Direct Angle Guides" - Single miter-box direct angle guides for new angles on existing grid. 
 
 - Adds the following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
@@ -217,6 +214,15 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (2) Styles of peak roof end gables (for any style roofs/ramps)
     - (2) Styles of 2-story roof gable ends (for any style roofs/ramps)
     - (1) Gable Stone Addon (mini gable with stone roof/walls and a small window) 
+
+
+- Adds "Pete's Circle Builder", accessible menu (while pointing at any vertical beam, with a another deployed), RMB to bring up the Menu.
+- Circle building mod that facilitates construction of up to 48 sided circular buildings.  
+- Allows pre-placement of inner circle beams around a centre beam, that will line up walls/railings for any sized building.
+- Also supports any custom angle rotation of vertical beams around a centre beam, as well as "AutoBuild" feature.
+- Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
+
+
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -361,6 +367,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
