@@ -1,8 +1,8 @@
-laanp-CircleBuilder_v1_w146_P.pak
+laanp-CircleBuilder_v1_w147_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.21.127494 (Week: 146)
+Compatible with Icarus Version: Rev. 2.2.22.127885 (Week: 147)
 
 ## Description:
 - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
@@ -10,7 +10,7 @@ Compatible with Icarus Version: Rev. 2.2.21.127494 (Week: 146)
 ## Mod Details:
 - While pointing at any vertical beam, with a another deployed, right-mouse button to bring up "Pete's Circle Builder" Menu.
 - Allows construction of up to 48-sided round buildings by pre-placement of inner circle beams around a centre beam.
-- Also supports any custom angle rotation of vertical beams around a centre, including step height change and rotation amount.
+- Also supports any custom angle rotation of vertical beams around a centre.
 - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
 
 
@@ -20,7 +20,7 @@ Multiplayer Notes:
 - In single player, the mod will automatically place the beams in free placement mode, but in Multiplayer, you need to 
      explicitly toggle the auto grid lock to free placement after placing a beam using the menu.  
 - In Multiplayer, there is a significant delay (about > 1 second) after hitting `home` key to see the ghost build piece
-     in free placement mode.  This is normal and not caused by the mod.  
+     in free placement mode.  This is normal and not caused by the mod. "AutoBuid" feature not available in multiplayer. 
 
 
 ## Installation Details
@@ -70,6 +70,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
