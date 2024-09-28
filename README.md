@@ -104,11 +104,6 @@ Separated Mods:
 ### laanp-NoWaterWheelJunk_v1_w147_P.pak
 - Water wheels no longer accumulate junk.
 
-### laanp-NoWeather_v1_w147_P.pak
-- Removes all weather from the game.
-- Not compatible with JimK72's Icarus Mod Manager program, or other weather mods.  Just install the pak file directly into your mods folder.
-- Can be used with all other mods, as long as they do not modify any of the weather json files.
-
 ### laanp-PetesAuxSlots_v1_w147_P.pak
 - Introduces a new module called "Pete's Envirosuit Auxiliary Slot Module" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - This mod will also provide (+2) auxiliary slots for any envirosuit on planet, (even if the suit specs don't have any!)
