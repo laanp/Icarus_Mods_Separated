@@ -253,18 +253,6 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWaterWheelJunk_Readme.md"
     },
     {
-      "name": "laanp-NoWeather",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w147",
-      "description": "Completely removes all weather from the game, sunny all the time!",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w147/laanp-NoWeather_v1_w147_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoWeather_Readme.md"
-    },
-    {
       "name": "laanp-PetesAuxSlots",
       "author": "laanp",
       "version": "1.0",
