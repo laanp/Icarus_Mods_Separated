@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w147_P.pak
+laanp-Combined_QOL_v1_w148_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.22.127885 (Week: 147)
+Compatible with Icarus Version: Rev. 2.2.23.128142 (Week: 148)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -272,6 +272,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
