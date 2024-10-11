@@ -1,8 +1,8 @@
-laanp-NoSeedFatigue_v1_w148_P.pak
+laanp-NoSeedFatigue_v1_w149_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.23.128142 (Week: 148)
+Compatible with Icarus Version: Rev. 2.2.24.128526 (Week: 149)
 
 ## Description:
 Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting.
@@ -58,6 +58,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
