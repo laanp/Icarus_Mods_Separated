@@ -1,16 +1,15 @@
-laanp-LightSwitch_v1_w148_P.pak
+laanp-LightSwitch_v1_w149_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.23.128142 (Week: 148)
+Compatible with Icarus Version: Rev. 2.2.24.128526 (Week: 149)
 
 ## Description:
 Standalone Light Switch which has it's own internal power source.
 
 ## Mod Details:
-- Craftable at the the Fabricator, provides 50k of standalone power with ON/OFF switch capability
-- A collaborative mod created by Jimk72, Shadowwolf2099, and laanp
-
+- Craftable at the the Fabricator, provides 50k of standalone power with animated ON/OFF switch capability.
+- Adjustable puck location, based upon load-to-switch or switch-to-load connection.
 
 ## Installation Details
 
@@ -57,6 +56,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
