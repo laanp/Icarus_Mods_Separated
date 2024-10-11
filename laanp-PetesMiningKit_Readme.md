@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w148_P.pak
+laanp-PetesMiningKit_v1_w149_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.23.128142 (Week: 148)
+Compatible with Icarus Version: Rev. 2.2.24.128526 (Week: 149)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, and volatile red exotics.
@@ -21,8 +21,8 @@ Adds a new Workshop menu called "Pete's Kits" and includes the following kit:
 
 ## Known Bugs/Issues/Notes - As of this current release.
 ### "Pete's Mining Kit"
-For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
-This does not affect the player, and can be ignored.  All drills will function at higher speeds.
+For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ice Borer" with your mouse cursor. 
+This does not affect the player, and can be ignored.  All drills should function at higher speeds.
 
 
 ## Installation Details
