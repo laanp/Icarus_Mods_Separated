@@ -1,8 +1,8 @@
-laanp-PetesAuxSlots_v1_w148_P.pak
+laanp-PetesAuxSlots_v1_w149_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.23.128142 (Week: 148)
+Compatible with Icarus Version: Rev. 2.2.24.128526 (Week: 149)
 
 ## Description:
 Provides additional auxiliary slots for any envirosuit on planet (even if the suit specs don't have any!)
@@ -61,6 +61,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
