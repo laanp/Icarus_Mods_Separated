@@ -215,14 +215,17 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (2) Styles of 2-story roof gable ends (for any style roofs/ramps)
     - (1) Gable Stone Addon (mini gable with stone roof/walls and a small window) 
 
+- Adds the following new craftable item at the fabricator bench that adds the following parts:
+  - "Pete's LightSwitch" - Allows building the following add-on pieces:
+    - Creates a new craftable, self-powered light switch with 50k of internal power!
+    - Craftable at the the Fabricator, provides standalone power supply with animated ON/OFF switch capability.
+    - Adjustable puck location, based upon load-to-switch or switch-to-load connection.
 
 - Adds "Pete's Circle Builder", accessible menu (while pointing at any vertical beam, with a another deployed), RMB to bring up the Menu.
-- Circle building mod that facilitates construction of up to 48 sided circular buildings.  
-- Allows pre-placement of inner circle beams around a centre beam, that will line up walls/railings for any sized building.
-- Also supports any custom angle rotation of vertical beams around a centre beam, as well as "AutoBuild" feature.
-- Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
-
-
+  - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
+  - Allows pre-placement of inner circle beams around a centre beam, that will line up walls/railings for any sized building.
+  - Also supports any custom angle rotation of vertical beams around a centre beam, as well as "AutoBuild" feature.
+  - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -367,152 +370,5 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
