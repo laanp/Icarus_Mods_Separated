@@ -49,6 +49,12 @@ Separated Mods:
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
     for the first available recipe item in the bench inventory.
 
+### laanp-GraveStones_v1_w151_P.pak
+- Provides (9) gravestones to honour those fallen prospectors.
+- Adds the following new craftable item at the character level:
+  - "Pete's Gravestones" - 9 variations of different grave markers, each with their own unique epitaph.
+  - Each gravestone has adjustable rotation, and lean left/right and fwd/back adjustments.
+
 ### laanp-KeepTheTrees_v1_w151_P.pak
 - Stops trees from catching on fire due to lightning strikes
 - Stops trees from falling down in a wind storm
