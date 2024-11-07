@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w152_P.pak
+laanp-PetesMiningKit_v1_w153_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.27.129232 (Week: 152)
+Compatible with Icarus Version: Rev. 2.2.28.129531 (Week: 153)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, and volatile red exotics.
@@ -70,6 +70,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
