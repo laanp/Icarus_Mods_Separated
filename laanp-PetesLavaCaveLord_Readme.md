@@ -1,8 +1,8 @@
-laanp-PetesLavaCaveLord_v1_w154_P.pak
+laanp-PetesLavaCaveLord_v1_w155_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.29.129911 (Week: 154)
+Compatible with Icarus Version: Rev. 2.2.30.130308 (Week: 155)
 
 ## Description:
 This suit module enables complete damage resistance from falling in Lava, being on fire, or pneumonia and poison effects.
@@ -62,6 +62,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
