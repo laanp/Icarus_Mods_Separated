@@ -1,8 +1,8 @@
-laanp-PowerSurge_v1_w155_P.pak
+laanp-PowerSurge_v1_w156_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.30.130308 (Week: 155)
+Compatible with Icarus Version: Rev. 2.2.31.130582 (Week: 156)
 
 
 ## Description:
@@ -55,6 +55,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
