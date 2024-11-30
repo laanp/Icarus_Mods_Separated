@@ -279,13 +279,13 @@
     {
       "name": "laanp-PetesBeaconTeleport",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w156",
       "description": "Provides an interface to allow the player to teleport to any portable beacon that has been deployed on the map. ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w156/laanp-PetesBeaconTeleport_v1_w156_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w156/laanp-PetesBeaconTeleport_v2_w156_P.pak"
       },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-PetesBeaconTeleport.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesBeaconTeleport_Readme.md"
     },
     {
