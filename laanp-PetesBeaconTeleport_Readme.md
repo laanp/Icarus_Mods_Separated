@@ -1,6 +1,6 @@
-laanp-PetesBeaconTeleport_v1_w156_P.pak
+laanp-PetesBeaconTeleport_v2_w156_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.2.31.130582 (Week: 156)
 
@@ -9,7 +9,7 @@ Provides an interface to allow the player to teleport to any portable beacon tha
 
 ## Mod Details:
 - This mod now works in single mode, hosted multiplayer & dedicated server.
-- Introduces a new handheld device called "Petes Beacon Teleporter Remote" which when crafted at the character level, provides (1) remote & (20) Portable Beacons.
+- Introduces a new handheld device called "Petes Beacon Teleporter Remote" which when crafted in the character inventory, provides (1) remote & (20) Portable Beacons.
 - Once the handheld tool is activated in the quickbar, use LMB and it will scan the map for existing portable beacons.
 - The interface will list all the currently deployed beacon names in a button list, which you can click to teleport to that portable beacon location on the map. 
 - Will work with all existing portable beacon locations on the map.
