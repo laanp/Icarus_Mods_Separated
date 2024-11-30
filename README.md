@@ -117,7 +117,7 @@ Separated Mods:
 - Adds +10% to physical Resistance stats, for each module added.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesBeaconTeleport_v1_w156_P.pak
+### laanp-PetesBeaconTeleport_v2_w156_P.pak
 - Provides an interface to allow the player to teleport to any portable beacon that has been deployed on the map. 
 - This mod now works in single mode, hosted multiplayer & dedicated server.
 - Introduces a new handheld device called "Petes Beacon Teleporter Remote" which when crafted at the character level, provides (1) remote & (20) Portable Beacons.
