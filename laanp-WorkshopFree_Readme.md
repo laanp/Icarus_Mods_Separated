@@ -1,8 +1,8 @@
-laanp-WorkshopFree_v1_w158_P.pak
+laanp-WorkshopFree_v1_w159_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.33.130975 (Week: 158)
+Compatible with Icarus Version: Rev. 2.2.34.130982 (Week: 159)
 
 ## Description:
 All items in the Workshop are free. Go crazy!
@@ -61,6 +61,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
