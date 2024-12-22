@@ -155,6 +155,16 @@ Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pe
 - When this module is placed in any aux. slot of your envirosuit, will activate 50% increase in base movement & sprint speed.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
+### laanp-PetesRemoteDrillAccess_v1_w159_P.pak
+- Provides an interface to allow the player to remotely communicate and control Deep Mining Drills that has been deployed on the map. 
+- Works in both single player, hosted multiplayer & dedicated server.
+- Introduces a new handheld device called "Petes Remote Drill Access" which when crafted in the character inventory, provides (1) remote to access all Mining Drill inventories.
+- Once the handheld tool is activated in the quickbar, use LMB and it will scan the map for existing drills in the field.
+- The interface will scan & list all the currently deployed drills (Deep Mining, Exotic, and Water & Ice Borers with grid locations) in a button list, which you can click to access each drill location on the map. 
+- Checking the "Map Marker" checkbox will allow you to see the drill locations on the map.
+- Checking the "Button Teleport" checkbox will switch the button function to allow you to teleport to the drill location. 
+- This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
+
 ### laanp-PetesResourceKiller_v1_w159_P.pak
 - New module called "Pete's Resource Killer" can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When placed in aux. slot of suit, activates 100% chance of 1-hit resource gathering for trees, rocks & ores.
@@ -299,126 +309,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
