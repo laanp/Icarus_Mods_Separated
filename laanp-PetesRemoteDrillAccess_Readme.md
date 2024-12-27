@@ -1,8 +1,8 @@
-laanp-PetesRemoteDrillAccess_v1_w159_P.pak
+laanp-PetesRemoteDrillAccess_v1_w160_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.34.130982 (Week: 159)
+Compatible with Icarus Version: Rev. 2.2.35.130989 (Week: 160)
 
 ## Description:
 Provides an interface to allow the player to remotely communicate and control Deep Mining Drills that has been deployed on the map. 
@@ -13,10 +13,10 @@ Provides an interface to allow the player to remotely communicate and control De
 - Once the handheld tool is activated in the quickbar, use LMB and it will scan the map for existing drills in the field.
 - The interface will list all the currently deployed drills (Deep Mining, Exotic, and Water & Ice Borers with grid locations) in a button list, which you can click to access each drill location on the map. 
 - Will work with all existing drill locations on the map.
-- Checking the "Map Marker" checkbox will allow you to see the drill locations on the map.
-- Checking the "Button Teleport" checkbox will switch the button function to allow you to teleport to the drill location. 
+- Check the "Map Marker" checkbox will allow you to see the drill locations and resource type on the map.
+- Check the "Buttons Teleport" checkbox to switch the button function from accessing drill inventory to teleporting to the drill location. 
 - This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
-
+- Mod also recognizes and lists special drills in Pete's Mining Kit mod. 
 
 ## Installation Details
 
@@ -65,6 +65,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
