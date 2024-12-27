@@ -1,8 +1,8 @@
-laanp-PetesTrees_v1_w159_P.pak
+laanp-PetesTrees_v1_w160_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.34.130982 (Week: 159)
+Compatible with Icarus Version: Rev. 2.2.35.130989 (Week: 160)
 
 ## Description:
 New craftable, deployable trees for your base!
@@ -63,6 +63,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
