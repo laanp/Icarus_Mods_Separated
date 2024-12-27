@@ -1,8 +1,8 @@
-laanp-PetesBeaconTeleport_v1_w159_P.pak
+laanp-PetesBeaconTeleport_v1_w160_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.34.130982 (Week: 159)
+Compatible with Icarus Version: Rev. 2.2.35.130989 (Week: 160)
 
 ## Description:
 Provides an interface to allow the player to teleport to any portable beacon that has been deployed on the map. 
@@ -13,7 +13,7 @@ Provides an interface to allow the player to teleport to any portable beacon tha
 - Once the handheld tool is activated in the quickbar, use LMB and it will scan the map for existing portable beacons.
 - The interface will list all the currently deployed beacon names (with grid locations) in a button list, which you can click to teleport to that portable beacon location on the map. 
 - Will work with all existing portable beacon locations on the map.
-- Tip: If you are falling through the mesh after teleport on some beacons, place 2x2 floor pieces directly under the beacon, for solid landing.   
+- Tip: If you are falling through the mesh after teleport on some beacons, place a floor piece directly under the beacon, for solid landing.   
 
 ## Installation Details
 
@@ -62,6 +62,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
