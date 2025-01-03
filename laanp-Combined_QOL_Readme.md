@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w160_P.pak
+laanp-Combined_QOL_v1_w161_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.35.130989 (Week: 160)
+Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -26,7 +26,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Larger inventory sizes for benches, fireplace, firepit, campfire, furnaces, wood cupboard, fridge, freezer, stoves, etc.
 - High durability (10M) for following tools: (Titanium Knife, Axe, Pickaxe, Sickle, Hunting Rifle, Compound Bow, Larkwell Bow) 
 - High durability on wooden torch (only need one for the entire game!)
-- Water Pump with lower power requirements (500) and high water output (10k) - No need for additional pump
+- Water Pump with lower power requirements (500) and high water output (50k) - No need for additional pump
 - Biofuel Generator, Wind Turbine & Water wheel with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
 - Inhibits ice from being placed in the Deep Freeze, and therefore stops ice from forming in the Deep Freeze. 
@@ -273,6 +273,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
