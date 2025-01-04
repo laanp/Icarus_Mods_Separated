@@ -4,7 +4,7 @@ Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
 _______________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. 
-RECOMMENDED: Download the [Icarus Mod Manager by Jim72](https://github.com/Jimk72/Icarus_Software). It will allow you to easily and conveniently install, remove, merge, and update any mods you use! Mods can be updated every week simply by updating the data folder and then updating the installed mods without the need to re-download versions of them. 
+RECOMMENDED: Download the [Icarus Mod Manager by Jimk72](https://github.com/Jimk72/Icarus_Software). It will allow you to easily and conveniently install, remove, merge, and update any mods you use! Mods can be updated every week simply by updating the data folder and then updating the installed mods without the need to re-download versions of them. 
 
 Visit the [Linkarus Discord community](https://discord.gg/linkarus-icarus-modding-936621749733302292) for news, help, and other stuff 
 regarding the modding community for the game!
@@ -30,8 +30,11 @@ Combined Mods:
 
 
 -------------------------------------------------------------------------------
-Separated Mods:
+Separated Mods: 
 -------------------------------------------------------------------------------
+NOTE:  If you are using more than one mod, You MUST use [Jimk72's IMM (Icarus Mod Manager)](https://github.com/Jimk72/Icarus_Software)
+This utility will allow any number of mods to be merged to work properly together into a single pak file.
+
 ### laanp-CircleBuilder_v1_w161_P.pak
 - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
 - While pointing at any vertical beam, with a another deployed, right-mouse button to bring up "Pete's Circle Builder" Menu.
@@ -317,130 +320,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
