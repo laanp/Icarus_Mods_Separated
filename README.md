@@ -34,6 +34,7 @@ Separated Mods:
 -------------------------------------------------------------------------------
 NOTE:  If you are using more than one mod, You MUST use [Jimk72's IMM (Icarus Mod Manager)](https://github.com/Jimk72/Icarus_Software)
 This utility will allow any number of mods to be merged to work properly together into a single pak file.
+-------------------------------------------------------------------------------
 
 ### laanp-CircleBuilder_v1_w161_P.pak
 - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
