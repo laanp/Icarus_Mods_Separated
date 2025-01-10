@@ -1,8 +1,8 @@
-laanp-RefinedWoodEndCaps_v1_w161_P.pak
+laanp-RefinedWoodEndCaps_v1_w162_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
+Compatible with Icarus Version: Rev. 2.2.37.131606 (Week: 162)
 
 ## Description:
 Provides end caps for Interior Wood Beams (Closed and Boxed variations).
@@ -61,6 +61,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
