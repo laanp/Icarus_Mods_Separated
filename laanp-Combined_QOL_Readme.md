@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w161_P.pak
+laanp-Combined_QOL_v1_w162_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
+Compatible with Icarus Version: Rev. 2.2.37.131606 (Week: 162)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -116,6 +116,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Bramble
     - (5) Sugar Cane
     - (5) Volatile Exotic Seeds
+    - (5) Coconut
 
   - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (1) Refined Wood Fishing Rod
@@ -273,6 +274,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
