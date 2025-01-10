@@ -1,18 +1,23 @@
-laanp-DrillManager_v1_w161_P.pak
+laanp-DrillManager_v1_w162_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
+Compatible with Icarus Version: Rev. 2.2.37.131606 (Week: 162)
 
 ## Description:
 Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that allow the player to teleport to any portable beacon on the map, as well as remotely communicate and control Deep Mining Drills that have been deployed on the map. 
 
 ## Mod Details:
-- This mod works in single mode, hosted multiplayer & dedicated server.
 - Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote & (20) Portable Beacons.
 - Once the handheld tool is activated in the quickbar, use LMB and it will scan the map for existing portable beacons, use RMB and it will scan the map for existing drills in the field.
 - The RMB Beacon Interface will list all the currently deployed beacon names (with grid locations) in a button list, which you can click to teleport to that portable beacon location on the map. 
 - The LMB Drill Interface will list all the currently deployed drills (Deep Mining, Exotic, and Ice Borers with grid locations) in a button list, which you can click to access each drill location on the map. 
+- Clicking on the "Resources" button will bring up an additional window to search for specific resources on the map.
+- This mod works best in single player mode.   
+- Drill inventory access will not work in hosted multiplayer & dedicated server.  
+- Resource search radius can impact game performance (for example: setting to 0 for whole map, selecting All, and clicking on "Update Map"), so limit to 2-5 grid size and a selected resource.   
+
+
 
 ## Installation Details
 
@@ -61,6 +66,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
