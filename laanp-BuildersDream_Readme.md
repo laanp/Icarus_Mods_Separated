@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w161_P.pak
+laanp-BuildersDream_v1_w162_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
+Compatible with Icarus Version: Rev. 2.2.37.131606 (Week: 162)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -120,6 +120,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (5) Bramble
     - (5) Sugar Cane
     - (5) Volatile Exotic Seeds
+    - (5) Coconut
 
   - "Pete's Food Buff Kit" (Fish Pie Icon) - When consumed on planet, unbundles into the following:
     - (100) Vegetable Pie
@@ -370,6 +371,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
