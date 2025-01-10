@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w161_P.pak
+laanp-StacksAndKits_v1_w162_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.36.131002 (Week: 161)
+Compatible with Icarus Version: Rev. 2.2.37.131606 (Week: 162)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -69,6 +69,7 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Bramble
     - (5) Sugar Cane
     - (5) Volatile Exotic Seeds
+    - (5) Coconut
 
   - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
     - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
@@ -165,6 +166,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
