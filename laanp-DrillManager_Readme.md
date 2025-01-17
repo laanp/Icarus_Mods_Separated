@@ -1,8 +1,8 @@
-laanp-DrillManager_v1_w162_P.pak
+laanp-DrillManager_v1_w163_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.37.131606 (Week: 162)
+Compatible with Icarus Version: Rev. 2.2.38.131742 (Week: 163)
 
 ## Description:
 Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that allow the player to teleport to any portable beacon on the map, as well as remotely communicate and control Deep Mining Drills that have been deployed on the map. 
@@ -16,7 +16,7 @@ Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that all
 - This mod works best in single player mode.   
 - Drill inventory access will not work in hosted multiplayer & dedicated server.  
 - Resource search radius can impact game performance (for example: setting to 0 for whole map, selecting All, and clicking on "Update Map"), so limit to 2-5 grid size and a selected resource.   
-
+- This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
 
 
 ## Installation Details
@@ -66,6 +66,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
