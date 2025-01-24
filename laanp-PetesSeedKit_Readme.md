@@ -1,8 +1,8 @@
-laanp-PetesSeedKit_v1_w163_P.pak
+laanp-PetesSeedKit_v1_w164_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.38.131742 (Week: 163)
+Compatible with Icarus Version: Rev. 2.2.39.132249 (Week: 164)
 
 ## Description:
 This mod alters the game Seed Pouch so it will have 30 slots.  It also adds a custom seed pouch in the Workshop, pre-filled with (5) each of all the seeds found in the game. 
@@ -85,6 +85,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
