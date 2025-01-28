@@ -5,17 +5,32 @@ Mod Version: 1
 Compatible with Icarus Version: Rev. 2.2.39.132249 (Week: 164)
 
 ## Description:
-Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that allow the player to teleport to any portable beacon on the map, as well as remotely communicate and control Deep Mining Drills that have been deployed on the map. 
+Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that allow the player to teleport to any portable beacon on the map, as well as remotely communicate and control Deep Mining Drills that have been deployed on the map.  Additional resource locator button allows map scanning and marking of resource deposits. 
 
 ## Mod Details:
-- Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote & (20) Portable Beacons.
-- Once the handheld tool is activated in the quickbar, use LMB and it will scan the map for existing portable beacons, use RMB and it will scan the map for existing drills in the field.
-- The RMB Beacon Interface will list all the currently deployed beacon names (with grid locations) in a button list, which you can click to teleport to that portable beacon location on the map. 
-- The LMB Drill Interface will list all the currently deployed drills (Deep Mining, Exotic, and Ice Borers with grid locations) in a button list, which you can click to access each drill location on the map. 
+- Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides the following equipment:
+  -  (1) remote
+  -  (10) Portable Beacons
+  -  (3) Pete's Mining Kit (revised) that contains:
+     - (6) "Pete's Nuclear Extractor" - Custom self-powered exotic (purple) extractors
+     - (10) "Pete's Ore Extractor" - Custom self-powered ore extractors
+     - (3) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+     - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
+     - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity, of Purified Water!
+     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+     - (10) Portable Beacons - To mark your mining equipment on the map
+     - All custom extractors/harvestor/borers are modified for quick extraction
+     - They can be carried & stacked in regular inventory (not in the G-slot)
+
+- Once the handheld tool is activated in the quickbar, use LMB to scan the map for existing deployed drills, which will bring up a button list identifying the grid location, 
+  type of drill, and resource currently mining at that location.  Click on the button to access drill inventory or optionally teleport to drill.
+- Use RMB to bring up the Portable Beacon button list with currently deployed beacon names (with grid locations), which you can click to teleport to that portable beacon 
+  location on the map. 
 - Clicking on the "Resources" button will bring up an additional window to search for specific resources on the map.
-- This mod works best in single player mode.   
+- This mod in single player mode only.   
 - Drill inventory access will not work in hosted multiplayer & dedicated server.  
-- Resource search radius can impact game performance (for example: setting to 0 for whole map, selecting All, and clicking on "Update Map"), so limit to 2-5 grid size and a selected resource.   
+- Resource search radius can impact game performance (for example: setting to 0 for whole map, selecting All, and clicking on "Update Map"), so limit to 2-5 grid size and a 
+  selected resource.   
 - This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
 
 
