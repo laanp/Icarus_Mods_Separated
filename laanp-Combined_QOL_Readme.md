@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w164_P.pak
+laanp-Combined_QOL_v1_w165_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.39.132249 (Week: 164)
+Compatible with Icarus Version: Rev. 2.2.40.132442 (Week: 165)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -125,11 +125,13 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (23) Lures (1 of each kind)
 
   - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
-    - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
-    - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
-    - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
-    - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
-    - (10) Portable Beacons - To mark your mining equipment on the map
+     - (6) "Pete's Nuclear Extractor" - Custom self-powered exotic (purple) extractors
+     - (10) "Pete's Ore Extractor" - Custom self-powered ore extractors
+     - (3) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+     - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
+     - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity
+     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+     - (10) Portable Beacons - To mark your mining equipment on the map
     - All custom extractors/harvestor are modified for quick extraction
     - They can be carried & stacked in regular inventory (not in the G-slot)
 
@@ -274,6 +276,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
