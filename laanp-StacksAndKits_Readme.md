@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w164_P.pak
+laanp-StacksAndKits_v1_w165_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.39.132249 (Week: 164)
+Compatible with Icarus Version: Rev. 2.2.40.132442 (Week: 165)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -72,12 +72,15 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Coconut
 
   - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
-    - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
-    - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
-    - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
-    - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
-    - (10) Portable Beacons - To mark your mining equipment on the map
-    - They can be carried & stacked in regular inventory (not in the G-slot)
+     - (6) "Pete's Nuclear Extractor" - Custom self-powered exotic (purple) extractors
+     - (10) "Pete's Ore Extractor" - Custom self-powered ore extractors
+     - (3) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+     - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
+     - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity
+     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+     - (10) Portable Beacons - To mark your mining equipment on the map
+     - They can be carried & stacked in regular inventory (not in the G-slot)
+     - Equipment cannot be returned to the station.
 
   - "Pete's Mini Foundry" - Compact version of the Foundry (1/4 the size!)
 
@@ -166,6 +169,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
