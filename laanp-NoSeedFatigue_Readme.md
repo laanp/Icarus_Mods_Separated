@@ -1,13 +1,14 @@
-laanp-NoSeedFatigue_v1_w165_P.pak
+laanp-NoSeedFatigue_v1_w166_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.40.132442 (Week: 165)
+Compatible with Icarus Version: Rev. 2.2.41.132767 (Week: 166)
 
 ## Description:
-Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting.
+Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting, and allows all crops to grow in any biome.
 
 ## Mod Details:
+- Grow'em anywhere!
 - Harvest without penalty!
 - This mod eliminates 'Seed Fatigue' debuff
 - Must re-deploy & re-seed existing crop plots if 'Seed Fatigue' debuff currently in effect.
@@ -58,6 +59,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
