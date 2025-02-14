@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w166_P.pak
+laanp-BuildersDream_v1_w167_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.41.132767 (Week: 166)
+Compatible with Icarus Version: Rev. 2.2.42.133112 (Week: 167)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -204,13 +204,33 @@ Combines a number of mods in one package, to make building your top priority.  I
 - Adds the following craftable items at the character level:
   - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings"
 
+  - Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote, (20) Portable Beacons, and (3) "Pete's Mining Kit".
+    - Once the handheld tool is activated in the quickbar:
+    - Click LMB and to scan the map for delpoyed resource drills, and provide a list of buttons showing grid location, resource type, and type of drill.
+    - Click RMB and to scan the map for deployed Portable Beacons, and provide a list of buttons showing grid location, and Portable Beacon Name.
+    - Includes a "Resource Locator" to scan the map for resources and mark them on the map.
+    - This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
+    - Includes (3) sets of "Pete's Mining Kit" - that when unbundled, contains the following:
+      - (6) "Pete's Nuclear Extractor" - Custom self-powered exotic (purple) extractors
+      - (10) "Pete's Ore Extractor" - Custom self-powered ore extractors
+      - (3) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
+      - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
+      - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity, of Purified Water!
+      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+      - (10) Portable Beacons - To mark your mining equipment on the map
+      - All custom extractors/harvestor/borers are modified for quick extraction
+      - They can be carried & stacked in regular inventory (not in the G-slot)
+
+    - This mod only recommend to run in single player mode.   
+    - Drill inventory access will not work in hosted multiplayer & dedicated server.  
+
 - Adds the following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
   - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
   - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
   - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%  
   - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
-  simply remove the module from suit auxilliary slot, to completely turn off any effects.
+    simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 - Adds the following new craftable item at the carpentry benches that add the following building parts:
   - "Pete's Roofline Accents" - Allows building the following add-on pieces:
@@ -229,6 +249,7 @@ Combines a number of mods in one package, to make building your top priority.  I
   - Allows pre-placement of inner circle beams around a centre beam, that will line up walls/railings for any sized building.
   - Also supports any custom angle rotation of vertical beams around a centre beam, as well as "AutoBuild" feature.
   - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
+  - Recommended to use for single player client only.  Dedicated server & multiplayer NOT supported for this module.
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -373,6 +394,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
