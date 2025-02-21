@@ -28,7 +28,6 @@ Combined Mods:
 - A more natural Icarus experience, with a minimized kit set
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-StacksAndKits_Readme.md) for all the details.
 
-
 -------------------------------------------------------------------------------
 Separated Mods: 
 -------------------------------------------------------------------------------
@@ -55,6 +54,9 @@ Separated Mods:
 - The RMB Beacon Interface will list all the currently deployed beacon names (with grid locations) in a button list, which you can click to teleport to that portable beacon location on the map. 
 - The LMB Drill Interface will list all the currently deployed drills (Deep Mining, Exotic, and Ice Borers with grid locations) in a button list, which you can click to access each drill location on the map. 
 - This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
+- This mod Will work with all existing portable beacon locations on the map.
+- Tip: To avoid falling through the mesh after teleport, place the portable beacon in the middle of any floor piece, for a solid landing.   
+- Check out the "How-To-Use" video here: [Icarus Mod Highlight - Pete's Drill Manager](https://youtu.be/5EIrZaz4zHk?si=MR4z5jiJr9aOYOoF)
 
 ### laanp-FreeBuild_v1_w168_P.pak
 - Everything is free to build at all benches.
@@ -130,6 +132,17 @@ Separated Mods:
 - Adds +10% to physical Resistance stats, for each module added.
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
+### laanp-PetesBeeKit_v1_w168_P.pak
+- Adds a complete kit to allow setup of a beekeeping station.
+- Adds a new Workshop item called "Pete's Bee Kit" under the Workshop menu called "Pete's Kits"
+- When consumed on planet, will unbundle the following equipment:
+  - (1) Beehive
+  - (1) Small Beehive Expansion
+  - (1) Large Beehive Expansion
+  - (1) Behive Extractor
+  - (1) Behive Breeding Centre
+  - (10) Queen Bees
+
 ### laanp-PetesBeaconTeleport_v1_w168_P.pak
 - Provides an interface to allow the player to teleport to any portable beacon that has been deployed on the map. 
 - This mod now works in single mode, hosted multiplayer & dedicated server.
@@ -154,7 +167,8 @@ Separated Mods:
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
 ### laanp-PetesMiningKit_v1_w168_P.pak
-Adds a new Workshop menu called "Pete's Kits" and includes cutom item called "Pete's Mining Kit" containing the following:
+- Adds a new Workshop item called "Pete's Mining Kit" under the Workshop menu called "Pete's Kits"
+- When consumed on planet, will unbundle the following equipment:
   - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
   - (3) "Pete's Ore Extractor" - Custom self-powered ore extractors
   - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
@@ -312,144 +326,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
