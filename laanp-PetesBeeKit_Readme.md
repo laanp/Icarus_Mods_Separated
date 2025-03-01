@@ -1,16 +1,17 @@
-laanp-PetesBeeKit_v1_w168_P.pak
+laanp-PetesBeeKit_v1_w169_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.43.133571 (Week: 168)
+Compatible with Icarus Version: Rev. 2.2.44.133793 (Week: 169)
 
 ## Description:
-Complete kit to allow setup of a beekeeping station.
+Complete kit to allow setup of a bee-keeping station.
 
 ## Mod Details:
 
 Adds a new Workshop item called "Pete's Bee Kit" under a new Workshop menu called "Pete's Kits".
 When consumed on planet, will unbundle the following:
+
   - "Pete's Bee Kit" (Bee Icon) - Contains the following:
     - (1) Beehive
     - (1) Small Beehive Expansion
@@ -66,6 +67,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
