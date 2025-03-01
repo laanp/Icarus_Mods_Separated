@@ -1,3 +1,13 @@
+laanp - Mod Update Alert!
+=========================
+I will be heading out of country for a much needed vacation from Mar.4 - 14th,
+so this means that there will be no mod updates for my mods during Week# 170, & #171.
+
+As with some mods, you can try using older weeks versions, which should work, but may be missing new content.
+Use Jimk72's IMM software to download the current mod and make sure to create an EXMODZ file, for updating my mods 
+through the missing weeks.
+
+
 # laanp Mods
 
 Compatible with Icarus Version: Rev. 2.2.44.133793 (Week: 169)
