@@ -196,9 +196,9 @@ Separated Mods:
 ### laanp-PetesToilet_v1_w172_P.pak
 - Introduces a new item called "Pete's Toilet", craftable at the Fabricator Bench
 - The toilet can also be used to craft specialty toxic items, including:
-  - Guano		Best ingredient to create biofuel in a composter! 
-  - Condensed Enzymes	Used to craft statues at the Decoration Bench
-  - Synthetic Enzymes	Used as fuel for the Localized Terraforming Device
+  - Guano - Best ingredient to create biofuel in a composter! 
+  - Condensed Enzymes - Used to craft statues at the Decoration Bench
+  - Synthetic Enzymes	- Used as fuel for the Localized Terraforming Device
 
 ### laanp-PetesTrees_v1_w172_P.pak
 - New craftable, deployable foliage for your base!
