@@ -193,6 +193,13 @@ Separated Mods:
 - This mod alters the game Seed Pouch so it will have 30 slots.
 - Adds new Workshop menu item called "Pete's Kits" which will contain a new Workshop item called "Pete's All Seeds Farming Packet" that when unbundled on the planet, will provide a (30-Slot) Seed Pouch pre-filled with (5) each of all the seeds available in the game.
 
+### laanp-PetesToilet_v1_w172_P.pak
+- Introduces a new item called "Pete's Toilet", craftable at the Fabricator Bench
+- The toilet can also be used to craft specialty toxic items, including:
+  - Guano		Best ingredient to create biofuel in a composter! 
+  - Condensed Enzymes	Used to craft statues at the Decoration Bench
+  - Synthetic Enzymes	Used as fuel for the Localized Terraforming Device
+
 ### laanp-PetesTrees_v1_w172_P.pak
 - New craftable, deployable foliage for your base!
 - Creates new item called "Pete's Trees", craftable for free at the character level.
@@ -326,88 +333,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
