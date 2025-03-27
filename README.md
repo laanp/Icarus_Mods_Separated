@@ -152,6 +152,10 @@ Separated Mods:
 - Will work with all existing portable beacon locations on the map.
 - Tip: If you are falling through the mesh after teleport on some beacons, place 2x2 floor pieces directly under the beacon, for solid landing.   
 
+### laanp-PetesCureAll_v1_w172_P.pak
+- A new mysterious Exotic-infused potion that cures all ailments.
+- Introduces unique tonic called "Pete's Cure All Tonic" that will fix just about everything that's wrong with a prospector.
+
 ### laanp-PetesInsaneLeveler_v1_w172_P.pak
 - Introduces a new module called "Pete's Insane Leveler" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When this module is placed in any aux. slot of your envirosuit, will advance player character XP and Level very quickly.
@@ -333,4 +337,6 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
