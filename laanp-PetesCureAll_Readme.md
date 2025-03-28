@@ -1,14 +1,14 @@
-laanp-PetesCureAll_v1_w172_P.pak
+laanp-PetesCureAll_v1_w173_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.47.134758 (Week: 172)
+Compatible with Icarus Version: Rev. 2.2.48.135044 (Week: 173)
 
 ## Description:
 A new mysterious Exotic-infused potion that cures all ailments.
 
 ## Mod Details:
-- Introduces unique cure all tonic that will fix just about everything that's wrong with a prospector.
+- Introduces unique tonic called "Pete's Cure All Tonic" that will fix just about everything that's wrong with a prospector.
 
 
 
@@ -58,6 +58,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
