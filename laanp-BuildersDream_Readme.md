@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w172_P.pak
+laanp-BuildersDream_v1_w173_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.47.134758 (Week: 172)
+Compatible with Icarus Version: Rev. 2.2.48.135044 (Week: 173)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -251,6 +251,11 @@ Combines a number of mods in one package, to make building your top priority.  I
   - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
   - Recommended to use for single player client only.  Dedicated server & multiplayer NOT supported for this module.
 
+- Introduces a new item called "Pete's Toilet", craftable at the Fabricator Bench
+  - The toilet can also be used to craft specialty toxic items, including:
+    - Guano			Best ingredient to create biofuel in a composter! 
+    - Condensed Enzymes		Used to craft statues at the Decoration Bench
+    - Synthetic Enzymes		Used as fuel for the Localized Terraforming Device
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 that introduces an interface to set various settings like Jump height, Map Markers, Caves/Ore Deposits, etc... 
@@ -394,6 +399,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
