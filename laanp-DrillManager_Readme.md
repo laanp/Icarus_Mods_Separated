@@ -1,8 +1,8 @@
-laanp-DrillManager_v1_w172_P.pak
+laanp-DrillManager_v1_w173_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.47.134758 (Week: 172)
+Compatible with Icarus Version: Rev. 2.2.48.135044 (Week: 173)
 
 ## Description:
 A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. 
@@ -32,6 +32,10 @@ A unique handheld device that allows the player to remotely communicate and cont
 
 [Icarus - Mod Highlight - Pete's Drill Manager](https://youtu.be/5EIrZaz4zHk?si=NwpL_sAS4qtltCiT) 
 
+
+## Known Issues:
+- On the Prometheus map, the grid line system is inaccurate and due to this, sometimes the Grid locations on the buttons may be off by one grid.
+- This is a known bug, and not much I can do about it.
 
 
 ## Installation Details
@@ -79,6 +83,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
