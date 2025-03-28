@@ -401,7 +401,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w173",
-      "description": "Introduces a new item called "Pete's Toilet", craftable at the Fabricator Bench",
+      "description": "Introduces a new item called 'Pete's Toilet', craftable at the Fabricator Bench",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w173/laanp-PetesToilet_v1_w173_P.pak"
       },
