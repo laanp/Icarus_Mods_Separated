@@ -74,6 +74,11 @@ Separated Mods:
 - Stops trees from catching on fire due to lightning strikes
 - Stops trees from falling down in a wind storm
 
+### laanp-Lantern_v1_w173_P.pak
+- Changes the in-game Battery Lantern to 'Pete's Nuclear-Powered Lantern. 
+- Upgrades the Battery Lantern to never run out of power.
+- Lantern has properties updated to provide a far greater lighting distance.
+
 ### laanp-LargerDropshipSlots_v1_w173_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
@@ -297,6 +302,10 @@ If it still doesn't correct itself, hit ESC and click on the "Unstuck" menu opti
 If you are using "Pete's Resource Killer" module (1 hit for tree, rocks and ore gathering) - it goes without saying if you are chopping a tree
 with your axe, and do not have the Talent "Seasoned Logsman" - the one that auto picks up your wood, you'll end up with wood pieces all over
 the place and not in your inventory!  This is expected behaviour.
+
+### "Pete's Drill & Beacon Remote"
+- On the Prometheus map, the grid line system is inaccurate and due to this, sometimes the Grid locations on the buttons may be off by one grid.
+- This is a known bug, and not much I can do about it, till they fix the issue.
 
 ### Equipment Retrieval
 None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
