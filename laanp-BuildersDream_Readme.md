@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w173_P.pak
+laanp-BuildersDream_v1_w174_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.48.135044 (Week: 173)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -41,6 +41,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 - "Gatherer's Backpack" from the workshop now adds 18 slots, with -65% weight reduction for ores & wood
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary benches 
+- Changed the in-game Battery Lantern to `Pete's Nuclear-Powered Lantern`, with unlimited charge and extended lighting range.
 
 - Adds the Following Workshop Kits under a new Workshop menu called "Pete's Kits":
 
@@ -60,7 +61,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - Titanium Knife (high durability, added stats)
     - Titanium Sickle (high durability, added stats)
     - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
-    - Wooden Torch (high durability - lasts forever!)
+    - Pete's Nuclear-Powered Lantern (unlimited power!) and increase lighting range
     - (100) Dried Stringy Meat
     - (100) Antibiotic Tonic
     - (100) Anti-Poison Tonic
@@ -82,7 +83,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - (4) Stone Angled Walls
     - (5) reinforced doors
     - (100) Concrete Beams
-    - (1) Campfire
+    - (1) Wood Burner
     - (1) Bedroll
     - (3) Upgraded MXC Furnace from Workshop (smelts faster than the electric furnace, and can be portable, not affected by weather)  
     - (1) Crafting Bench
@@ -399,6 +400,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
