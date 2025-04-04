@@ -1,8 +1,8 @@
-laanp-CircleBuilder_v1_w173_P.pak
+laanp-CircleBuilder_v1_w174_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.48.135044 (Week: 173)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
 
 ## Description:
 - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
@@ -63,6 +63,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
