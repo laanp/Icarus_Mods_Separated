@@ -1,8 +1,8 @@
-laanp-PetesCureAll_v1_w173_P.pak
+laanp-PetesCureAll_v1_w174_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.48.135044 (Week: 173)
+Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
 
 ## Description:
 A new mysterious Exotic-infused potion that cures all ailments.
@@ -58,6 +58,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
