@@ -1,8 +1,8 @@
-laanp-NoFreezerIce_v1_w174_P.pak
+laanp-NoFreezerIce_v1_w175_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.49.135257 (Week: 174)
+Compatible with Icarus Version: Rev. 2.2.50.135633 (Week: 175)
 
 ## Description:
 Stops ice from accumulating in the Deep Freeze (freezer)
@@ -10,6 +10,8 @@ Stops ice from accumulating in the Deep Freeze (freezer)
 ## Mod Details:
 - Everyone likes a cold drink, but the continual accumulation of ice taking up valuable freezer space is annoying.
 - This mod removes the ability to store ice in the Deep Freeze, thereby stopping this accumulation.
+
+
 
 
 
