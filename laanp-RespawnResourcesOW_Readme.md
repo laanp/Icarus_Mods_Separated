@@ -1,8 +1,8 @@
-laanp-RespawnResourcesOW_v1_w175_P.pak
+laanp-RespawnResourcesOW_v1_w176_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.50.135633 (Week: 175)
+Compatible with Icarus Version: Rev. 2.2.51.135901 (Week: 176)
 
 ## Description:
 Resets all Open World resources in Olympus, Styx & Prometheus maps.  Use this mod to reset your mines, ore nodes, trees & rocks.    
@@ -40,6 +40,8 @@ NOTE*** Will not reset Scoria, Clay or Obsidian rock formations (anything you ca
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
