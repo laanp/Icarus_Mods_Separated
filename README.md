@@ -222,6 +222,14 @@ Separated Mods:
 - Use 'R' while deploying the foliage for variations.
 - All deployable foliage can be picked up and moved, to enhance your base look! 
 
+### laanp-PlayerTransport_v1_w176_P.pak
+- Provides a quick instantaneous teleport to a pointed-to floor location, within visible range. 
+- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
+- Introduces a new craftable icon called "Petes Player Transport" which you can craft in the character inventory.
+- When placed in your Quickbar and activated, LMB allows quick teleport to the center of any floor piece within visible range.
+- Works pointing to floor pieces from above or below, as well as under water!
+- Works on any floor piece type, including halfpieces and quarter piece versions also.
+
 ### laanp-PowerSurge_v1_w176_P.pak
 - All power generating devices modified to provide 50k power output. Includes Biofuel Generator, Solar Panel, Water wheel & Wind Turbines - More than enough for all your power needs. 
 
