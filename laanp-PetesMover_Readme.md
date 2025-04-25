@@ -1,8 +1,8 @@
-laanp-PetesMover_v1_w176_P.pak
+laanp-PetesMover_v1_w177_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.51.135901 (Week: 176)
+Compatible with Icarus Version: Rev. 2.2.52.136091 (Week: 177)
 
 ## Description:
 Custom suit module that increases base movement & sprint speed.
@@ -58,5 +58,7 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
