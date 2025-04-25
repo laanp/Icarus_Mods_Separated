@@ -82,6 +82,11 @@ Separated Mods:
 ### laanp-LargerDropshipSlots_v1_w177_P.pak
 - Dropship cargo slots increase from 15 - 30 
 
+### laanp-LegacyFurnace_v1_w177_P.pak
+- Brings back the ability to craft the small legacy electric furnace.
+- Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
+- New craftable item in the Fabricator, called "Electric Furnace (Legacy)"
+
 ### laanp-LightSwitch_v1_w177_P.pak
 - Creates a new craftable, self-powered light switch with 50k of internal power!
 - Craftable at the the Fabricator, provides standalone power supply with animated ON/OFF switch capability.
@@ -359,16 +364,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
 
