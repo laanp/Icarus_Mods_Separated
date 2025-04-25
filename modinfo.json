@@ -133,6 +133,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LargerDropshipSlots_Readme.md"
     },
     {
+      "name": "laanp-LegacyFurnace",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w177",
+      "description": "Brings back the ability to craft the small legacy electric furnace.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w177/laanp-LegacyFurnace_v1_w177_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-LegacyFurnace.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LegacyFurnace_Readme.md"
+    },
+    {
       "name": "laanp-LightSwitch",
       "author": "laanp",
       "version": "1.0",
@@ -530,4 +542,3 @@
     }
   ]
 }
-
