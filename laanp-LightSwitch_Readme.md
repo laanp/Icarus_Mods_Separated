@@ -1,8 +1,8 @@
-laanp-LightSwitch_v1_w177_P.pak
+laanp-LightSwitch_v1_w178_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.52.136091 (Week: 177)
+Compatible with Icarus Version: Rev. 2.2.53.136221 (Week: 178)
 
 ## Description:
 Standalone Light Switch which has it's own internal power source.
@@ -56,6 +56,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
