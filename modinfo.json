@@ -41,7 +41,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w178",
-      "description": "- Circle building mod that facilitates construction of up to 48 sided circular buildings.  ",
+      "description": "Circle building mod that facilitates construction of up to 48 sided circular buildings.  ",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w178/laanp-CircleBuilder_v1_w178_P.pak"
       },
@@ -77,7 +77,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w178",
-      "description": "",
+      "description": "Adds a new bench which allows crafting and placement of additional in-game deployable assets to enhance base building.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w178/laanp-ExtraDeployables_v1_w178_P.pak"
       },
@@ -125,7 +125,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w178",
-      "description": "Changes the in-game Battery Lantern to 'Pete's Nuclear-Powered Lantern. ",
+      "description": "Changes the in-game Battery Lantern to 'Pete's Nuclear-Powered Lantern.' ",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w178/laanp-Lantern_v1_w178_P.pak"
       },
