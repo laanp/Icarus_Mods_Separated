@@ -1,8 +1,8 @@
-laanp-ExtraDeployables_v1_w177_P.pak
+laanp-ExtraDeployables_v1_w178_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.52.136091 (Week: 177)
+Compatible with Icarus Version: Rev. 2.2.53.136221 (Week: 178)
 
 ## Description:
 Adds a new bench called `Extra Deployables Bench` which allows crafting and placement of additional in-game deployable assets to enhance base building. 
