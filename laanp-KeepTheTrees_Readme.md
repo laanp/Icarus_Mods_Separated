@@ -1,8 +1,8 @@
-laanp-KeepTheTrees_v1_w178_P.pak
+laanp-KeepTheTrees_v1_w179_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.53.136221 (Week: 178)
+Compatible with Icarus Version: Rev. 2.2.54.136562 (Week: 179)
 
 ## Description:
 Stops trees from falling down in a wind storm and from catching on fire due to lightning strikes
@@ -60,6 +60,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
