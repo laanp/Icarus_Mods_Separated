@@ -1,8 +1,8 @@
-laanp-DrillManager_v1_w180_P.pak
+laanp-DrillManager_v1_w181_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.55.137128 (Week: 180)
+Compatible with Icarus Version: Rev. 2.2.56.137509 (Week: 181)
 
 ## Description:
 A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. 
@@ -81,6 +81,10 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
