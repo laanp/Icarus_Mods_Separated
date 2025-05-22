@@ -1,8 +1,8 @@
-laanp-PetesResourceKiller_v1_w180_P.pak
+laanp-PetesResourceKiller_v1_w181_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.55.137128 (Week: 180)
+Compatible with Icarus Version: Rev. 2.2.56.137509 (Week: 181)
 
 ## Description:
 New suit module which enables 1-hit resource gathering for trees, rocks & ores.
@@ -60,6 +60,10 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
