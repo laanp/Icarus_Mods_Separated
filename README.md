@@ -147,11 +147,6 @@ Separated Mods:
 ### laanp-NoWaterWheelJunk_v1_w181_P.pak
 - Water wheels no longer accumulate junk.
 
-### laanp-OldSigns_v1_w181_P.pak
-- Reverts all the sign icons back to style before Week 175 update. 
-- Makes them clearer, less opaque and easier to see under low light and reflective conditions.
-- No more eye-strain!
-
 ### laanp-PetesAuxSlots_v1_w181_P.pak
 - Introduces a new module called "Pete's Envirosuit Auxiliary Slot Module" that can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - This mod will also provide (+2) auxiliary slots for any envirosuit on planet, (even if the suit specs don't have any!)
