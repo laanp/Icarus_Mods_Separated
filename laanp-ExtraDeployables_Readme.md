@@ -1,8 +1,8 @@
-laanp-ExtraDeployables_v1_w183_P.pak
+laanp-ExtraDeployables_v1_w184_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.58.138313 (Week: 183)
+Compatible with Icarus Version: Rev. 2.2.59.138637 (Week: 184)
 
 ## Description:
 Adds a new bench which allows crafting and placement of additional in-game deployable assets to enhance base building. 
@@ -11,6 +11,12 @@ Adds a new bench which allows crafting and placement of additional in-game deplo
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
 - New craftable bench called "Extra Deployables Bench" that can be crafted at the Machining Bench.
 - Several items have variants that are accessible using the `R` key.
+
+
+## Known Bugs/Issues:
+- Even though the buildings are highly durable, Military Tent & Cabin WILL get destroyed if you chop a tree down and fall the tree on the building.
+- Building shattered debris will also not disappear! (until you log off and re-load the map)
+- Working on resolving this, but so far no luck! 
 
 
 ## Installation Details
@@ -57,6 +63,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
