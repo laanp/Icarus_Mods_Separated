@@ -169,6 +169,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-LightSwitch_Readme.md"
     },
     {
+      "name": "laanp-MapTeleport",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w184",
+      "description": "Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w184/laanp-MapTeleport_v1_w184_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-MapTeleport.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MapTeleport_Readme.md"
+    },
+    {
       "name": "laanp-MiniFoundry",
       "author": "laanp",
       "version": "1.0",
