@@ -97,6 +97,19 @@ Separated Mods:
 - Craftable at the the Fabricator, provides standalone power supply with animated ON/OFF switch capability.
 - Adjustable puck location, based upon load-to-switch or switch-to-load connection.
 
+### laanp-MapTeleport_v1_w184_P.pak
+- Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. 
+- Introduces a new "Petes Map Tool" handheld tool, craftable at the character level.
+- While holding the Tool, click LMB to access the new map interface independent of the regular game map.
+- Supports Olympus, Styx, and Prometheus Open World & Mission maps only.
+- Allows full teleportation point & click support to available map areas. 
+- Can name & save unlimited player teleport locations, for quick teleport button click.
+- Teleport button list saved between game sessions.
+- This is a map exploration mod and therefore some things have been added to game & player stats:
+   - Out-of-Bounds system timer is disabled and will not kill the player (no notification, other than music change).
+   - Player fall damage has been disabled.
+- Spoiler Alert! - The map on Prometheus reveals all areas in the Null Sector, and allows teleport there also.   
+
 ### laanp-MiniFoundry_v1_w184_P.pak
 - Creates a new Workshop item under 'Pete's Kits' called 'Pete's Mini Foundry'.
 - A quarter-scale version of the original, that will fit on a single floor piece and in a single story building!  
@@ -370,30 +383,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
