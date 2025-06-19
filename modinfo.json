@@ -49,6 +49,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-CircleBuilder_Readme.md"
     },
     {
+      "name": "laanp-CropAdvance",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w184",
+      "description": "Point and click stage advance of any crop plot under your cursor.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w184/laanp-CropAdvance_v1_w184_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-CropAdvance.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-CCropAdvance_Readme.md"
+    },
+    {
       "name": "laanp-CurvedStairs",
       "author": "laanp",
       "version": "1.0",
@@ -566,4 +578,3 @@
     }
   ]
 }
-
