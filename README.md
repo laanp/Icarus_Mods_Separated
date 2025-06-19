@@ -41,6 +41,12 @@ Separated Mods:
 - Also supports any custom angle rotation of vertical beams around a centre, including step height change and rotation amount.
 - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
 
+### laanp-CropAdvance_v1_w184_P.pak
+- Mod that allows instantaneous point and click stage advance of any crop plot under your cursor. 
+- Place the mod in your quickbar and activate it, then LMB while pointing at any crop plot will advance it's growth stage. 
+- RMB will reverse the stage (if crop is dead, will ressurect it!).
+- Does not alter any crop modifiers, growth speed, or talents, just adjusts the growth stages.
+
 ### laanp-CurvedStairs_v1_w184_P.pak
 - This mod will add special buildable concrete curved stairs and associated railings.
 - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings" crafted at the character level
