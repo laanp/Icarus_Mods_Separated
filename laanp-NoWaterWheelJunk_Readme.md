@@ -1,8 +1,8 @@
-laanp-NoWaterWheelJunk_v1_w185_P.pak
+laanp-NoWaterWheelJunk_v1_w186_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.60.138841 (Week: 185)
+Compatible with Icarus Version: Rev. 2.2.61.139213 (Week: 186)
 
 ## Description:
 Water wheels no longer accumulate junk.
@@ -70,6 +70,10 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
