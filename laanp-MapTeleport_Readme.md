@@ -1,14 +1,14 @@
-laanp-MapTeleport_v1_w187_P.pak
+laanp-MapTeleport_v1_w188_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.62.139704 (Week: 187)
+Compatible with Icarus Version: Rev. 2.2.63.139765 (Week: 188)
 
 ## Description:
-Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. 
+Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. This is an evolving mod, so changes will be introduced over time. 
 
 ## Mod Details:
-- Compatible with: Single Player Only! - Hosted Multiplayer or Dedicated Server NOT supported.
+- Now compatible with Single Player and Hosted Multiplayer or Dedicated Server.
 - Introduces a new "Petes Map Tool" handheld tool, craftable at the character level.
 - While holding the Tool, click LMB to access the new map interface independent of the regular game map.
 - Supports Olympus, Styx, and Prometheus Open World & Mission maps only.
@@ -26,6 +26,7 @@ Introduces a new map exploration system and handheld tool called Pete's Map Tool
 - Map coordinate system is pretty acurate, but occasionally your player may fall through the graphics mesh, but just use Unstuck, re-teleport, or wait while falling and you will be transported to the nearest surface.
 - Not all caves will show on map, this is due to some caves (mostly biome connecting through-caves) are not marked in-game with BP_BaseCaveEntrance.
 - Some Cave Entrance Arrows may not show, and may be hidden in the rock.    
+- Although protection from out-of-bounds is in place, always save your prospects with a character in a safe base location, before using this mod.
 
 
 ## Installation Details
@@ -72,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
