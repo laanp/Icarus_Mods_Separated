@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w187_P.pak
+laanp-PetesMiningKit_v1_w188_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.62.139704 (Week: 187)
+Compatible with Icarus Version: Rev. 2.2.63.139765 (Week: 188)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, water (with Water Borer on geyser) and volatile red exotics.
@@ -18,7 +18,7 @@ Complete kit to assist the prospector with mining exotics, ores, super-cooled ic
      - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
      - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity, with Purified Water!
      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
-     - (10) Portable Beacons - To mark your mining equipment on the map
+     - (20) Portable Beacons - To mark your mining equipment on the map
      - They can be carried & stacked in regular inventory (not in the G-slot)
      - Equipment cannot be returned to the station.
 
@@ -72,6 +72,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
