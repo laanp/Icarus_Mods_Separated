@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w187_P.pak
+laanp-BuildersDream_v1_w188_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.62.139704 (Week: 187)
+Compatible with Icarus Version: Rev. 2.2.63.139765 (Week: 188)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -210,6 +210,8 @@ Combines a number of mods in one package, to make building your top priority.  I
 - Adds the following craftable items at the character level:
   - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings"
 
+- Introduces a new mod feature whereby when the player has hands equipped (`H` key) LMB will transport the player to the centre of any floor piece being pointed to with the cursor.  This is an extremely useful tool in building, allowing the player to quickly move to building floorpiece locations, from above or below.
+
   - Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote, (20) Portable Beacons, and (3) "Pete's Mining Kit".
     - Once the handheld tool is activated in the quickbar:
     - Click LMB and to scan the map for delpoyed resource drills, and provide a list of buttons showing grid location, resource type, and type of drill.
@@ -400,6 +402,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
