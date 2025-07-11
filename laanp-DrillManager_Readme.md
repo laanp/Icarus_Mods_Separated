@@ -1,8 +1,8 @@
-laanp-DrillManager_v1_w187_P.pak
+laanp-DrillManager_v1_w188_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.2.62.139704 (Week: 187)
+Compatible with Icarus Version: Rev. 2.2.63.139765 (Week: 188)
 
 ## Description:
 A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. 
@@ -22,7 +22,7 @@ A unique handheld device that allows the player to remotely communicate and cont
      - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
      - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity, of Purified Water!
      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
-     - (10) Portable Beacons - To mark your mining equipment on the map
+     - (20) Portable Beacons - To mark your mining equipment on the map
     - All custom extractors/harvestor/borers are modified for quick extraction
     - They can be carried & stacked in regular inventory (not in the G-slot)
 
@@ -81,6 +81,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
