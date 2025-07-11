@@ -20,7 +20,7 @@ Combined Mods:
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w188_P.pak
+### laanp-BuildersDream_v2_w188_P.pak
 - Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
