@@ -1,8 +1,8 @@
-laanp-RealLevels_v1_w189_P.pak
+laanp-RealLevels_v1_w190_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.0.140074 (Week: 189)
+Compatible with Icarus Version: Rev. 2.3.1.140342 (Week: 190)
 
 ## Description:
 Shows real player XP level
@@ -10,6 +10,8 @@ Shows real player XP level
 ## Mod Details:
 - This mod will show your true level based on experience points.
 - Standard game will cap your level display at 60, and this mod will unlock it. 
+
+
 
 
 
