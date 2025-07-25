@@ -1,8 +1,8 @@
-laanp-ExtraDeployables_v1_w189_P.pak
+laanp-ExtraDeployables_v1_w190_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.0.140074 (Week: 189)
+Compatible with Icarus Version: Rev. 2.3.1.140342 (Week: 190)
 
 ## Description:
 Adds a new bench which allows crafting and placement of additional in-game deployable assets to enhance base building. 
@@ -63,6 +63,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
