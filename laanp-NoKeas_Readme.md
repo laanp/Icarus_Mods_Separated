@@ -1,8 +1,8 @@
-laanp-NoKeas_v1_w189_P.pak
+laanp-NoKeas_v1_w190_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.0.140074 (Week: 189)
+Compatible with Icarus Version: Rev. 2.3.1.140342 (Week: 190)
 
 ## Description:
 Disables spawning of Keas (big parrot-like birds)
@@ -58,6 +58,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
