@@ -37,6 +37,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StacksAndKits_Readme.md"
     },
     {
+      "name": "laanp-BuildTools",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w191",
+      "description": "Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w191/laanp-BuildTools_v1_w191_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildTools.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildTools_Readme.md"
+    },    
+    {
       "name": "laanp-CircleBuilder",
       "author": "laanp",
       "version": "1.0",
@@ -578,4 +590,5 @@
     }
   ]
 }
+
 
