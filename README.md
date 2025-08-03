@@ -35,6 +35,14 @@ Separated Mods:
 ### This utility will allow any number of mods to be merged to work properly together into a single pak file.
 -------------------------------------------------------------------------------
 
+### laanp-BuildTools_v1_w191_P.pak
+- Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game. 
+- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
+- Mod is accessible in the player crafting menu.
+- Place the mod in your quickbar and activate it, then LMB while pointing at any buildable or deployable object to bring up the menu. 
+- Enter values or drag the slider positions to change the object's attributes, cancel button to undo.
+- Check out the "How-To-Use" video [Icarus Mod Highlight - laanp-BuildTools](https://youtu.be/e0Xnb7IsG0s?si=NP8GFtUWGfzRVDF4) for all the details.
+
 ### laanp-CircleBuilder_v1_w191_P.pak
 - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
 - While pointing at any vertical beam, with a another deployed, right-mouse button to bring up "Pete's Circle Builder" Menu.
@@ -392,6 +400,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
