@@ -1,8 +1,8 @@
-laanp-BuildTools_v1_w191_P.pak
+laanp-BuildTools_v1_w192_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.2.140630 (Week: 191)
+Compatible with Icarus Version: Rev. 2.3.3.140683 (Week: 192)
 
 ## Description:
 Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game. 
@@ -13,6 +13,15 @@ Mod that provides a tool to transform, rotate, resize Buildables or Deployables 
 - Place the mod in your quickbar and activate it, then LMB while pointing at any buildable or deployable object to bring up the menu. 
 - Enter values or drag the slider positions to change the object's attributes, cancel button to undo.
 
+## Known Bugs/Issues/Notes:
+- Moving, rotating & resizing Deployables is solid and will always work and be saved in the game.
+- Generally, rotating & resizing Buildables is pretty stable.
+- Moving Buildables can be buggy with the following side-effects:
+  - Building pieces missing upon prospect reload.
+  - Building pieces break upon prospect reload, after structural checks, or destruction of anchor building piece after move. 
+  - Always save and reload on greater frequency, to check buildable moves are sticking!
+  - Moving powered or water connected devices, does not affect their operation! until their original puck connection is deleted.
+  -  
 
 ## Installation Details
 
@@ -61,6 +70,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
