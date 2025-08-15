@@ -1,17 +1,17 @@
-laanp-DrillManager_v1_w192_P.pak
+laanp-DrillManager_v1_w193_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.3.140683 (Week: 192)
+Compatible with Icarus Version: Rev. 2.3.4.140913 (Week: 193)
 
 ## Description:
 A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. 
 
 ## Mod Details:
-- Compatible with: Single Player Only!
+- Now compatible with: single player, hosted multiplayer & dedicated server (See Known Issues below)
 - Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote, (20) Portable Beacons, and (3) "Pete's Mining Kit".
 - Once the handheld tool is activated in the quickbar:
-  - Click LMB and to scan the map for delpoyed resource drills, and provide a list of buttons showing grid location, resource type, and type of drill.
+  - Click LMB and to scan the map for deployed resource drills, and provide a list of buttons showing grid location, resource type, and type of drill.
   - Click RMB and to scan the map for deployed Portable Beacons, and provide a list of buttons showing grid location, and Portable Beacon Name.
 - Includes a "Resource Locator" to scan the map for resources and mark them on the map.
 - This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
@@ -35,7 +35,10 @@ A unique handheld device that allows the player to remotely communicate and cont
 ## Known Issues:
 - On the Prometheus map, the grid line system is inaccurate and due to this, sometimes the Grid locations on the buttons may be off by one grid.
 - This is a known bug, and not much I can do about it.
-
+- In multiplayer only, the player cannot remotely access drills that are outside of a 1 grid radius from player location.  This is indicated by the red text on the buttons. Player can still teleport to the drill.
+- In multiplayer only, the Resource Locator will only detect Deep Mining resources up to 2 grids from player.  The exception is Water Geysers and Exotic deposits which will show when scanning the whole map.
+- Showing all resources on a map (entering 0 in the grid search radius) will introduce considerable lag (in single player) in the game, since you will be marking > 600 locations on your map! Best practice is to select a resource first before changing grid search distance.
+   
 
 ## Installation Details
 
@@ -81,6 +84,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
