@@ -1,8 +1,8 @@
-laanp-MiniFoundry_v1_w193_P.pak
+laanp-MiniFoundry_v1_w194_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.4.140913 (Week: 193)
+Compatible with Icarus Version: Rev. 2.3.5.141257 (Week: 194)
 
 ## Description:
 Creates a new Workshop item under 'Pete's Kits' called 'Pete's Mini Foundry'.
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
