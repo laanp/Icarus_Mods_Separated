@@ -137,7 +137,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w194",
-      "description": "",
+      "description": "Allows all Great Hunts Campaigns to be completed, without having to select only certain Campaign paths.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w194/laanp-GreaterHunts_v1_w194_P.pak"
       },
@@ -602,4 +602,5 @@
     }
   ]
 }
+
 
