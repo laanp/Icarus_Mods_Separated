@@ -1,6 +1,6 @@
-laanp-ExtraDeployables_v1_w197_P.pak
+laanp-ExtraDeployables_v2_w197_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.3.8.141991 (Week: 197)
 
@@ -11,7 +11,6 @@ Adds a new bench which allows crafting and placement of additional in-game deplo
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
 - New craftable bench called "Extra Deployables Bench" that can be crafted at the Machining Bench.
 - Many items crafted will have variants that are accessible using the `R` key.
-- ** IMPORTANT ** You MUST have the NOREX Boss Tracker Upgrade installed in your C0NT4CT Communication Device to craft extra deployables associated with the Great Hunts!  
 
 ## Known Bugs/Issues:
 - Even though the buildings are highly durable, Military Tent & Cabin WILL get destroyed if you chop a tree down and fall the tree on the building.
@@ -62,6 +61,7 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
