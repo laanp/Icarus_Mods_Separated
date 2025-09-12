@@ -99,11 +99,11 @@
     {
       "name": "laanp-ExtraDeployables",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w197",
       "description": "Adds a new bench which allows crafting and placement of additional in-game deployable assets to enhance base building. ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-ExtraDeployables_v1_w197_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-ExtraDeployables_v2_w197_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-ExtraDeployables.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-ExtraDeployables_Readme.md"
@@ -590,4 +590,5 @@
     }
   ]
 }
+
 
