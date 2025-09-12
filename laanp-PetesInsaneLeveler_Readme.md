@@ -1,8 +1,8 @@
-laanp-PetesInsaneLeveler_v1_w195_P.pak
+laanp-PetesInsaneLeveler_v1_w197_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.6.141490 (Week: 195)
+Compatible with Icarus Version: Rev. 2.3.8.141991 (Week: 197)
 
 ## Description:
 This mod allows players to level up very quickly, through use of a custom module.
@@ -58,6 +58,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
