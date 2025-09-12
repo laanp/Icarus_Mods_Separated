@@ -72,7 +72,7 @@ Separated Mods:
 - Tip: To avoid falling through the mesh after teleport, place the portable beacon in the middle of any floor piece, for a solid landing.   
 - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Drill Manager](https://youtu.be/5EIrZaz4zHk?si=MR4z5jiJr9aOYOoF)
 
-### laanp-ExtraDeployables_v1_w197_P.pak
+### laanp-ExtraDeployables_v2_w197_P.pak
 - Adds a new bench called `Extra Deployables Bench`, crafted at the Machining Bench, which allows crafting and placement of additional in-game deployable assets. 
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
 - Several items have deployable variants that are accessible using the `R` key.
@@ -401,6 +401,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
