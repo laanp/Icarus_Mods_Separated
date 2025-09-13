@@ -15,11 +15,11 @@
     {
       "name": "laanp-BuildersDream",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w197",
       "description": "Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-BuildersDream_v1_w197_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-BuildersDream_v2_w197_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildersDream_Readme.md"
@@ -111,11 +111,11 @@
     {
       "name": "laanp-FreeBuild",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w197",
       "description": "Everything is free to build at all benches.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-FreeBuild_v1_w197_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-FreeBuild_v2_w197_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-FreeBuild_Readme.md"
@@ -291,11 +291,11 @@
     {
       "name": "laanp-NoSeedFatigue",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w197",
       "description": "Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting, and allows all crops to grow in any biome, including caves!.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-NoSeedFatigue_v1_w197_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w197/laanp-NoSeedFatigue_v2_w197_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-NoSeedFatigue_Readme.md"
@@ -590,6 +590,7 @@
     }
   ]
 }
+
 
 
 
