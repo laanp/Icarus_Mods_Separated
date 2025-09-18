@@ -10,6 +10,7 @@ A new mysterious Exotic-infused potion that cures all ailments.
 ## Mod Details:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
 - Introduces unique tonic called "Pete's Cure All Tonic" that will fix just about everything that's wrong with a prospector.
+- NOTE: Only works on player carrying it. Cannot apply to another prospector.
 
 
 ## Installation Details
