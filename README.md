@@ -20,7 +20,7 @@ Combined Mods:
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w197_P.pak
+### laanp-BuildersDream_v2_w197_P.pak
 - Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
@@ -77,7 +77,7 @@ Separated Mods:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
 - Several items have deployable variants that are accessible using the `R` key.
 
-### laanp-FreeBuild_v1_w197_P.pak
+### laanp-FreeBuild_v2_w197_P.pak
 - Everything is free to build at all benches.
 - Some things to watch:
   - Benches that auto craft items still need at least one item to start crafting - they will continue to craft until all slots are full
@@ -151,7 +151,7 @@ Separated Mods:
 - This mod will switch the Prometheus map to replace the Grasslands biome to normal forest atmosphere colors. 
 - No more ugly purple sky in the Grasslands areas.
 
-### laanp-NoSeedFatigue_v1_w197_P.pak
+### laanp-NoSeedFatigue_v2_w197_P.pak
 - Stops all seeded plants from experiencing 'Seed Fatigue' debuff after harvesting, and allows all crops to grow in any biome, including caves!.
 - Grow'em anywhere and harvest without penalty!
 - This mod eliminates 'Seed Fatigue' and `Biome` debuffs for all crop plots.
