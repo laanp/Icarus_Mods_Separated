@@ -12,7 +12,6 @@ Provides additional auxiliary slots for any envirosuit on planet (even if the su
 - Provides (+2) auxiliary slots for any envirosuit on planet
 - New module called "Pete's Envirosuit Auxiliary Slot Module" can be researched/purchased for free in the Workshop under new group called "Pete's Modules".
 - When placed in aux. slot of suit, increases available aux. slots by +2.
-- Adds +10% to physical Resistance stats, for each module added.
 - Simply remove the module(s) from your envirosuit auxiliary slot(s), to deactivate the effects.
 - When used with stack size increase mods, only drop (1) module per aux. slot for additional aux slots to work properly.
 
