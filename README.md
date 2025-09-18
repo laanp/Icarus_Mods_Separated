@@ -198,7 +198,6 @@ Separated Mods:
   - If you are falling through the mesh after teleport on some beacons, place a floor piece directly under the beacon, for solid landing.   
   - laanp-DrillManager has this mod built into it... just RMB to bring it up!   
 
-
 ### laanp-PetesCureAll_v1_w197_P.pak
 - A new mysterious Exotic-infused potion that cures all ailments.
 - Introduces unique tonic called "Pete's Cure All Tonic" that will fix just about everything that's wrong with a prospector.
@@ -401,6 +400,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
