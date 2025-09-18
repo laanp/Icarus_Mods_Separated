@@ -34,8 +34,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Inhibits ice from being placed in the Deep Freeze, and therefore stops ice from forming in the Deep Freeze. 
 - Basic & Advanced Fish Traps only accumulate fish - No sponges, chunks, or spoiled plants 
 - Compound Bow & Standard Larkwell arrow bundle from workshop - when consumed will yield 100k arrows - weight = 0, in (1) slot
-- "Xigo S5-II envirosuit" modifed with 4 Aux suit slots, +20% heat/cold resistance 
-- "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance
+- "Xigo S5-II envirosuit" modifed with 2 Aux suit slots, +20% heat/cold resistance 
+- "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 2 Aux suit slots, +20% heat/cold resistance
 - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary bench
@@ -57,7 +57,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - Titanium Axe (high durability, added stats)
     - Titanium Knife (high durability, added stats)
     - Titanium Sickle (high durability, added stats)
-    - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
+    - MXC BioFuel Canister (prefilled with 100k units of biofuel!)
     - Wooden Torch (high durability - lasts forever!)
     - (100) Dried Stringy Meat
     - (100) Antibiotic Tonic
@@ -141,12 +141,12 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
   - "Pete's Mini Foundry" - Compact version of the Foundry (1/4 the size!)
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
-  - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
-  - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
-  - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
-  - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%  
-  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
-  simply remove the module from suit auxilliary slot, to completely turn off any effects.
+  - "Pete's Resource Killer" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & allows 1-hit resource gathering (trees, ores, rocks)
+  - "Pete's Insane Leveling" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & allows EXTREME XP gain boost when performing XP increase activities. 
+  - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & makes player immune to damage from lava, fire, poison & cave pneumonia!  
+  - "Pete's Mover" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & increases base move & sprint speed by 50%  
+  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit  
+  - simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 
 ### 2.  Custom_Options (Jimk72):
