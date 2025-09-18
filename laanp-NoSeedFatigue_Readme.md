@@ -1,6 +1,6 @@
-laanp-NoSeedFatigue_v2_w197_P.pak
+laanp-NoSeedFatigue_v1_w197_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
 Compatible with Icarus Version: Rev. 2.3.8.141991 (Week: 197)
 
@@ -59,7 +59,6 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
 
 
 
