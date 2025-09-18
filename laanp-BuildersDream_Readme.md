@@ -29,7 +29,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 - Crop plots/mounds no longer get 'Seed Fatigue' debuff after harvesting.
 - Basic Ceiling Light can now attach to walls and underside of ramps.
 - O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
-- Workshop MXC BioFuel Canister can be purchased and will autofill with 100M units (can run a generator for a long time!)
+- Workshop MXC BioFuel Canister can be purchased and will autofill with 100k units (can run a generator for a long time!)
 - Workshop MXC Furnace has been modified (smelts faster than the electric furnace, and can be portable, not affected by weather) 
 - Dropship cargo and Loadout slots increase from 15 - 30 
 - Larger inventory sizes for benches, fireplace, firepit, campfire, furnaces, wood cupboard, fridge, freezer, stoves, etc.
@@ -41,8 +41,8 @@ Combines a number of mods in one package, to make building your top priority.  I
 - Inhibits ice from being placed in the Deep Freeze, and therefore stops ice from forming in the Deep Freeze. 
 - Basic & Advanced Fish Traps only accumulate fish - No sponges, chunks, or spoiled plants 
 - Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100k arrows - weight = 0, in (1) slot
-- "Xigo S5-II envirosuit" modifed with 4 Aux suit slots, +20% heat/cold resistance 
-- "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance
+- "Xigo S5-II envirosuit" modifed with 2 Aux suit slots, +20% heat/cold resistance 
+- "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 2 Aux suit slots, +20% heat/cold resistance
 - "Gatherer's Backpack" from the workshop now adds 18 slots, with -65% weight reduction for ores & wood
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
   at the Rustic Decorations Bench, and stone statues at the masonary benches 
@@ -233,13 +233,14 @@ Combines a number of mods in one package, to make building your top priority.  I
     - This mod only recommend to run in single player mode.   
     - Drill inventory access will not work in hosted multiplayer & dedicated server.  
 
-- Adds the following Workshop Modules under a new Workshop menu called "Pete's Modules":
-  - "Pete's Resource Killer" module - When placed in aux. slot of suit, allows 1-hit resource gathering (trees, ores, rocks)
-  - "Pete's Insane Leveling" module - When placed in aux. slot of suit, allows EXTREME XP gain boost when performing XP increase activities. 
-  - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, makes player immune to damage from lava, fire, poison & cave pneumonia!  
-  - "Pete's Mover" module - When placed in aux. slot of suit, increases base move & sprint speed by 50%  
-  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit, and adds +10% to Physical Resistance  
-    simply remove the module from suit auxilliary slot, to completely turn off any effects.
+- Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
+  - "Pete's Resource Killer" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & allows 1-hit resource gathering (trees, ores, rocks)
+  - "Pete's Insane Leveling" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & allows EXTREME XP gain boost when performing XP increase activities. 
+  - "Pete's Lava Cave Lord" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & makes player immune to damage from lava, fire, poison & cave pneumonia!  
+  - "Pete's Mover" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & increases base move & sprint speed by 50%  
+  - "Pete's Envirosuit Auxiliary Slot" module - When placed in aux. slot of suit, increases (+2) aux. slots in envirosuit  
+  - "Pete's Free Craft Module" - When placed in aux. slot of suit, makes everything craftable for free!
+  - simply remove the module from suit auxilliary slot, to completely turn off any effects.
 
 - Adds the following new craftable item at the carpentry benches that add the following building parts:
   - "Pete's Roofline Accents" - Allows building the following add-on pieces:
@@ -403,6 +404,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
