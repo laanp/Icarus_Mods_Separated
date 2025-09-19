@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w197_P.pak
+laanp-PetesMiningKit_v1_w198_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.8.141991 (Week: 197)
+Compatible with Icarus Version: Rev. 2.3.9.142434 (Week: 198)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, water (with Water Borer on geyser) and volatile red exotics.
@@ -72,6 +72,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
