@@ -1,8 +1,8 @@
-laanp-Lantern_v1_w198_P.pak
+laanp-Lantern_v1_w199_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.9.142434 (Week: 198)
+Compatible with Icarus Version: Rev. 2.3.10.142613 (Week: 199)
 
 ## Description:
 Changes the in-game Battery Lantern to 'Pete's Nuclear-Powered Lantern. 
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
