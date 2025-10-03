@@ -1,8 +1,8 @@
-laanp-PetesBeaconTeleport_v1_w199_P.pak
+laanp-PetesBeaconTeleport_v1_w200_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.10.142613 (Week: 199)
+Compatible with Icarus Version: Rev. 2.3.11.142770 (Week: 200)
 
 ## Description:
 Provides an interface to allow the player to teleport to any portable beacon that has been deployed on the map. 
@@ -59,6 +59,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
