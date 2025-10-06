@@ -237,7 +237,7 @@
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w200/laanp-MXC_Furnace_v1_w200_P.pak"
       },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-MXC_Furnace.png",
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MXC_Furnace_Readme.md"
     },
     {
@@ -602,4 +602,5 @@
     }
   ]
 }
+
 
