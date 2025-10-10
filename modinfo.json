@@ -517,6 +517,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesTrees_Readme.md"
     },
     {
+      "name": "laanp-PetMover",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w201",
+      "description": "Mod that allows your to teleport your pets",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w201/laanp-PetMover_v1_w201_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-PetMover.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetMover_Readme.md"
+    },
+    {
       "name": "laanp-PlayerTransport",
       "author": "laanp",
       "version": "1.0",
@@ -602,4 +614,5 @@
     }
   ]
 }
+
 
