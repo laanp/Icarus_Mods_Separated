@@ -521,7 +521,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w201",
-      "description": "Mod that allows your to teleport your pets",
+      "description": "Mod that allows you to teleport your pets",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w201/laanp-PetMover_v1_w201_P.pak"
       },
@@ -614,5 +614,6 @@
     }
   ]
 }
+
 
 
