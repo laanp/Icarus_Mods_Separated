@@ -272,6 +272,15 @@ Separated Mods:
 - Use 'R' while deploying the foliage for variations.
 - All deployable foliage can be picked up and moved, to enhance your base look! 
 
+### laanp-PetMover_v1_w201_P.pak
+- Mod that allows teleporting your pets.
+- Works in single player mode, as well as hosted multiplayer & dedicated server environments.
+- Mod is accessible in the player crafting menu, called "Pete's Pet Mover".
+- Place the mod in your quickbar and select it, then LMB to activate the menu. 
+    - Specify beacon location in dropdown, then select your pets from the list to move, and click "Send Pets To Beacon" 
+    - Can also select any number of your pets in the list and teleport them to your current location with the "Call Pets To You" button. 
+- Solves the problem of pets being hung up on terrain when you need them back at the base.
+
 ### laanp-PlayerTransport_v1_w201_P.pak
 - Provides a quick instantaneous teleport to a pointed-to floor location, within visible range. 
 - This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
@@ -409,6 +418,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
