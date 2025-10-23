@@ -157,6 +157,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-GreaterHunts_Readme.md"
     },
     {
+      "name": "laanp-ItemFinder",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w202",
+      "description": "Mod that provides ability to search all storage/bench locations for specified items and add custom names to these locations.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w202/laanp-ItemFinder_v1_w202_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-ItemFinder.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-ItemFinder_Readme.md"
+    },
+    {
       "name": "laanp-KeepTheTrees",
       "author": "laanp",
       "version": "1.0",
@@ -614,4 +626,5 @@
     }
   ]
 }
+
 
