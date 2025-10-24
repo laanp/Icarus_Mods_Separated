@@ -1,8 +1,8 @@
-laanp-FreeBuild_v1_w202_P.pak
+laanp-FreeBuild_v1_w203_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.13.143354 (Week: 202)
+Compatible with Icarus Version: Rev. 2.3.14.143672 (Week: 203)
 
 ## Description:
 Everything is free to build at all benches.
@@ -11,6 +11,10 @@ Everything is free to build at all benches.
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
 - Basically you can craft anything you have unlocked in your Tech Tree.
 - Auto-craft benches will continuously craft for the first applicable ordered item in its inventory slots, until the bench inventory fills up!
+
+## Known Bugs/Issues:
+- Will crash Icarus when the "Mining Armature" Legendary Weapon (part of Great Hunts) is upgraded to include the "Smelting Gadget" and you are mining any ore node that can be smelted into an ingot or glass. (Iron, Copper, Aluminum, Gold, Platinum, Titanium, Silica)  
+
 
 ## Installation Details
 
@@ -56,6 +60,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
