@@ -1,8 +1,8 @@
-laanp-MapTeleport_v1_w203_P.pak
+laanp-MapTeleport_v1_w204_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.14.143672 (Week: 203)
+Compatible with Icarus Version: Rev. 2.3.15.143810 (Week: 204)
 
 ## Description:
 Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. This is an evolving mod, so changes will be introduced over time. 
@@ -73,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
