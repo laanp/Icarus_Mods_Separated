@@ -1,8 +1,8 @@
-laanp-CropAdvance_v1_w205_P.pak
+laanp-CropAdvance_v1_w206_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.16.144156 (Week: 205)
+Compatible with Icarus Version: Rev. 2.3.17.144656 (Week: 206)
 
 ## Description:
 Mod that allows instantaneous point and click stage advance of any crop plot under your cursor. 
@@ -62,6 +62,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
