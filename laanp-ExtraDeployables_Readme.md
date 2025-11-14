@@ -1,15 +1,15 @@
-laanp-ExtraDeployables_v1_w205_P.pak
+laanp-ExtraDeployables_v1_w206_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.16.144156 (Week: 205)
+Compatible with Icarus Version: Rev. 2.3.17.144656 (Week: 206)
 
 ## Description:
 Adds a new bench which allows crafting and placement of additional in-game deployable assets to enhance base building. 
 
 ## Mod Details:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
-- New craftable bench called "Extra Deployables Bench" that can be crafted at the Machining Bench.
+- New craftable bench called "Extra Deployables Bench" that can be crafted at the Machining Bench and Fabricator.
 - Many items crafted will have variants that are accessible using the `R` key.
 
 ## Known Bugs/Issues:
@@ -61,6 +61,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
