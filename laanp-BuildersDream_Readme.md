@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w205_P.pak
+laanp-BuildersDream_v1_w206_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.16.144156 (Week: 205)
+Compatible with Icarus Version: Rev. 2.3.17.144656 (Week: 206)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -266,7 +266,7 @@ Combines a number of mods in one package, to make building your top priority.  I
     - Condensed Enzymes		Used to craft statues at the Decoration Bench
     - Synthetic Enzymes		Used as fuel for the Localized Terraforming Device
 
-- Adds "Extra Deployables Bench" mod which introduces a new craftable bench at the Machining Bench, which allows crafting and placement of additional in-game deployable assets to enhance base building.
+- Adds "Extra Deployables Bench" mod which introduces a new craftable bench at the Machining Bench and Fabricator, which allows crafting and placement of additional in-game deployable assets to enhance base building.
 
 
 ### 2.  Custom_Options (Jimk72):
@@ -406,6 +406,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
