@@ -613,6 +613,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StoneWoodInterior_Readme.md"
     },
     {
+      "name": "laanp-TeleFly",
+      "author": "laanp",
+      "version": "2.0",
+      "compatibility": "w209",
+      "description": "Provides ability for your player to fly around the map and teleport to pointed-to locations, within visible range.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w209/laanp-TeleFly_v2_w209_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-TeleFly_Readme.md"
+   },
+   {
       "name": "laanp-WorkshopFree",
       "author": "laanp",
       "version": "1.0",
@@ -626,4 +638,5 @@
     }
   ]
 }
+
 
