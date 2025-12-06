@@ -325,7 +325,9 @@ Separated Mods:
 ### laanp-TeleFly_v2_w209_P.pak
 - Provides ability for your player to fly around the map and teleport to pointed-to locations, within visible range. 
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-TeleFly_Readme.md) for all the details.
+- Check out the "How-To-Use" video [Icarus Mod Highlight - laanp-TeleFly](https://youtu.be/dEAH3CUHuoM?si=4bLWv56SVpVPfBBG) for all the details.
 
+https://youtu.be/dEAH3CUHuoM?si=4bLWv56SVpVPfBBG
 ### laanp-WorkshopFree_v1_w209_P.pak
 - All items in the Workshop are free. Go crazy!
 
@@ -431,6 +433,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
