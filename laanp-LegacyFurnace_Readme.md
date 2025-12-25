@@ -1,8 +1,8 @@
-laanp-LegacyFurnace_v1_w211_P.pak
+laanp-LegacyFurnace_v1_w212_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.22.146311 (Week: 211)
+Compatible with Icarus Version: Rev. 2.3.23.146505 (Week: 212)
 
 ## Description:
 Brings back the ability to craft the original small legacy electric furnace, and the concrete furnace.
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
