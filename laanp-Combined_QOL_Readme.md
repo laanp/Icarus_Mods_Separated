@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w213_P.pak
+laanp-Combined_QOL_v1_w214_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.24.146614 (Week: 213)
+Compatible with Icarus Version: Rev. 2.3.25.146718 (Week: 214)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -15,7 +15,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
 - No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
-- All slot stack sizes changed to 100 (except specialty items, like fillables, tackle box and Seed Pouch. Salt, Charcoal and Paints are increased to 1,000 & Fiber to 500)
+- All slot stack sizes changed to 500 (with a few exceptions)
 - Base inventory slots for player changed from 24 - 42
 - Adds (+2) aux. slots to ANY envirosuit - does not show in specs, but will appear on planet.
 - Adds crafting of Epoxy from wood, & Salt from Stone at Character crafting level
@@ -276,6 +276,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
