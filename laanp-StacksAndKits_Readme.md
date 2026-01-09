@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w213_P.pak
+laanp-StacksAndKits_v1_w214_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.24.146614 (Week: 213)
+Compatible with Icarus Version: Rev. 2.3.25.146718 (Week: 214)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -10,7 +10,7 @@ This mod is designed for Icarus players who want to keep the experience intact b
 ### Changes: 
 - Player levels shows actual, beyond 60
 - Adds (+2) aux. slots to ANY envirosuit - does not show in specs, but will appear on planet.
-- All slot stack sizes changed to 100 (except Salt, Charcoal and Paints - increased to 1,000, Fiber to 500)
+- All slot stack sizes changed to 500 (with a few exceptions)
 - Adds The Following Workshop Kits, under "Pete's Kits" menu group in the Workshop: 
   - "Pete's Basic Loadout Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - ST-700 Arms Armor
@@ -170,6 +170,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
