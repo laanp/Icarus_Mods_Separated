@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w213_P.pak
+laanp-BuildersDream_v1_w214_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.24.146614 (Week: 213)
+Compatible with Icarus Version: Rev. 2.3.25.146718 (Week: 214)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -18,7 +18,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 - Crafting speeds increased significantly
 - Craft everything for free in all benches (FreeBuild mod included)
 - All Workshop items are free to research & craft
-- All slot stack sizes changed to 100 (except specialty items, like fillables, tackle box and Seed Pouch. Salt, Charcoal and Paints are increased to 1,000 & Fiber to 500)
+- All slot stack sizes changed to 500 (with a few exceptions)
 - All items weigh nothing.
 - Base player inventory slots changed from 24 - 42
 - Adds (+2) aux. slots to ANY envirosuit - does not show in specs, but will appear on planet.
@@ -406,6 +406,10 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
