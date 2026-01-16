@@ -1,8 +1,8 @@
-laanp-NoCaveCreatures_v1_w214_P.pak
+laanp-NoCaveCreatures_v1_w215_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.25.146718 (Week: 214)
+Compatible with Icarus Version: Rev. 2.3.26.147083 (Week: 215)
 
 ## Description:
 Removes Cave Worms & Bees from spawning on all prospects including Missions & Open Worlds
@@ -61,6 +61,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
