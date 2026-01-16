@@ -1,20 +1,18 @@
-laanp-GraveStones_v1_w214_P.pak
+laanp-GraveStones_v1_w215_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.25.146718 (Week: 214)
+Compatible with Icarus Version: Rev. 2.3.26.147083 (Week: 215)
 
 ## Description:
-Introduces (9) craftable gravestones to honour those fallen prospectors.
+Introduces (10) craftable gravestones to honour those fallen prospectors.
  
 ## Mod Details:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
 - Adds the following new craftable item at the character level:
-  - "Pete's Gravestones" - 9 variations of different grave markers, each with their own unique epitaph.
+  - "Pete's Gravestones" - 10 variations of different grave markers, each with their own unique epitaph.
   - Each gravestone has adjustable rotation, and lean left/right and fwd/back adjustments.
 
-## Known Issues:
-- Gravestone markers will save their adjusted positions on single player games only.
 
 
 ## Installation Details
@@ -61,6 +59,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
