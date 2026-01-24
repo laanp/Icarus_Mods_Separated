@@ -20,7 +20,7 @@ Combined Mods:
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w216_P.pak
+### laanp-BuildersDream_v2_w216_P.pak
 - Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
@@ -35,7 +35,7 @@ Separated Mods:
 ### This utility will allow any number of mods to be merged to work properly together into a single pak file.
 -------------------------------------------------------------------------------
 
-### laanp-BuildTools_v1_w216_P.pak
+### laanp-BuildTools_v2_w216_P.pak
 - Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game. 
 - This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
 - Mod is accessible in the player crafting menu.
@@ -432,6 +432,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
