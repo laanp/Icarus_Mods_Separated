@@ -1,8 +1,8 @@
-laanp-BuildTools_v1_w216_P.pak
+laanp-BuildTools_v1_w217_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.27.147460 (Week: 216)
+Compatible with Icarus Version: Rev. 2.3.28.147909 (Week: 217)
 
 ## Description:
 Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game. 
@@ -14,14 +14,18 @@ Mod that provides a tool to transform, rotate, resize Buildables or Deployables 
 - Enter values or drag the slider positions to change the object's attributes, cancel button to undo.
 
 ## Known Bugs/Issues/Notes:
+Deployables:
 - Moving, rotating & resizing Deployables is solid and will always work and be saved in the game.
 - Generally, rotating & resizing Buildables is pretty stable.
+- If moving a deployable, be aware that if the foundation actor (usually a floor piece) that the deployable is originally set upon is deleted, the moved deployable will drop as an overflow bag, with the deployable in it. This is normal gameplay behaviour, even though you moved the deployables location.
+
+Buildables:
 - Moving Buildables can be buggy with the following side-effects:
   - Building pieces missing upon prospect reload.
   - Building pieces break upon prospect reload, after structural checks, or destruction of anchor building piece after move. 
   - Always save and reload on greater frequency, to check buildable moves are sticking!
-  - Moving powered or water connected devices, does not affect their operation! until their original puck connection is deleted.
-  -  
+  - Moving powered or water connected devices, does not affect their operation or connection status!... until their original puck connection is deleted.
+ 
 
 ## Installation Details
 
@@ -70,6 +74,10 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
 
 
