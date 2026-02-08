@@ -603,11 +603,11 @@
     {
       "name": "laanp-StoneWoodInterior",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w218",
       "description": "Changes stone building pieces to have interior wood on the inside, stone on the outside.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w218/laanp-StoneWoodInterior_v1_w218_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w218/laanp-StoneWoodInterior_v2_w218_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-StoneWoodInterior.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StoneWoodInterior_Readme.md"
@@ -638,4 +638,5 @@
     }
   ]
 }
+
 
