@@ -69,7 +69,7 @@ Separated Mods:
 - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings" crafted at the character level
 - Hit 'R' for variations, when deploying.
 
-### laanp-DrillManager_v1_w218_P.pak
+### laanp-DrillManager_v2_w218_P.pak
 - Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that allow the player to teleport to any portable beacon on the map, as well as remotely communicate and control Deep Mining Drills that have been deployed on the map. 
 - This mod works in single mode, hosted multiplayer & dedicated server.
 - Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote & (20) Portable Beacons.
@@ -432,6 +432,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
