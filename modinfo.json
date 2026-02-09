@@ -99,11 +99,11 @@
     {
       "name": "laanp-DrillManager",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w218",
       "description": "A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w218/laanp-DrillManager_v1_w218_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w218/laanp-DrillManager_v2_w218_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-DrillManager.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-DrillManager_Readme.md"
@@ -638,5 +638,6 @@
     }
   ]
 }
+
 
 
