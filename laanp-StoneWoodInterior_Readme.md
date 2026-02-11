@@ -1,6 +1,6 @@
-laanp-StoneWoodInterior_v2_w218_P.pak
+laanp-StoneWoodInterior_v3_w218_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 3
 
 Compatible with Icarus Version: Rev. 2.3.29.148374 (Week: 218)
 
@@ -58,6 +58,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
