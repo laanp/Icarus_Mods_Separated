@@ -1,8 +1,8 @@
-laanp-TeleFly_v1_w218_P.pak
+laanp-TeleFly_v1_w219_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.29.148374 (Week: 218)
+Compatible with Icarus Version: Rev. 2.3.30.148457 (Week: 219)
 
 ## Description:
 Provides ability for your player to fly around the map and teleport to pointed-to locations, within visible range. 
@@ -23,10 +23,8 @@ Provides ability for your player to fly around the map and teleport to pointed-t
   - Tap `R` key to teleport to cursor pointed to location, and move your player under the mesh and into fly mode.
 
 ## Mod Notes:
-- The TeleFly mod makes some changes to the D_CharacterStartingStats.json  
-  If another mod changes any values this section, and is listed lower in the IMM mod merge list, it will overwrite the fall damage setting, unless that mod also overwrites fall damage values.
-- Place the TeleFly mod into the last position of your mod merged list if you want it's settings to take priority!
-
+- Directional flying controls with mouse pointer, only works in first-person camera view!
+- Sometimes strange player launch will happen after switching to camera view while flying, and exiting camera view!
 
 ## Installation Details
 
@@ -75,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
