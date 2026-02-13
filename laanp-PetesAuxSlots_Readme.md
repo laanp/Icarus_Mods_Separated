@@ -1,8 +1,8 @@
-laanp-PetesAuxSlots_v1_w218_P.pak
+laanp-PetesAuxSlots_v1_w219_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.3.29.148374 (Week: 218)
+Compatible with Icarus Version: Rev. 2.3.30.148457 (Week: 219)
 
 ## Description:
 Provides additional auxiliary slots for any envirosuit on planet (even if the suit specs don't have any!)
@@ -15,6 +15,9 @@ Provides additional auxiliary slots for any envirosuit on planet (even if the su
 - Simply remove the module(s) from your envirosuit auxiliary slot(s), to deactivate the effects.
 - When used with stack size increase mods, only drop (1) module per aux. slot for additional aux slots to work properly.
 
+## Known features:
+- Suit slots are added at runtime, so there is a known issue that, if the default suit only has 2 slots, and you expanded them to 8 by adding more modules, when the game reloads, initially the suit still thinks it only has 2 slots and it will dump the extra modules back into player inventory.
+- You must re-add the modules to your player suit, each time you reload the game, no way around this unfortunately.
 
 ## Installation Details
 
@@ -60,6 +63,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
