@@ -1,6 +1,6 @@
-laanp-Combined_QOL_v1_w220_P.pak
+laanp-Combined_QOL_v2_w220_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.4.0.149107 (Week: 220)
 
@@ -276,6 +276,7 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
