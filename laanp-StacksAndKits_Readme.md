@@ -1,6 +1,6 @@
-laanp-StacksAndKits_v1_w220_P.pak
+laanp-StacksAndKits_v2_w220_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.4.0.149107 (Week: 220)
 
@@ -170,6 +170,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
