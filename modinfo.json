@@ -3,11 +3,11 @@
     {
       "name": "laanp-Combined_QOL",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w220",
       "description": "Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-Combined_QOL_v1_w220_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-Combined_QOL_v2_w220_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-Combined_QOL_Readme.md"
@@ -15,11 +15,11 @@
     {
       "name": "laanp-BuildersDream",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w220",
       "description": "Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-BuildersDream_v1_w220_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-BuildersDream_v2_w220_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BuildersDream_Readme.md"
@@ -27,11 +27,11 @@
     {
       "name": "laanp-StacksAndKits",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w220",
       "description": "This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-StacksAndKits_v1_w220_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-StacksAndKits_v2_w220_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StacksAndKits_Readme.md"
@@ -99,11 +99,11 @@
     {
       "name": "laanp-DrillManager",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w220",
       "description": "A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-DrillManager_v1_w220_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-DrillManager_v2_w220_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-DrillManager.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-DrillManager_Readme.md"
@@ -447,11 +447,11 @@
     {
       "name": "laanp-PetesMiningKit",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w220",
       "description": "Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, water (with Water Borer on geyser) and volatile red exotics.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-PetesMiningKit_v1_w220_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w220/laanp-PetesMiningKit_v2_w220_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesMiningKit_Readme.md"
@@ -626,4 +626,5 @@
     }
   ]
 }
+
 
