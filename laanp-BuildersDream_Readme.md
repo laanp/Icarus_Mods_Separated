@@ -1,6 +1,6 @@
-laanp-BuildersDream_v1_w220_P.pak
+laanp-BuildersDream_v2_w220_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.4.0.149107 (Week: 220)
 
@@ -406,6 +406,7 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
