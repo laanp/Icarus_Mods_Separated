@@ -16,15 +16,15 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 Combined Mods:
 -------------------------------------------------------------------------------
-### laanp-Combined_QOL_v1_w220_P.pak
+### laanp-Combined_QOL_v2_w220_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
-### laanp-BuildersDream_v1_w220_P.pak
+### laanp-BuildersDream_v2_w220_P.pak
 - Combines laanp-Combined_QOL + FreeBuild + WorkshopFree with a bunch of new features!:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BuildersDream_Readme.md) for all the details.
 
-### laanp-StacksAndKits_v1_w220_P.pak
+### laanp-StacksAndKits_v2_w220_P.pak
 - A more natural Icarus experience, with a minimized kit set
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-StacksAndKits_Readme.md) for all the details.
 
@@ -69,7 +69,7 @@ Separated Mods:
 - New build piece "Pete's Curved Stairs" & new deployable "Pete's Curved Railings" crafted at the character level
 - Hit 'R' for variations, when deploying.
 
-### laanp-DrillManager_v1_w220_P.pak
+### laanp-DrillManager_v2_w220_P.pak
 - Combines Beacon Teleporter and RemoteDrillAccess into one handheld unit that allow the player to teleport to any portable beacon on the map, as well as remotely communicate and control Deep Mining Drills that have been deployed on the map. 
 - This mod works in single mode, hosted multiplayer & dedicated server.
 - Introduces a new handheld device called "Pete's Drill & Beacon Remote" which when crafted in the character inventory, provides (1) remote & (20) Portable Beacons.
@@ -234,7 +234,7 @@ Separated Mods:
   - Damage from any poison effects (Caveworms, nasty fish, Komodo bites, etc)
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesMiningKit_v1_w220_P.pak
+### laanp-PetesMiningKit_v2_w220_P.pak
 - Adds a new Workshop item called "Pete's Mining Kit" under the Workshop menu called "Pete's Kits"
 - When consumed on planet, will unbundle the following equipment:
   - (3) "Pete's Nuclear Extractors" - Custom self-powered exotic (purple) extractors
@@ -427,6 +427,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
