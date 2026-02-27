@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v2_w220_P.pak
+laanp-StacksAndKits_v1_w221_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.4.0.149107 (Week: 220)
+Compatible with Icarus Version: Rev. 2.4.1.149282 (Week: 221)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -170,6 +170,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
