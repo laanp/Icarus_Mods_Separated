@@ -1,8 +1,8 @@
-laanp-BuildersDream_v2_w220_P.pak
+laanp-BuildersDream_v1_w221_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.4.0.149107 (Week: 220)
+Compatible with Icarus Version: Rev. 2.4.1.149282 (Week: 221)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -230,8 +230,7 @@ Combines a number of mods in one package, to make building your top priority.  I
       - All custom extractors/harvestor/borers are modified for quick extraction
       - They can be carried & stacked in regular inventory (not in the G-slot)
 
-    - This mod only recommend to run in single player mode.   
-    - Drill inventory access will not work in hosted multiplayer & dedicated server.  
+    - Drill inventory access has limited range in hosted multiplayer & dedicated server.  
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
   - "Pete's Resource Killer" module - When placed in aux. slot of suit, increases (+1) aux. slots in envirosuit, & allows 1-hit resource gathering (trees, ores, rocks)
@@ -406,6 +405,9 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
 
 
 
