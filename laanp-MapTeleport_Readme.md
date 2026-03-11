@@ -1,8 +1,8 @@
-laanp-MapTeleport_v1_w221_P.pak
+laanp-MapTeleport_v1_w222_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.4.1.149282 (Week: 221)
+Compatible with Icarus Version: Rev. 3.0.0.150086 (Week: 222)
 
 ## Description:
 Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. This is an evolving mod, so changes will be introduced over time. 
@@ -11,7 +11,7 @@ Introduces a new map exploration system and handheld tool called Pete's Map Tool
 - Now compatible with Single Player and Hosted Multiplayer or Dedicated Server.
 - Introduces a new "Petes Map Tool" handheld tool, craftable at the character level.
 - While holding the Tool, click LMB to access the new map interface independent of the regular game map.
-- Supports Olympus, Styx, and Prometheus Open World & Mission maps only.
+- Supports Olympus, Styx, and Prometheus Open World & Mission maps only. - Working on Elysium (future)
 - Allows full teleportation point & click support to available map areas. 
 - Supports ability to mark/unmark cave locations on the map.
 - Can name & save unlimited player teleport locations, for quick teleport button click.
@@ -73,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
