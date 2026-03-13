@@ -234,9 +234,6 @@ Separated Mods:
   - Damage from any poison effects (Caveworms, nasty fish, Komodo bites, etc)
 - Simply remove the module from your envirosuit aux. slot, to deactivate the effect.
 
-### laanp-PetesMiningKit_v1_w220_P.pak
-### laanp-PetesMiningKit_v1_w223_P.pak
-### laanp-PetesMiningKit_v1_w220_P.pak
 ### laanp-PetesMiningKit_v1_w223_P.pak
 - Adds a new Workshop item called "Pete's Mining Kit" under the Workshop menu called "Pete's Kits"
 - When consumed on planet, will unbundle the following equipment:
@@ -430,6 +427,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
 
 
