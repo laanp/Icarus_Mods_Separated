@@ -1,11 +1,11 @@
-laanp-NoSwampFog_v1_w222_P.pak
+laanp-NoSwampFog_v1_w223_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.0.150086 (Week: 222)
+Compatible with Icarus Version: Rev. 3.0.1.150228 (Week: 223)
 
 ## Description:
-This mod will switch the Promethius map to replace Swamp biomes to normal forest atmosphere colors.
+This mod will remove fog atmosphere in both the Promethius and Elysium maps.
 
 ### Mod Details: 
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
