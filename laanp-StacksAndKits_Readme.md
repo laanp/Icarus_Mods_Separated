@@ -1,8 +1,8 @@
-laanp-StacksAndKits_v1_w224_P.pak
+laanp-StacksAndKits_v1_w225_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.2.150527 (Week: 224)
+Compatible with Icarus Version: Rev. 3.0.3.150621 (Week: 225)
 
 ## Description:
 This mod is designed for Icarus players who want to keep the experience intact but like some of the other quality of life aspects of my other mods, specifically the some starter kits in Pete's Kits Workshop items.    
@@ -73,14 +73,15 @@ This mod is designed for Icarus players who want to keep the experience intact b
     - (5) Banana
 
   - "Pete's Mining Kit" (Custom Extractors Icon) - Contains the following:
-     - (6) "Pete's Nuclear Extractor" - Custom self-powered exotic (purple) extractors
-     - (10) "Pete's Ore Extractor" - Custom self-powered ore extractors
-     - (3) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
-     - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
-     - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity
+     - (6) "Pete's Nuclear Extractor" - Custom self-powered, fast extraction, exotic (purple) extractors
+     - (10) "Pete's Ore Extractor" - Custom self-powered, fast extraction, deep-mining ore extractors.
+     - (3) "Pete's Ice Borer" - Custom self-powered, fast extraction, super-cooled ice borer.
+     - (3) "Pete's Water Borer" - Custom self-powered, fast extraction water borer.
+     - (3) "Pete's Portable Water Tanks" - Lightweight, purified water tank with 500L capacity.
+     - (3) "Pete's Oil Barrel" - Lightweight oil tank with 500L capacity.
      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
-     - (10) Portable Beacons - To mark your mining equipment on the map
-     - They can be carried & stacked in regular inventory (not in the G-slot)
+     - (20) Portable Beacons - To mark your mining equipment on the map
+     - They all can be carried & stacked in regular inventory (not in the G-slot).
      - Equipment cannot be returned to the station.
 
   - "Pete's Mini Foundry" - Compact version of the Foundry (1/4 the size!)
@@ -170,6 +171,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
