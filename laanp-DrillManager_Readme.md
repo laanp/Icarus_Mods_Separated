@@ -1,8 +1,8 @@
-laanp-DrillManager_v1_w224_P.pak
+laanp-DrillManager_v1_w225_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.2.150527 (Week: 224)
+Compatible with Icarus Version: Rev. 3.0.3.150621 (Week: 225)
 
 ## Description:
 A unique handheld device that allows the player to remotely communicate and control deployed Resource Drills, teleport to their location, as well as teleport to any deployed portable beacon on the map. 
@@ -16,15 +16,16 @@ A unique handheld device that allows the player to remotely communicate and cont
 - Includes a "Resource Locator" to scan the map for resources and mark them on the map.
 - This mod also allows you to carry all drills in inventory (no more G-slot!), increases drill stack size and significantly reduces drill weights.
 - Includes (3) sets of "Pete's Mining Kit" - that when unbundled, contains the following:
-     - (6) "Pete's Nuclear Extractor" - Custom self-powered exotic (purple) extractors
-     - (10) "Pete's Ore Extractor" - Custom self-powered ore extractors
-     - (3) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
-     - (3) "Pete's Water Borer" - Custom self-powered Water Borer (with double the extraction speed)
-     - (3) "Pete's Portable Water Tanks" - Water Tank with 500L water capacity, of Purified Water!
+     - (6) "Pete's Nuclear Extractor" - Custom self-powered, fast extraction, exotic (purple) extractors
+     - (10) "Pete's Ore Extractor" - Custom self-powered, fast extraction, deep-mining ore extractors.
+     - (3) "Pete's Ice Borer" - Custom self-powered, fast extraction, super-cooled ice borer.
+     - (3) "Pete's Water Borer" - Custom self-powered, fast extraction water borer.
+     - (3) "Pete's Portable Water Tanks" - Lightweight, purified water tank with 500L capacity.
+     - (3) "Pete's Oil Barrel" - Lightweight oil tank with 500L capacity.
      - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
      - (20) Portable Beacons - To mark your mining equipment on the map
-    - All custom extractors/harvestor/borers are modified for quick extraction
-    - They can be carried & stacked in regular inventory (not in the G-slot)
+     - They all can be carried & stacked in regular inventory (not in the G-slot).
+     - Equipment cannot be returned to the station.
 
 
 ## How To Use It Video:
@@ -33,8 +34,6 @@ A unique handheld device that allows the player to remotely communicate and cont
 
 
 ## Known Issues:
-- On the Prometheus map, the grid line system is inaccurate and due to this, sometimes the Grid locations on the buttons may be off by one grid.
-- This is a known bug, and not much I can do about it.
 - In multiplayer only, the player cannot remotely access drills that are outside of a 1 grid radius from player location.  This is indicated by the red text on the buttons. Player can still teleport to the drill.
 - In multiplayer only, the Resource Locator will only detect Deep Mining resources up to 2 grids from player.  The exception is Water Geysers and Exotic deposits which will show when scanning the whole map.
 - Showing all resources on a map (entering 0 in the grid search radius) will introduce considerable lag (in single player) in the game, since you will be marking > 600 locations on your map! Best practice is to select a resource first before changing grid search distance.
@@ -84,134 +83,6 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
