@@ -296,12 +296,6 @@ Separated Mods:
 ### laanp-PowerSurge_v1_w226_P.pak
 - All power generating devices modified to provide 50k power output. Includes Biofuel Generator, Solar Panel, Water wheel & Wind Turbines - More than enough for all your power needs. 
 
-### laanp-PumpBasin_v1_w226_P.pak
-- This mod provides a craftable water pump basin, to set your water pump in.
-- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
-- "Pete's Water Pump Basin" is craftable for free in the player crafting menu.
-- Deploy the pump basin inside/outside your base building and you now have a water source to deploy your water pump in.
-
 ### laanp-RealLevels_v1_w226_P.pak
 - Shows character true level based on experience points.
 - Standard game will cap your level display at 60, and this mod will unlock it. 
