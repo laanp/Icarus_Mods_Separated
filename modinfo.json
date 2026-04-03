@@ -553,18 +553,6 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PowerSurge_Readme.md"
     },
     {
-      "name": "laanp-PumpBasin",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w226",
-      "description": "This mod provides a craftable water pump basin, to set your water pump in.",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w226/laanp-PumpBasin_v1_w226_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-PumpBasin.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PumpBasin_Readme.md"
-    },
-    {
       "name": "laanp-RealLevels",
       "author": "laanp",
       "version": "1.0",
