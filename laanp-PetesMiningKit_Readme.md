@@ -1,8 +1,8 @@
-laanp-PetesMiningKit_v1_w225_P.pak
+laanp-PetesMiningKit_v1_w226_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.3.150621 (Week: 225)
+Compatible with Icarus Version: Rev. 3.0.4.150844 (Week: 226)
 
 ## Description:
 Complete kit to assist the prospector with mining exotics, ores, super-cooled ice, oil, & water (with Water Borer on geyser) and volatile red exotics.
@@ -10,18 +10,17 @@ Complete kit to assist the prospector with mining exotics, ores, super-cooled ic
 ## Mod Details:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
 - Will unbundle custom extractors, mining/water/ice drills and harvesters along with (10) beacons to help keep track of all your equipment on the map.
-- Adds a new Workshop menu called "Pete's Kits", containing: 
-   - "Pete's Mining Kit" - When consumed on planet, unbundles the following:
-     - (6) "Pete's Nuclear Extractor" - Custom self-powered, fast extraction, exotic (purple) extractors
-     - (10) "Pete's Ore Extractor" - Custom self-powered, fast extraction, deep-mining ore extractors.
-     - (3) "Pete's Ice Borer" - Custom self-powered, fast extraction, super-cooled ice borer.
-     - (3) "Pete's Water Borer" - Custom self-powered, fast extraction water borer.
-     - (3) "Pete's Portable Water Tanks" - Lightweight, purified water tank with 500L capacity.
-     - (3) "Pete's Oil Barrel" - Lightweight oil tank with 500L capacity.
-     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
-     - (20) Portable Beacons - To mark your mining equipment on the map
-     - They all can be carried & stacked in regular inventory (not in the G-slot).
-     - Equipment cannot be returned to the station.
+- "Pete's Mining Kit" - Found in new Workshop menu called "Pete's Kits" - When consumed on planet, unbundles the following:
+  - (6) "Pete's Nuclear Extractor" - Custom self-powered, fast extraction, exotic (purple) extractors
+  - (10) "Pete's Ore Extractor" - Custom self-powered, fast extraction, deep-mining ore extractors.
+  - (3) "Pete's Ice Borer" - Custom self-powered, fast extraction, super-cooled ice borer.
+  - (3) "Pete's Water Borer" - Custom self-powered, fast extraction water borer.
+  - (3) "Pete's Portable Water Tanks" - Lightweight, purified water tank with 500L capacity.
+  - (3) "Pete's Oil Barrel" - Lightweight oil tank with 500L capacity.
+  - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
+  - (20) Portable Beacons - To mark your mining equipment on the map
+  - They all can be carried & stacked in regular inventory (not in the G-slot).
+  - Equipment cannot be returned to the station.
 
 ## Known Bugs/Issues/Notes - As of this current release.
 ### "Pete's Mining Kit"
@@ -73,6 +72,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
