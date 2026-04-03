@@ -1,8 +1,8 @@
-laanp-PetesBeeKit_v1_w225_P.pak
+laanp-PetesBeeKit_v1_w226_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.3.150621 (Week: 225)
+Compatible with Icarus Version: Rev. 3.0.4.150844 (Week: 226)
 
 ## Description:
 Complete kit to allow setup of a bee-keeping station.
@@ -64,6 +64,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
