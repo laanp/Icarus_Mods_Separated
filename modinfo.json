@@ -219,11 +219,11 @@
     {
       "name": "laanp-MapTeleport",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w227",
       "description": "Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. This is an evolving mod, so changes will be introduced over time. ",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w227/laanp-MapTeleport_v1_w227_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w227/laanp-MapTeleport_v2_w227_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-MapTeleport.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MapTeleport_Readme.md"
