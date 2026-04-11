@@ -1,6 +1,6 @@
-laanp-MapTeleport_v1_w227_P.pak
+laanp-MapTeleport_v2_w227_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 3.0.5.150925 (Week: 227)
 
