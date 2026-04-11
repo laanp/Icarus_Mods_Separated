@@ -130,7 +130,7 @@ Separated Mods:
 - Craftable at the the Fabricator, provides standalone power supply with animated ON/OFF switch capability.
 - Adjustable puck location, based upon load-to-switch or switch-to-load connection.
 
-### laanp-MapTeleport_v1_w227_P.pak
+### laanp-MapTeleport_v2_w227_P.pak
 - Introduces a new map exploration system and handheld tool called Pete's Map Tool that allows teleportation to anywhere on the map through a point & click system. 
 - Introduces a new "Petes Map Tool" handheld tool, craftable at the character level.
 - While holding the Tool, click LMB to access the new map interface independent of the regular game map.
