@@ -35,6 +35,16 @@ Separated Mods:
 ### This utility will allow any number of mods to be merged to work properly together into a single pak file.
 -------------------------------------------------------------------------------
 
+### laanp-BetterRailings_v1_w227_P.pak
+- This mod adds railing options for curved and diagonal floor pieces.
+- Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
+- Adds the new railing options into existing railing radial menus, Including:
+  - "Curved Floor Railing" - Snaps to the curved side of any curved floor piece
+  - "Diagonal Floor Railing" - Snaps to the long diagonal side of any triangled floor piece
+- In addition, all other sides of curved and diagonal floor pieces, will now allow snapping of any type of railings
+- All railing variants that are accessible while deploying, using the `R` key.
+- Supports the following railings: Wood, Interior Wood, Reinforced Wood, Concrete, Clay Brick, Thatch, and Iron (Aluminum) 
+
 ### laanp-BuildTools_v1_w227_P.pak
 - Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game. 
 - This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
