@@ -37,11 +37,23 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StacksAndKits_Readme.md"
     },
     {
+      "name": "laanp-BetterRailings",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w227",
+      "description": "This mod adds railing options for curved and diagonal floor pieces.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w227/laanp-BetterRailings_v1_w227_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-BetterRailings.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BetterRailings_Readme.md"
+    },
+    {
       "name": "laanp-BuildTools",
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w227",
-      "description": "Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game. ",
+      "description": "Mod that provides a tool to transform, rotate, resize Buildables or Deployables in the game.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w227/laanp-BuildTools_v1_w227_P.pak"
       },
