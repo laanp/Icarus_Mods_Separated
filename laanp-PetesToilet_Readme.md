@@ -1,8 +1,8 @@
-laanp-PetesToilet_v1_w227_P.pak
+laanp-PetesToilet_v1_w228_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.5.150925 (Week: 227)
+Compatible with Icarus Version: Rev. 3.0.6.151150 (Week: 228)
 
 ## Description:
 Introduces a new item called 'Pete's Toilet', craftable at the Fabricator Bench
@@ -61,6 +61,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
