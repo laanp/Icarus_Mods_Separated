@@ -253,6 +253,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MiniFoundry_Readme.md"
     },
     {
+      "name": "laanp-MoveDeployables",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w228",
+      "description": "A mod that allows moving, rotating or sizing any deployable object in real-time.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w228/laanp-MoveDeployables_v1_w228_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-MoveDeployables.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MoveDeployables_Readme.md"
+    },
+    {
       "name": "laanp-MXC_Furnace",
       "author": "laanp",
       "version": "1.0",
