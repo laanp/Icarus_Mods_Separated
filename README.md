@@ -157,6 +157,17 @@ Separated Mods:
 - Creates a new Workshop item under 'Pete's Kits' called 'Pete's Mini Foundry'.
 - A quarter-scale version of the original, that will fit on a single floor piece and in a single story building!  
 
+### laanp-MoveDeployables_v1_w228_P.pak
+- A mod that allows moving, rotating or sizing any deployable object in real-time.
+- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
+- Introduces a new craftable item called "Petes Move Deployable Tool" which you can craft in the character inventory.
+- Place the item in your Quickbar and perform the following commands:
+  - LMB click, activate move mode for pointed-to deployable (brings up ghost image)
+  - LMB click again, place the deployable.
+  - RMB click cancels the move.
+  - `T` key will toggle actions for `Up/Down` & `Left/Right` keys, to different presets.
+  - `R` key brings up menu to change what the `Up/Down` and `Left/Right` keys perform while moving the deployable
+
 ### laanp-MXC_Furnace_v1_w228_P.pak
 - This mod will enhance the existing Workshop MXC Furnace to smelt like an Electric Furnace, increase smelting speed, and can be installed anywhere (inside/outside).     
 - The special gasketing design even allows it to function under water!
