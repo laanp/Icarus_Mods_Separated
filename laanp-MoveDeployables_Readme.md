@@ -1,8 +1,8 @@
-laanp-MoveDeployables_v1_w229_P.pak
+laanp-MoveDeployables_v1_w230_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.7.151466 (Week: 229)
+Compatible with Icarus Version: Rev. 3.0.8.151579 (Week: 230)
 
 ## Description:
 A mod that allows moving a deployable item in real-time. 
@@ -16,6 +16,9 @@ A mod that allows moving a deployable item in real-time.
   - RMB click cancels the move.
   - `T` key will toggle actions for `Up/Down` & `Left/Right` keys, to different presets.
   - `R` key brings up menu to change what the `Up/Down` and `Left/Right` keys perform while moving the deployable
+
+## How To Use It Video:
+[Icarus - Mod Highlight - Pete's MoveDeployables](https://youtu.be/5lQvzr1Mlzo) 
 
 ## Additional Notes and things to be aware of:
 - Moving the deployable will switch the foundation actor, for that deployable.  In other words if you stick a deployable on a wall, the wall now becomes the foundation actor and destroying that wall will result in an overflow bag.
@@ -70,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
