@@ -167,6 +167,7 @@ Separated Mods:
   - RMB click cancels the move.
   - `T` key will toggle actions for `Up/Down` & `Left/Right` keys, to different presets.
   - `R` key brings up menu to change what the `Up/Down` and `Left/Right` keys perform while moving the deployable
+  - Check out the "How To Use It" Video here: [Icarus - Mod Highlight - Pete's MoveDeployables](https://youtu.be/5lQvzr1Mlzo) 
 
 ### laanp-MXC_Furnace_v1_w230_P.pak
 - This mod will enhance the existing Workshop MXC Furnace to smelt like an Electric Furnace, increase smelting speed, and can be installed anywhere (inside/outside).     
@@ -454,51 +455,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
