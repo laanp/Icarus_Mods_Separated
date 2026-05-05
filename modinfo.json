@@ -169,6 +169,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-GreaterHunts_Readme.md"
     },
     {
+      "name": "laanp-HalfCurvedStairs",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w230",
+      "description": "A mod that introduces a new curved half-Width stair buildable to accommodate curved wall configurations.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w230/laanp-HalfCurvedStairs_v1_w230_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-HalfCurvedStairs.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-HalfCurvedStairs_Readme.md"
+    },
+    {
       "name": "laanp-ItemFinder",
       "author": "laanp",
       "version": "1.0",
