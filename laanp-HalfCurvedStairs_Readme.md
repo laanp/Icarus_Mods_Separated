@@ -12,6 +12,9 @@ A mod that introduces a new curved half-Width stair buildable to accommodate cur
   - Concrete Curved Half-Stairs - Crafted at the Cement Mixer or Advanced Masonry Bench 
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
 
+## Known Issues
+- This mod is currently being worked on... so the railings are not fully functioning yet!
+- Only railings for inside stairs, up and to left are working.
 
 ## Installation Details
 
