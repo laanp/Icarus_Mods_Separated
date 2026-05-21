@@ -9,12 +9,10 @@ A mod that introduces a new curved half-width stair buildable to accommodate cur
 
 ## Mod Details:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
-- Introduces new craftable curved stair pieces:
+- Introduces the following new craftable curved stair pieces:
   - Buildable Concrete Curved Half-Stairs - Crafted at the Cement Mixer or Advanced Masonry Bench, with (8) Variations 
-  - Deployable Curved Reinforced Wood Railings - Crafted at the Carpentry bench or Electric Carpentry Bench, with (8) Variations 
-- Introduces (2) new Deployable Reinforced Wood Railing pieces - Available as new variants in the railing deployment radial selection wheel:
-  - Reinforced Wood Railing - Half (Left)
-  - Reinforced Wood Railing - Half (Right)
+  - Deployable Curved Half-Stair Railings - Reinforced Wood Curved Railings, crafted at the Carpentry bench or Electric Carpentry Bench, with (8) Variations 
+  - Deployable Half-width Reinforced Wood Railings - Crafted at the Carpentry bench or Electric Carpentry Bench, with (2) Variations - Left and Right 
 
 
 ## Installation Details
