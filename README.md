@@ -113,10 +113,12 @@ Separated Mods:
 - Have your character complete all Great Hunts on each map!
 
 ### laanp-HalfCurvedStairs_v1_w232_P.pak
-- A mod that introduces a new curved half-Width stair buildable to accommodate curved wall configurations. 
-- Introduces a new buildable stair piece:
-  - Concrete Curved Half-Stairs - Crafted at the Cement Mixer or Advanced Masonry Bench 
+- A mod that introduces curved half-Width stairs to accommodate curved wall configurations. 
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server.
+- Introduces the following new craftable curved stair pieces:
+  - Buildable Concrete Curved Half-Stairs - Crafted at the Cement Mixer or Advanced Masonry Bench, with (8) Variations 
+  - Deployable Curved Half-Stair Railings - Reinforced Wood Curved Railings, crafted at the Carpentry bench or Electric Carpentry Bench, with (8) Variations 
+  - Deployable Half-width Reinforced Wood Railings - Crafted at the Carpentry bench or Electric Carpentry Bench, with (2) Variations - Left and Right 
 
 ### laanp-ItemFinder_v1_w232_P.pak
 - Mod that provides ability to search all storage/bench locations for specified items and add custom names to these locations.
