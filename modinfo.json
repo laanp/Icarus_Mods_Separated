@@ -39,11 +39,11 @@
     {
       "name": "laanp-BetterRailings",
       "author": "laanp",
-      "version": "1.0",
+      "version": "2.0",
       "compatibility": "w234",
-      "description": "This mod adds railing options for curved and diagonal floor pieces.",
+      "description": "This mod adds railing options for curved diagonal floor pieces.",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w234/laanp-BetterRailings_v1_w234_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w234/laanp-BetterRailings_v2_w234_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-BetterRailings_Readme.md"
