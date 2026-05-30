@@ -1,21 +1,19 @@
-laanp-BetterRailings_v1_w234_P.pak
+laanp-BetterRailings_v2_w234_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 3.0.12.152317 (Week: 234)
 
 ## Description:
-This mod adds railing options for curved and diagonal floor pieces.
+This mod adds railing options for diagonal floor pieces.
 
 ## Mod Details:
-- Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
 - Adds the new railing options into existing railing radial menus, Including:
-  - "Curved Floor Railing" - Snaps to the curved side of any curved floor piece
   - "Diagonal Floor Railing" - Snaps to the long diagonal side of any triangled floor piece
-- In addition, all other sides of curved and diagonal floor pieces, will now allow snapping of any type of railings
+- In addition, all other sides of diagonal floor pieces, will now allow snapping of any type of railings
 - All railing variants that are accessible while deploying, using the `R` key.
-- Supports the following railings: Wood, Interior Wood, Reinforced Wood, Concrete, Clay Brick, Thatch, and Iron (Aluminum) 
-
+- Supports the following railings: Wood, Interior Wood, Reinforced Wood, Concrete, Clay Brick, Thatch, Homestead Barbed Wire, and Iron (Aluminum) 
+- Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
 
 ## Installation Details
 
