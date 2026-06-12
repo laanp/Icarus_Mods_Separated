@@ -1,8 +1,8 @@
-laanp-BuildersDream_v1_w235_P.pak
+laanp-BuildersDream_v1_w236_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.13.152513 (Week: 235)
+Compatible with Icarus Version: Rev. 3.0.14.152723 (Week: 236)
 
 ## Description:
 Combines a number of mods in one package, to make building your top priority.  Includes: craft anything at no cost, increased crafting speeds, stack size increase, and CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) and much more!
@@ -10,7 +10,7 @@ Combines a number of mods in one package, to make building your top priority.  I
 ## Mod Details:
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server - with Caveats:
   - "Pete's Drill & Beacon Remote" - Resource locator and drill teleport does not function properly in Multiplayer
-  - "Pete's Circle Builder" - does not function properly in Multiplayer
+  - "Pete's Circle Builder" - Designed for single player only - does not work in hosted or dedicated server mode of play!
     
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
@@ -254,9 +254,11 @@ Combines a number of mods in one package, to make building your top priority.  I
     - Adjustable puck location, based upon load-to-switch or switch-to-load connection.
 
 - Adds "Pete's Circle Builder", accessible menu (while pointing at any vertical beam, with a another deployed), RMB to bring up the Menu.
+  - Works in single player mode only!
   - Circle building mod that facilitates construction of up to 48 sided circular buildings.  
   - Allows pre-placement of inner circle beams around a centre beam, that will line up walls/railings for any sized building.
   - Also supports any custom angle rotation of vertical beams around a centre beam, as well as "AutoBuild" feature.
+  - Now includes "Pete's Beam Copy" utility accessible from menu, to allow cleaner beam copy interface.
   - Check out the "How-To-Use" video here: [Icarus Mod Tutorial - Pete's Circle Builder](https://youtu.be/SJcZWr_o7Ss?si=FZMb4t0TDTvUwx1F)
   - Recommended to use for single player client only.  Dedicated server & multiplayer NOT supported for this module.
 
@@ -406,6 +408,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
