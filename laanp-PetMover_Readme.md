@@ -1,8 +1,8 @@
-laanp-PetMover_v1_w236_P.pak
+laanp-PetMover_v1_w237_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.14.152723 (Week: 236)
+Compatible with Icarus Version: Rev. 3.0.15.153056 (Week: 237)
 
 ## Description:
 Mod that allows you to teleport your pets.
@@ -14,6 +14,7 @@ Mod that allows you to teleport your pets.
     - Specify beacon location in dropdown, then select your pets from the list to move, and click "Send Pets To Beacon" - this will also set the moved pets to a "Wander" state.  
     - Can also select any number of your pets in the list and teleport them to your current location with the "Call Pets To You" button. 
 - Solves the problem of pets being hung up on terrain when you need them back at the base.
+- Also allows sending Movement, Combat, Consumption and Health commands to any pets you specify.
 
 
 ## Installation Details
@@ -63,6 +64,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
