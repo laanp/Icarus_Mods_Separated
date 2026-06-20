@@ -358,6 +358,16 @@ Separated Mods:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-TeleFly_Readme.md) for all the details.
 - Check out the "How-To-Use" video [Icarus Mod Highlight - laanp-TeleFly](https://youtu.be/dEAH3CUHuoM?si=4bLWv56SVpVPfBBG) for all the details.
 
+### laanp-WaypointTeleport_v1_w237_P.pak
+- Mod that allows player teleportation to your map waypoint marker.
+- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
+- Introduces a new craftable item called "Waypoint Teleport" which you can craft in the character inventory.
+- When placed in your Quickbar and activated, the following commands are available:
+  - LMB click, teleport to map waypoint marker.
+- If no waypoint marker set on the map, nothing will happen.
+- Fall damage has been disabled in this mod!
+- Out-of-Bounds death & warning system is disabled when the mod is activated.
+
 ### laanp-WorkshopFree_v1_w237_P.pak
 - All items in the Workshop are free. Go crazy!
 
