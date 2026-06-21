@@ -297,14 +297,6 @@ Separated Mods:
   - Condensed Enzymes - Used to craft statues at the Decoration Bench
   - Synthetic Enzymes	- Used as fuel for the Localized Terraforming Device
 
-### laanp-PetesTrees_v1_w237_P.pak
-- New craftable, deployable foliage for your base!
-- Creates new item called "Pete's Trees", craftable for free at the character level.
-- Allows for several variations of deployable foliage, including small & large fir/pine trees, palm trees, cactus & shrubs
-- Deployed foliage is immune to weather effects. 
-- Use 'R' while deploying the foliage for variations.
-- All deployable foliage can be picked up and moved, to enhance your base look! 
-
 ### laanp-PetMover_v1_w237_P.pak
 - Mod that allows your to teleport your pets.
 - Works in single player mode, as well as hosted multiplayer & dedicated server environments.
