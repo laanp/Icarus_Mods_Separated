@@ -395,15 +395,6 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
-### Some of my bundled mods (laanp-BuildersDream & laanp-Combined_QOL) were designed as a bundled standalone mods that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
-If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
-Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp_mod_compatibility_matrix.pdf) for a x-ref of laanp mods that can be used together in the game.
-
-### After a Game Update:
-It is generally good practice to follow this procedure when the game goes through an update: 
-   - After the files have been updated and patched, startup your Icarus game without any mods installed. 
-   - Go into character selection, and view the talent/tech trees, then exit the game completely.  
-   - Now install the new mods compatible with the week# and play the game.
 
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
@@ -435,20 +426,11 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
 - [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
 
-## laanp Mod Compatibility Matrix
-The [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp_mod_compatibility_matrix.pdf) is a pdf that will provide a visual x-ref of all of my separated mods, and the json files each affect. 
-
-### How to use this matrix:
-- Scan for your mod name in leftmost column and note the marked columns to the right showing associated json files that are affected. If any other mod is affecting the same file, then those mods are not compatible with the mod you have selected.
-
-### For example:
-- I scan for "laanp_LargerDropShipSlots" in leftmost column, and look across to the marked column of the json file affected.  In this case "D_InventoryInfo.json" is being affected.  But I also observe that my main "laanp-Combined_QOL_v1_w82" mod is also affecting this file, so the 2 mods are not compatible running together.  
-
 ## Disclaimer
 I have been playing with these mods for quite some time now, with no problems... having said that:
 - Backup and save all user data before installing or using any mods.
+- Make sure the Icarus Mod Manager by Jimk72 is updated to latest version, and Data Folder has been updated, after each weeks game update.
 - Use at your own risk.
-- This mod was designed as standalone, and may not be compatible with other mods.
 - Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
     with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
 - This mod changes storage cabinets & bench inventory slot sizes.  
