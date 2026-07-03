@@ -1,6 +1,6 @@
-laanp-StacksAndKits_v1_w239_P.pak
+laanp-StacksAndKits_v2_w239_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 3.0.17.153756 (Week: 239)
 
