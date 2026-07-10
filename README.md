@@ -16,7 +16,7 @@ To download the *.pak file, click on "Latest" Release button to the right of thi
 -------------------------------------------------------------------------------
 Combined Mods:
 -------------------------------------------------------------------------------
-### laanp-Combined_QOL_v1_w240_P.pak
+### laanp-Combined_QOL_v2_w240_P.pak
 - Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
