@@ -1,8 +1,8 @@
-laanp-TeleFly_v1_w239_P.pak
+laanp-TeleFly_v1_w240_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.17.153756 (Week: 239)
+Compatible with Icarus Version: Rev. 3.0.18.154111 (Week: 240)
 
 ## Description:
 Provides ability for your player to fly around the map and teleport to pointed-to locations, within visible range. 
@@ -73,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
