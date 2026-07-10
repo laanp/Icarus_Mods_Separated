@@ -1,6 +1,6 @@
-laanp-Combined_QOL_v1_w240_P.pak
+laanp-Combined_QOL_v2_w240_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 3.0.18.154111 (Week: 240)
 
