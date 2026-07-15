@@ -297,14 +297,6 @@ Separated Mods:
   - Condensed Enzymes - Used to craft statues at the Decoration Bench
   - Synthetic Enzymes	- Used as fuel for the Localized Terraforming Device
 
-### laanp-PetesTrees_v1_w240_P.pak
-- New craftable, deployable foliage for your base!
-- Creates new item called "Pete's Trees", craftable for free at the character level.
-- Allows for several variations of deployable foliage, including small & large fir/pine trees, palm trees, cactus & shrubs
-- Deployed foliage is immune to weather effects. 
-- Use 'R' while deploying the foliage for variations.
-- All deployable foliage can be picked up and moved, to enhance your base look! 
-
 ### laanp-PetMover_v1_w240_P.pak
 - Mod that allows your to teleport your pets.
 - Works in single player mode, as well as hosted multiplayer & dedicated server environments.
@@ -357,6 +349,12 @@ Separated Mods:
 - Provides ability for your player to fly around the map and teleport to pointed-to locations, within visible range.
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-TeleFly_Readme.md) for all the details.
 - Check out the "How-To-Use" video [Icarus Mod Highlight - laanp-TeleFly](https://youtu.be/dEAH3CUHuoM?si=4bLWv56SVpVPfBBG) for all the details.
+
+### laanp-TreesPlus_v1_w240_P.pak
+- New craftable, deployable trees for your base!
+- Creates new bench called "Deployable Trees and Foliage Bench", craftable for free in the character crafting menu.
+- From this bench, craft variations of deployable foliage.
+- Deployed foliage is immune to weather effects, wind, lightning and fire.
 
 ### laanp-WaypointTeleport_v1_w240_P.pak
 - Mod that allows player teleportation to your map waypoint marker.
