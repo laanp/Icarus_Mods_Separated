@@ -541,18 +541,6 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesToilet_Readme.md"
     },
     {
-      "name": "laanp-PetesTrees",
-      "author": "laanp",
-      "version": "1.0",
-      "compatibility": "w240",
-      "description": "New craftable, deployable trees for your base!",
-      "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w240/laanp-PetesTrees_v1_w240_P.pak"
-      },
-      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-PetesTrees.png",
-      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-PetesTrees_Readme.md"
-    },
-    {
       "name": "laanp-PetMover",
       "author": "laanp",
       "version": "1.0",
@@ -659,6 +647,18 @@
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-TeleFly_Readme.md"
+    },
+    {
+      "name": "laanp-TreesPlus",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w240",
+      "description": "New craftable, deployable trees for your base!",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w240/laanp-TreesPlus_v1_w240_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-TreesPlus.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-TreesPlus_Readme.md"
     },
     {
       "name": "laanp-WaypointTeleport",
