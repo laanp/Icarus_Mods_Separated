@@ -8,7 +8,7 @@ Compatible with Icarus Version: Rev. 3.0.19.154458 (Week: 241)
 A mod that allows moving a deployable item in real-time. 
 
 ## Mod Details:
-- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
+- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments. ** SEE BUG WARNING BELOW!! ***
 - Introduces a new craftable item called "Petes Move Deployable Tool" which you can craft in the character inventory.
 - Place the item in your Quickbar and perform the following commands:
   - LMB click, activate move mode for pointed-to deployable (brings up ghost image)
@@ -21,6 +21,8 @@ A mod that allows moving a deployable item in real-time.
 [Icarus - Mod Highlight - Pete's MoveDeployables](https://youtu.be/5lQvzr1Mlzo) 
 
 ## Additional Notes and things to be aware of:
+- *** BUG UPDATE WARNING *** - On dedicated server (and maybe hosting) I found a bug where sometimes the object disappears, if you change tools while the ghost image is active! - Use this tool at your own risk!!!
+  Working on this issue, stay tuned.
 - Moving the deployable will switch the foundation actor, for that deployable.  In other words if you stick a deployable on a wall, the wall now becomes the foundation actor and destroying that wall will result in an overflow bag.
 - Not all deployables will completely move properly.  Examples are deployables like the Water Purifier, filled with canteens, and the O2 benches filled with cannisters, the contents remain in original position.  This can be fixed by emptying the bench and refilling it with the containers.
 - Another example, is benches with multiple meshes, such as the fishing/Fillet bench, which moves as separate sections.
