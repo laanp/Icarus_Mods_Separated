@@ -1,8 +1,8 @@
-laanp-TreesPlus_v1_w241_P.pak
+laanp-TreesPlus_v1_w242_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.19.154458 (Week: 241)
+Compatible with Icarus Version: Rev. 3.0.20.154829 (Week: 242)
 
 ## Description:
 New craftable, deployable trees for your base!
