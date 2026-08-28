@@ -1,8 +1,8 @@
-laanp-MoveDeployables_v1_w246_P.pak
+laanp-MoveDeployables_v1_w247_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.24.156115 (Week: 246)
+Compatible with Icarus Version: Rev. 3.0.25.156508 (Week: 247)
 
 ## Description:
 A mod that allows moving a deployable item in real-time. 
@@ -73,6 +73,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
