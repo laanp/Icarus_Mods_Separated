@@ -1,8 +1,8 @@
-laanp-StoneWoodInterior_v1_w247_P.pak
+laanp-StoneWoodInterior_v1_w248_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.25.156508 (Week: 247)
+Compatible with Icarus Version: Rev. 3.0.26.156677 (Week: 248)
 
 ## Description:
 Changes stone building pieces to have interior wood on the inside, stone on the outside.
@@ -58,6 +58,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
