@@ -351,7 +351,7 @@ Separated Mods:
 - Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-TeleFly_Readme.md) for all the details.
 - Check out the "How-To-Use" video [Icarus Mod Highlight - laanp-TeleFly](https://youtu.be/dEAH3CUHuoM?si=4bLWv56SVpVPfBBG) for all the details.
 
-### laanp-TreesPlus_v1_w249_P.pak
+### laanp-TreesPlus_v2_w249_P.pak
 - New craftable, deployable trees for your base!
 - Creates new bench called "Deployable Trees and Foliage Bench", craftable for free in the character crafting menu.
 - From this bench, craft variations of deployable foliage.
