@@ -1,6 +1,6 @@
-laanp-TreesPlus_v1_w249_P.pak
+laanp-TreesPlus_v2_w249_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 3.0.27.157242 (Week: 249)
 
