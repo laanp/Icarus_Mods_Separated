@@ -1,8 +1,8 @@
-laanp-BetterRailings_v1_w250_P.pak
+laanp-BetterRailings_v1_w251_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.28.157342 (Week: 250)
+Compatible with Icarus Version: Rev. 3.0.29.157838 (Week: 251)
 
 ## Description:
 This mod adds railing options for diagonal floor pieces.
@@ -61,6 +61,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
