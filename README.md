@@ -333,6 +333,15 @@ Separated Mods:
 - Adds a new craftable item called "Pete's Refined Wood Beam EndCaps" that offers 2 variations of deployable end caps for Interior Wood Beams (Closed and Boxed variations).
 - Craftable at the Carpentry and Electric Carpentry Benches
 
+### laanp-RemoteControl_v1_w251_P.pak
+- Utility to toggle (open/closed, Off/On) any device pointed to... lights, fireplaces, doors, curtains, window shutters, bench/equipment power, etc.
+- Also allows remote inventory access
+- Introduces a new character-craftable mod called "Pete's Remote Control"
+- Move the mod to your quickbar, activate it, then point at any device and use:
+  - LMB click = Toggle the state of the pointed-to device.
+  - RMB click = Opens the pointed-to device inventory
+- This mod works in single player mode, as well as hosted multiplayer & dedicated server environments.
+
 ### laanp-RespawnResourcesOW_v1_w251_P.pak
 - Resets all Open World resources (Olympus, Styx, Promethius).  Use this mod whenever you want to reset your mines, nodes, trees, rocks.
 - How To Use:
@@ -442,12 +451,12 @@ I have been playing with these mods for quite some time now, with no problems...
 - Make sure the Icarus Mod Manager by Jimk72 is updated to latest version, and Data Folder has been updated, after each weeks game update.
 - Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
     with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
-- This mod changes storage cabinets & bench inventory slot sizes.  
-   If you fill all slots in these benches/storage cabinets on a prospect and return to it without these mods running, you will lose
+- Some mods changes storage cabinets & bench inventory slot sizes.  
+   If you fill all slots in these benches/storage cabinets on a prospect and return to it without those mods running, you will lose
    all those items in those additional slots. 
 - Feel free to drop me any ideas for mod changes/suggestions.
 - Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
-- Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material,
+- Feel free to unpack and reassemble with your modding tools, but if repacking and distributing, remove my "laanp" or "Pete's" name from any distribution material,
    and make sure you acknowledge credit to any contributing modders.
 
 ## How To Contact Me:
@@ -456,93 +465,5 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
