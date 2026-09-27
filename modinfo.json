@@ -617,8 +617,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w251",
-      "description": "Utility to toggle (open/closed, Off/On) any device pointed to... lights, fireplaces, doors, curtains, window shutters, bench/equipment power, etc. - Also allows remote inventory access (line-of-sight).
-",
+      "description": "Utility to toggle (open/closed, Off/On) any device pointed to... lights, fireplaces, doors, curtains, window shutters, bench/equipment power, etc - Also allows remote inventory access (line-of-sight).",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w251/laanp-RemoteControl_v1_w251_P.pak"
       },
