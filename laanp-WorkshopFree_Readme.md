@@ -1,8 +1,8 @@
-laanp-WorkshopFree_v1_w251_P.pak
+laanp-WorkshopFree_v1_w252_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.29.157838 (Week: 251)
+Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
 
 ## Description:
 All items in the Workshop are free to research & craft. Go crazy!
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
