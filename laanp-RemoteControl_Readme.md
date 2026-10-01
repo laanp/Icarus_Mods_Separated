@@ -1,12 +1,11 @@
-laanp-RemoteControl_v1_w251_P.pak
+laanp-RemoteControl_v1_w252_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.29.157838 (Week: 251)
+Compatible with Icarus Version: Rev. 3.0.30.158174 (Week: 252)
 
 ## Description:
-Utility to toggle (open/closed, Off/On) any device pointed to... lights, fireplaces, doors, curtains, window shutters, bench/equipment power, etc.
-Also allows remote inventory access
+Utility to toggle (open/closed, Off/On) any device pointed to... lights, fireplaces, doors, curtains, window shutters, bench/equipment power, etc - Also allows remote inventory access (line-of-sight).
 
 ## Mod Details:
 - Introduces a new character-craftable mod called "Pete's Remote Control"
@@ -64,5 +63,7 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
