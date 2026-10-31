@@ -268,10 +268,10 @@
       "name": "laanp-MoveDeployables",
       "author": "laanp",
       "version": "1.0",
-      "compatibility": "w253",
+      "compatibility": "w256",
       "description": "",
       "files": {
-        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w253/laanp-MoveDeployables_v1_w253_P.pak"
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w256/laanp-MoveDeployables_v1_w256_P.pak"
       },
       "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp.png",
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-MoveDeployables_Readme.md"
