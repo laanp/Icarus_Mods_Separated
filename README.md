@@ -165,7 +165,7 @@ Separated Mods:
 - Creates a new Workshop item under 'Pete's Kits' called 'Pete's Mini Foundry'.
 - A quarter-scale version of the original, that will fit on a single floor piece and in a single story building!  
 
-### laanp-MoveDeployables_v1_w253_P.pak
+### laanp-MoveDeployables_v1_w256_P.pak
 - A mod that allows moving, rotating or sizing any deployable object in real-time.
 - This mod works in single player mode ONLY!! - Hosted multiplayer & dedicated server environments not supported!
 - Introduces a new craftable item called "Petes Move Deployable Tool" which you can craft in the character inventory.
