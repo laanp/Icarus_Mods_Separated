@@ -1,8 +1,8 @@
-laanp-MoveDeployables_v1_w253_P.pak
+laanp-MoveDeployables_v1_w256_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.31.158478 (Week: 253)
+Compatible with Icarus Version: Rev. 3.0.34.159385 (Week: 256)
 
 ## Description:
 A mod that allows moving a deployable item in real-time. 
