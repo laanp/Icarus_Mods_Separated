@@ -269,7 +269,7 @@
       "author": "laanp",
       "version": "1.0",
       "compatibility": "w256",
-      "description": "",
+      "description": "A mod that allows moving a deployable item in real-time.",
       "files": {
         "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w256/laanp-MoveDeployables_v1_w256_P.pak"
       },
