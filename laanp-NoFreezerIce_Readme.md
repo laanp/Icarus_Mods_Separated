@@ -1,8 +1,8 @@
-laanp-NoFreezerIce_v1_w257_P.pak
+laanp-NoFreezerIce_v1_w258_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.35.159586 (Week: 257)
+Compatible with Icarus Version: Rev. 3.0.36.159996 (Week: 258)
 
 ## Description:
 Stops ice from accumulating in the Deep Freeze (freezer)
@@ -57,6 +57,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
