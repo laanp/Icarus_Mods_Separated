@@ -37,6 +37,18 @@
       "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-StacksAndKits_Readme.md"
     },
     {
+      "name": "laanp-AdjustableTram",
+      "author": "laanp",
+      "version": "1.0",
+      "compatibility": "w258",
+      "description": "This mod adds an adjustable tram (elevator or slider) that moves players who step on it.",
+      "files": {
+        "pak": "https://github.com/laanp/Icarus_Mods_Separated/releases/download/v1_w258/laanp-AdjustableTram_v1_w258_P.pak"
+      },
+      "imageURL": "https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-AdjustableTram.png",
+      "readmeURL": "https://github.com/laanp/Icarus_Mods_Separated/raw/main/laanp-AdjustableTram_Readme.md"
+    },
+    {
       "name": "laanp-BetterRailings",
       "author": "laanp",
       "version": "1.0",
