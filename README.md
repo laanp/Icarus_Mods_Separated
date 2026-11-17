@@ -35,6 +35,11 @@ Separated Mods:
 ### This utility will allow any number of mods to be merged to work properly together into a single pak file.
 -------------------------------------------------------------------------------
 
+### laanp-AdjustableTram_v1_w258_P.pak
+- This mod adds an adjustable tram (elevator or slider) that transports a player who steps on it!
+- Compatible with: Single Player, Hosted Multiplayer or Dedicated Server
+- Refer to the Readme file for further details.
+
 ### laanp-BetterRailings_v1_w258_P.pak
 - This mod adds railing options for diagonal floor pieces.
 - Compatible with: Single Player & Hosted Multiplayer or Dedicated Server
