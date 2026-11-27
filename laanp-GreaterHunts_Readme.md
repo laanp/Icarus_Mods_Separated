@@ -1,8 +1,8 @@
-laanp-GreaterHunts_v1_w259_P.pak
+laanp-GreaterHunts_v1_w260_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.37.160033 (Week: 259)
+Compatible with Icarus Version: Rev. 3.0.38.160489 (Week: 260)
 
 ## Description:
 Allows all Great Hunts Campaigns to be completed, without having to select only certain Campaign paths.   
@@ -56,6 +56,8 @@ Usually the server settings/mods will override anything running on the local cli
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
